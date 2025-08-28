@@ -1,0 +1,4330 @@
+[
+    {
+        "lesson": 1,
+        "data": [
+            {"kanji": "一つ","jp": "ひとつ","en": "one (thing)","uz": "bitta (narsa)","ru": "один (предмет)"},
+            {"kanji": "一人","jp": "ひとり","en": "one person","uz": "bitta odam","ru": "один человек"},
+            {
+                "kanji": "一日",
+                "jp": "ついたち / いちにち",
+                "en": "first day of the month / one day",
+                "uz": "birinchi kun / bir kun",
+                "ru": "первый день месяца / один день"
+            },
+            {
+                "kanji": "一緒に",
+                "jp": "いっしょに",
+                "en": "together",
+                "uz": "birga",
+                "ru": "вместе"
+            },
+            {
+                "kanji": "二つ",
+                "jp": "ふたつ",
+                "en": "two (things)",
+                "uz": "ikki (narsa)",
+                "ru": "два (предмета)"
+            },
+            {
+                "kanji": "二人",
+                "jp": "ふたり",
+                "en": "two people",
+                "uz": "ikki odam",
+                "ru": "два человека"
+            },
+            {
+                "kanji": "二日",
+                "jp": "ふつか",
+                "en": "second day of the month / two days",
+                "uz": "ikkinchi kun / ikki kun",
+                "ru": "второй день месяца / два дня"
+            },
+            {
+                "kanji": "二月",
+                "jp": "にがつ",
+                "en": "February",
+                "uz": "Fevral",
+                "ru": "Февраль"
+            },
+            {
+                "kanji": "三つ",
+                "jp": "みっつ",
+                "en": "three (things)",
+                "uz": "uchta (narsa)",
+                "ru": "три (предмета)"
+            },
+            {
+                "kanji": "三日",
+                "jp": "みっか",
+                "en": "third day of the month / three days",
+                "uz": "uchinchi kun / uch kun",
+                "ru": "третий день месяца / три дня"
+            },
+            {
+                "kanji": "三月",
+                "jp": "さんがつ",
+                "en": "March",
+                "uz": "Mart",
+                "ru": "Март"
+            },
+            {
+                "kanji": "三年",
+                "jp": "さんねん",
+                "en": "three years",
+                "uz": "uch yil",
+                "ru": "три года"
+            },
+            {
+                "kanji": "山",
+                "jp": "やま",
+                "en": "mountain",
+                "uz": "tog‘",
+                "ru": "гора"
+            },
+            {
+                "kanji": "山川さん",
+                "jp": "やまかわさん",
+                "en": "Mr./Ms. Yamakawa",
+                "uz": "Yamakava janob/janobasi",
+                "ru": "г-н/г-жа Ямакава"
+            },
+            {
+                "kanji": "山田さん",
+                "jp": "やまださん",
+                "en": "Mr./Ms. Yamada",
+                "uz": "Yamada janob/janobasi",
+                "ru": "г-н/г-жа Ямада"
+            },
+            {
+                "kanji": "(富士)山",
+                "jp": "（ふじ）さん",
+                "en": "(Mount Fuji)",
+                "uz": "(Fuji tog‘i)",
+                "ru": "(гора Фудзи)"
+            },
+            {
+                "kanji": "川",
+                "jp": "かわ",
+                "en": "river",
+                "uz": "daryo",
+                "ru": "река"
+            },
+            {
+                "kanji": "川口さん",
+                "jp": "かわぐちさん",
+                "en": "Mr./Ms. Kawaguchi",
+                "uz": "Kavaguchi janob/janobasi",
+                "ru": "г-н/г-жа Кавагути"
+            },
+            {
+                "kanji": "(ナイル)川",
+                "jp": "（ナイル）かわ",
+                "en": "(the Nile River)",
+                "uz": "(Nil daryosi)",
+                "ru": "(река Нил)"
+            },
+            {
+                "kanji": "目",
+                "jp": "め",
+                "en": "eye",
+                "uz": "ko‘z",
+                "ru": "глаз"
+            },
+            {
+                "kanji": "一つ目",
+                "jp": "ひとつめ",
+                "en": "the first",
+                "uz": "birinchi",
+                "ru": "первый"
+            },
+            {
+                "kanji": "目上",
+                "jp": "めうえ",
+                "en": "senior",
+                "uz": "katta",
+                "ru": "старший"
+            },
+            {
+                "kanji": "目下",
+                "jp": "めした",
+                "en": "junior",
+                "uz": "kichik",
+                "ru": "младший"
+            },
+            {
+                "kanji": "目的",
+                "jp": "もくてき",
+                "en": "purpose",
+                "uz": "maqsad",
+                "ru": "цель"
+            },
+            {
+                "kanji": "口",
+                "jp": "くち",
+                "en": "mouth",
+                "uz": "og‘iz",
+                "ru": "рот"
+            },
+            {
+                "kanji": "入(り)口",
+                "jp": "いりぐち",
+                "en": "entrance",
+                "uz": "kirish",
+                "ru": "вход"
+            },
+            {
+                "kanji": "出口",
+                "jp": "でぐち",
+                "en": "exit",
+                "uz": "chiqish",
+                "ru": "выход"
+            },
+            {
+                "kanji": "東口",
+                "jp": "ひがしぐち",
+                "en": "east exit",
+                "uz": "sharqiy chiqish",
+                "ru": "восточный выход"
+            },
+            {
+                "kanji": "人口",
+                "jp": "じんこう",
+                "en": "population",
+                "uz": "aholi",
+                "ru": "население"
+            },
+            {
+                "kanji": "人",
+                "jp": "ひと",
+                "en": "person",
+                "uz": "odam",
+                "ru": "человек"
+            },
+            {
+                "kanji": "三人",
+                "jp": "さんにん",
+                "en": "three people",
+                "uz": "uch odam",
+                "ru": "три человека"
+            },
+            {
+                "kanji": "人形",
+                "jp": "にんぎょう",
+                "en": "doll",
+                "uz": "qo'g'irchoq",
+                "ru": "кукла"
+            },
+            {
+                "kanji": "(イギリス)人",
+                "jp": "（イギリス）じん",
+                "en": "British person",
+                "uz": "britaniyalik",
+                "ru": "британец"
+            },
+            {
+                "kanji": "大人",
+                "jp": "おとな",
+                "en": "adult",
+                "uz": "katta",
+                "ru": "взрослый"
+            },
+            {
+                "kanji": "木",
+                "jp": "き",
+                "en": "tree, wood",
+                "uz": "daraxt, yog‘och",
+                "ru": "дерево, древесина"
+            },
+            {
+                "kanji": "木曜日",
+                "jp": "もくようび",
+                "en": "Thursday",
+                "uz": "Payshanba",
+                "ru": "Четверг"
+            },
+            {
+                "kanji": "木綿",
+                "jp": "もめん",
+                "en": "cotton",
+                "uz": "paxta",
+                "ru": "хлопок"
+            },
+            {
+                "kanji": "休み",
+                "jp": "やすみ",
+                "en": "rest, holiday",
+                "uz": "dam olish, ta'til",
+                "ru": "отдых, праздник"
+            },
+            {
+                "kanji": "休む",
+                "jp": "やすむ",
+                "en": "to rest, to take a holiday",
+                "uz": "dam olmoq, ta'til qilmoq",
+                "ru": "отдыхать, брать отпуск"
+            },
+            {
+                "kanji": "休日",
+                "jp": "きゅうじつ",
+                "en": "holiday, day off",
+                "uz": "bayram, dam olish kuni",
+                "ru": "праздник, выходной день"
+            },
+            {
+                "kanji": "有休",
+                "jp": "ゆうきゅう",
+                "en": "paid holiday",
+                "uz": "maoshli ta'til",
+                "ru": "оплачиваемый отпуск"
+            },
+            {
+                "kanji": "定休日",
+                "jp": "ていきゅうび",
+                "en": "regular holiday",
+                "uz": "doimiy dam olish kuni",
+                "ru": "регулярный выходной"
+            },
+            {
+                "kanji": "山本さん",
+                "jp": "やまもとさん",
+                "en": "Mr./Ms. Yamamoto",
+                "uz": "Yamamoto janob/janobasi",
+                "ru": "г-н/г-жа Ямамото"
+            },
+            {
+                "kanji": "本",
+                "jp": "ほん",
+                "en": "book, origin",
+                "uz": "kitob, manba",
+                "ru": "книга, источник"
+            },
+            {
+                "kanji": "本当",
+                "jp": "ほんとう",
+                "en": "truth, reality",
+                "uz": "haqiqat, haqiqat",
+                "ru": "правда, реальность"
+            },
+            {
+                "kanji": "本棚",
+                "jp": "ほんだな",
+                "en": "bookshelf",
+                "uz": "kitob javoni",
+                "ru": "книжная полка"
+            },
+            {
+                "kanji": "日本",
+                "jp": "にほん",
+                "en": "Japan",
+                "uz": "Yaponiya",
+                "ru": "Япония"
+            },
+            {
+                "kanji": "体",
+                "jp": "からだ",
+                "en": "body",
+                "uz": "tana",
+                "ru": "тело"
+            },
+            {
+                "kanji": "体力",
+                "jp": "たいりょく",
+                "en": "physical strength",
+                "uz": "jismoniy kuch",
+                "ru": "физическая сила"
+            },
+            {
+                "kanji": "田んぼ",
+                "jp": "たんぼ",
+                "en": "rice field",
+                "uz": "guruch maydoni",
+                "ru": "рисовое поле"
+            },
+            {
+                "kanji": "田中さん",
+                "jp": "たなかさん",
+                "en": "Mr./Ms. Tanaka",
+                "uz": "Tanaka janob/janobasi",
+                "ru": "г-н/г-жа Танака"
+            },
+            {
+                "kanji": "田舎",
+                "jp": "いなか",
+                "en": "countryside, hometown",
+                "uz": "qishloq, tug‘ilgan joy",
+                "ru": "деревня, родной город"
+            },
+            {
+                "kanji": "力",
+                "jp": "ちから",
+                "en": "power, strength",
+                "uz": "quvvat, kuch",
+                "ru": "сила, мощь"
+            },
+            {
+                "kanji": "男",
+                "jp": "おとこ",
+                "en": "man",
+                "uz": "erkak",
+                "ru": "мужчина"
+            },
+            {
+                "kanji": "男の子",
+                "jp": "おとこのこ",
+                "en": "boy",
+                "uz": "o‘g‘il bola",
+                "ru": "мальчик"
+            },
+            {
+                "kanji": "男の人",
+                "jp": "おとこのひと",
+                "en": "man",
+                "uz": "erkak kishi",
+                "ru": "мужчина"
+            },
+            {
+                "kanji": "男性",
+                "jp": "だんせい",
+                "en": "male",
+                "uz": "erkak",
+                "ru": "мужчина"
+            },
+            {
+                "kanji": "長男",
+                "jp": "ちょうなん",
+                "en": "eldest son",
+                "uz": "katta o‘g‘il",
+                "ru": "старший сын"
+            },
+            {
+                "kanji": "女",
+                "jp": "おんな",
+                "en": "woman",
+                "uz": "ayol",
+                "ru": "женщина"
+            },
+            {"kanji": "女の子","jp": "おんなのこ","en": "girl","uz": "qiz bola","ru": "девочка"},
+            {"kanji": "彼女","jp": "かのじょ","en": "she, girlfriend","uz": "u (ayol), qiz do‘st","ru": "она, девушка"},
+            {"kanji": "女性","jp": "じょせい","en": "female","uz": "ayol","ru": "женщина"},
+            {"kanji": "女房","jp": "にょうぼう","en": "wife","uz": "xotin","ru": "жена"},
+            {"kanji": "安い","jp": "やすい","en": "cheap, inexpensive","uz": "arzon","ru": "дешевый"},
+            {"kanji": "円安","jp": "えんやす","en": "weak yen","uz": "zaif yen","ru": "слабый иен"},
+            {"kanji": "安全な","jp": "あんぜんな","en": "safe","uz": "xavfsiz","ru": "безопасный"},
+            {"kanji": "安心する","jp": "あんしんする","en": "to feel relieved","uz": "xotirjam bo‘lish","ru": "чувствовать себя спокойно"},
+            {"kanji": "不安な","jp": "ふあんな","en": "anxious, uneasy","uz": "bezovta, noxush","ru": "тревожный, беспокойный"}
+        ]
+    },
+    {
+        "lesson": 2,
+        "data": [
+            {
+                "kanji": "上",
+                "jp": "うえ",
+                "en": "above, on",
+                "uz": "ustida, yuqorida",
+                "ru": "над, на"
+            },
+            {
+                "kanji": "上げる",
+                "jp": "あげる",
+                "en": "to raise, to lift",
+                "uz": "ko‘tarmoq",
+                "ru": "поднимать"
+            },
+            {
+                "kanji": "売り上げ",
+                "jp": "うりあげ",
+                "en": "sales, revenue",
+                "uz": "daromad",
+                "ru": "выручка"
+            },
+            {
+                "kanji": "下",
+                "jp": "した",
+                "en": "under, below",
+                "uz": "tagida",
+                "ru": "под, ниже"
+            },
+            {
+                "kanji": "靴下",
+                "jp": "くつした",
+                "en": "socks",
+                "uz": "paypoq",
+                "ru": "носки"
+            },
+            {
+                "kanji": "下がる",
+                "jp": "さがる",
+                "en": "to go down, to drop",
+                "uz": "pastga tushmoq",
+                "ru": "падать, опускаться"
+            },
+            {
+                "kanji": "待って下さい",
+                "jp": "まってください",
+                "en": "please wait",
+                "uz": "kuting iltimos",
+                "ru": "подождите, пожалуйста"
+            },
+            {
+                "kanji": "下手な",
+                "jp": "へたな",
+                "en": "unskillful, poor at",
+                "uz": "no‘noq",
+                "ru": "неумелый"
+            },
+            {
+                "kanji": "廊下",
+                "jp": "ろうか",
+                "en": "corridor, hallway",
+                "uz": "koridor, yo‘lak",
+                "ru": "коридор"
+            },
+            {
+                "kanji": "下宿する",
+                "jp": "げしゅくする",
+                "en": "to board, to lodge",
+                "uz": "ijarada turmoq",
+                "ru": "снимать комнату"
+            },
+            {
+                "kanji": "中",
+                "jp": "なか",
+                "en": "inside, middle",
+                "uz": "ichi",
+                "ru": "середина, внутри"
+            },
+            {
+                "kanji": "背中",
+                "jp": "せなか",
+                "en": "back (of body)",
+                "uz": "bel",
+                "ru": "спина"
+            },
+            {
+                "kanji": "一日中",
+                "jp": "いちにちじゅう",
+                "en": "all day long",
+                "uz": "bir kun ichida",
+                "ru": "весь день"
+            },
+            {
+                "kanji": "電話中",
+                "jp": "でんわちゅう",
+                "en": "on the phone",
+                "uz": "telefonda gaplashyotgan vaqt",
+                "ru": "занят телефоном"
+            },
+            {
+                "kanji": "途中",
+                "jp": "とちゅう",
+                "en": "on the way, en route",
+                "uz": "yarim yo‘lda",
+                "ru": "по пути"
+            },
+            {
+                "kanji": "大きい",
+                "jp": "おおきい",
+                "en": "big, large",
+                "uz": "katta",
+                "ru": "большой"
+            },
+            {
+                "kanji": "大勢",
+                "jp": "おおぜい",
+                "en": "many people",
+                "uz": "ko‘p odam",
+                "ru": "много людей"
+            },
+            {
+                "kanji": "大人",
+                "jp": "おとな",
+                "en": "adult",
+                "uz": "balog’atga yetgan odam",
+                "ru": "взрослый"
+            },
+            {
+                "kanji": "大学",
+                "jp": "だいがく",
+                "en": "university",
+                "uz": "universitet",
+                "ru": "университет"
+            },
+            {
+                "kanji": "大丈夫な",
+                "jp": "だいじょうぶな",
+                "en": "all right, okay",
+                "uz": "hatosiz, to’gri",
+                "ru": "в порядке, нормально"
+            },
+            {
+                "kanji": "大切な",
+                "jp": "たいせつな",
+                "en": "important",
+                "uz": "muhim",
+                "ru": "важный"
+            },
+            {
+                "kanji": "太い",
+                "jp": "ふとい",
+                "en": "fat, thick",
+                "uz": "semiz, yog‘on",
+                "ru": "толстый"
+            },
+            {
+                "kanji": "太る",
+                "jp": "ふとる",
+                "en": "to gain weight",
+                "uz": "semirmoq",
+                "ru": "толстеть"
+            },
+            {
+                "kanji": "太陽",
+                "jp": "たいよう",
+                "en": "sun",
+                "uz": "quyosh",
+                "ru": "солнце"
+            },
+            {
+                "kanji": "太平洋",
+                "jp": "たいへいよう",
+                "en": "Pacific Ocean",
+                "uz": "Tinch okeani",
+                "ru": "Тихий океан"
+            },
+            {
+                "kanji": "小さい",
+                "jp": "ちいさい",
+                "en": "small",
+                "uz": "kichkina",
+                "ru": "маленький"
+            },
+            {
+                "kanji": "小川さん",
+                "jp": "おがわさん",
+                "en": "Mr./Ms. Ogawa",
+                "uz": "janob Ogawa",
+                "ru": "г-н/г-жа Огава"
+            },
+            {
+                "kanji": "小鳥",
+                "jp": "ことり",
+                "en": "small bird",
+                "uz": "qushcha",
+                "ru": "птичка"
+            },
+            {
+                "kanji": "小切手",
+                "jp": "こぎって",
+                "en": "check (bank)",
+                "uz": "chek",
+                "ru": "чек"
+            },
+            {
+                "kanji": "小学校",
+                "jp": "しょうがっこう",
+                "en": "elementary school",
+                "uz": "boshlang‘ich maktab",
+                "ru": "начальная школа"
+            },
+            {
+                "kanji": "少し",
+                "jp": "すこし",
+                "en": "a little, few",
+                "uz": "oz, bir oz",
+                "ru": "немного"
+            },
+            {
+                "kanji": "少ない",
+                "jp": "すくない",
+                "en": "few, scarce",
+                "uz": "kam",
+                "ru": "мало"
+            },
+            {
+                "kanji": "少年",
+                "jp": "しょうねん",
+                "en": "boy, young man",
+                "uz": "o'smir",
+                "ru": "мальчик, юноша"
+            },
+            {
+                "kanji": "少女",
+                "jp": "しょうじょ",
+                "en": "girl, young lady",
+                "uz": "qizcha",
+                "ru": "девочка"
+            },
+            {
+                "kanji": "多少",
+                "jp": "たしょう",
+                "en": "more or less, some amount",
+                "uz": "son, miqdor",
+                "ru": "немного, несколько"
+            },
+            {
+                "kanji": "入る",
+                "jp": "はいる",
+                "en": "to enter",
+                "uz": "kirish",
+                "ru": "входить"
+            },
+            {
+                "kanji": "入れる",
+                "jp": "いれる",
+                "en": "to put in, to insert",
+                "uz": "qo‘yish",
+                "ru": "положить"
+            },
+            {
+                "kanji": "入り口",
+                "jp": "いりぐち",
+                "en": "entrance",
+                "uz": "kirish",
+                "ru": "вход"
+            },
+            {
+                "kanji": "入学する",
+                "jp": "にゅうがくする",
+                "en": "to enter school",
+                "uz": "universitetga kirmoq",
+                "ru": "поступить в школу/университет"
+            },
+            {
+                "kanji": "輸入する",
+                "jp": "ゆにゅうする",
+                "en": "to import",
+                "uz": "import qilish",
+                "ru": "импортировать"
+            },
+            {
+                "kanji": "出る",
+                "jp": "でる",
+                "en": "to exit, to leave",
+                "uz": "chiqmoq",
+                "ru": "выходить"
+            },
+            {
+                "kanji": "出口",
+                "jp": "でぐち",
+                "en": "exit",
+                "uz": "chiqish",
+                "ru": "выход"
+            },
+            {
+                "kanji": "出す",
+                "jp": "だす",
+                "en": "to submit, to put out",
+                "uz": "topshirmoq",
+                "ru": "выдавать, сдавать"
+            },
+            {
+                "kanji": "思い出す",
+                "jp": "おもいだす",
+                "en": "to recall, to remember",
+                "uz": "eslamoq",
+                "ru": "вспоминать"
+            },
+            {
+                "kanji": "輸出する",
+                "jp": "ゆしゅつする",
+                "en": "to export",
+                "uz": "eksport qilish",
+                "ru": "экспортировать"
+            },
+            {
+                "kanji": "子供",
+                "jp": "こども",
+                "en": "child",
+                "uz": "bola",
+                "ru": "ребенок"
+            },
+            {
+                "kanji": "男の子",
+                "jp": "おとこのこ",
+                "en": "boy",
+                "uz": "o‘g‘il bola",
+                "ru": "мальчик"
+            },
+            {
+                "kanji": "女の子",
+                "jp": "おんなのこ",
+                "en": "girl",
+                "uz": "qiz bola",
+                "ru": "девочка"
+            },
+            {
+                "kanji": "お子さん",
+                "jp": "おこさん",
+                "en": "child (polite)",
+                "uz": "farzandingiz",
+                "ru": "ваш ребенок"
+            },
+            {
+                "kanji": "帽子",
+                "jp": "ぼうし",
+                "en": "hat",
+                "uz": "shlyapa",
+                "ru": "шляпа"
+            },
+            {
+                "kanji": "学生",
+                "jp": "がくせい",
+                "en": "student",
+                "uz": "talaba",
+                "ru": "студент"
+            },
+            {
+                "kanji": "大学",
+                "jp": "だいがく",
+                "en": "university student",
+                "uz": "universitet talabasi",
+                "ru": "студент университета"
+            },
+            {
+                "kanji": "留学生",
+                "jp": "りゅうがくせい",
+                "en": "international student",
+                "uz": "chet el talabasi",
+                "ru": "иностранный студент"
+            },
+            {
+                "kanji": "学部",
+                "jp": "がくぶ",
+                "en": "faculty, department",
+                "uz": "fakul’tet",
+                "ru": "факультет"
+            },
+            {
+                "kanji": "数学",
+                "jp": "すうがく",
+                "en": "mathematics",
+                "uz": "matematika",
+                "ru": "математика"
+            },
+            {
+                "kanji": "学校",
+                "jp": "がっこう",
+                "en": "school",
+                "uz": "maktab",
+                "ru": "школа"
+            },
+            {
+                "kanji": "四つ",
+                "jp": "よっつ",
+                "en": "four (things)",
+                "uz": "to‘rtta",
+                "ru": "четыре"
+            },
+            {
+                "kanji": "四日",
+                "jp": "よっか",
+                "en": "fourth day",
+                "uz": "to‘rtinchi chislo",
+                "ru": "четвертое число"
+            },
+            {
+                "kanji": "四",
+                "jp": "よん/し",
+                "en": "four",
+                "uz": "to‘rt",
+                "ru": "четыре"
+            },
+            {
+                "kanji": "四年",
+                "jp": "よんねん",
+                "en": "four years",
+                "uz": "to‘rt yil",
+                "ru": "четыре года"
+            },
+            {
+                "kanji": "四月",
+                "jp": "しがつ",
+                "en": "April",
+                "uz": "Aprel",
+                "ru": "Апрель"
+            },
+            {
+                "kanji": "五つ",
+                "jp": "いつつ",
+                "en": "five (things)",
+                "uz": "besh dona",
+                "ru": "пять"
+            },
+            {
+                "kanji": "五日",
+                "jp": "いつか",
+                "en": "fifth day",
+                "uz": "beshinchi chislo",
+                "ru": "пятое число"
+            },
+            {
+                "kanji": "五",
+                "jp": "ご",
+                "en": "five",
+                "uz": "besh",
+                "ru": "пять"
+            },
+            {
+                "kanji": "五月",
+                "jp": "ごがつ",
+                "en": "May",
+                "uz": "may",
+                "ru": "май"
+            },
+            {
+                "kanji": "五年",
+                "jp": "ごねん",
+                "en": "five years",
+                "uz": "besh yil",
+                "ru": "пять лет"
+            },
+            {
+                "kanji": "六つ",
+                "jp": "むっつ",
+                "en": "six (things)",
+                "uz": "olti dona",
+                "ru": "шесть"
+            },
+            {
+                "kanji": "六日",
+                "jp": "むいか",
+                "en": "sixth day",
+                "uz": "oltinchi chislo",
+                "ru": "шестое число"
+            },
+            {
+                "kanji": "六月",
+                "jp": "ろくがつ",
+                "en": "June",
+                "uz": "iyun",
+                "ru": "июнь"
+            },
+            {
+                "kanji": "六年",
+                "jp": "ろくねん",
+                "en": "six years",
+                "uz": "olti yil",
+                "ru": "шесть лет"
+            },
+            {
+                "kanji": "六分",
+                "jp": "ろっぷん",
+                "en": "six minutes",
+                "uz": "olti daqiqa",
+                "ru": "шесть минут"
+            },
+            {
+                "kanji": "七つ",
+                "jp": "ななつ",
+                "en": "seven (things)",
+                "uz": "yeti dona",
+                "ru": "семь"
+            },
+            {
+                "kanji": "七日",
+                "jp": "なのか",
+                "en": "seventh day",
+                "uz": "yettinchi chislo",
+                "ru": "седьмое число"
+            },
+            {
+                "kanji": "七",
+                "jp": "なな/しち",
+                "en": "seven",
+                "uz": "yeti",
+                "ru": "семь"
+            },
+            {
+                "kanji": "七月",
+                "jp": "しちがつ",
+                "en": "July",
+                "uz": "iyul",
+                "ru": "июль"
+            },
+            {
+                "kanji": "七年",
+                "jp": "ななねん/しちねん",
+                "en": "seven years",
+                "uz": "yeti yil",
+                "ru": "семь лет"
+            },
+            {
+                "kanji": "八つ",
+                "jp": "やっつ",
+                "en": "eight (things)",
+                "uz": "sakkiz dona",
+                "ru": "восемь"
+            },
+            {
+                "kanji": "八日",
+                "jp": "ようか",
+                "en": "eighth day",
+                "uz": "sakkizinchi chislo",
+                "ru": "восьмое число"
+            },
+            {
+                "kanji": "八月",
+                "jp": "はちがつ",
+                "en": "August",
+                "uz": "avgust",
+                "ru": "август"
+            },
+            {
+                "kanji": "八年",
+                "jp": "はちねん",
+                "en": "eight years",
+                "uz": "sakkiz yil",
+                "ru": "восемь лет"
+            },
+            {
+                "kanji": "八分",
+                "jp": "はっぷん",
+                "en": "eight minutes",
+                "uz": "sakkiz daqiqa",
+                "ru": "восемь минут"
+            },
+            {
+                "kanji": "九つ",
+                "jp": "ここのつ",
+                "en": "nine (things)",
+                "uz": "to‘qqiz dona",
+                "ru": "девять"
+            },
+            {
+                "kanji": "九日",
+                "jp": "ここのか",
+                "en": "ninth day",
+                "uz": "to‘qqizinchi chislo",
+                "ru": "девятое число"
+            },
+            {
+                "kanji": "九",
+                "jp": "きゅう/く",
+                "en": "nine",
+                "uz": "to‘qqiz",
+                "ru": "девять"
+            },
+            {
+                "kanji": "九年",
+                "jp": "きゅうねん",
+                "en": "nine years",
+                "uz": "to‘qqiz yil",
+                "ru": "девять лет"
+            },
+            {
+                "kanji": "九月",
+                "jp": "くがつ",
+                "en": "September",
+                "uz": "sentyabr",
+                "ru": "сентябрь"
+            },
+            {
+                "kanji": "十",
+                "jp": "とお",
+                "en": "ten",
+                "uz": "o‘n",
+                "ru": "десять"
+            },
+            {
+                "kanji": "十日",
+                "jp": "とおか",
+                "en": "tenth day",
+                "uz": "o‘ninchi chislo",
+                "ru": "десятое число"
+            },
+            {
+                "kanji": "十月",
+                "jp": "じゅうがつ",
+                "en": "October",
+                "uz": "oktyabr",
+                "ru": "октябрь"
+            },
+            {
+                "kanji": "十分な",
+                "jp": "じゅうぶんな",
+                "en": "enough, sufficient",
+                "uz": "yetarli",
+                "ru": "достаточно"
+            },
+            {
+                "kanji": "十分",
+                "jp": "じゅっぷん",
+                "en": "ten minutes",
+                "uz": "o‘n daqiqa",
+                "ru": "десять минут"
+            },
+            {
+                "kanji": "二十日",
+                "jp": "はつか",
+                "en": "twentieth day",
+                "uz": "yigirmanchi chislo",
+                "ru": "двадцатое число"
+            },
+            {
+                "kanji": "二十歳",
+                "jp": "はたち",
+                "en": "twenty years old",
+                "uz": "yigirma yosh",
+                "ru": "двадцать лет"
+            },
+            {
+                "kanji": "古い",
+                "jp": "ふるい",
+                "en": "old",
+                "uz": "eski",
+                "ru": "старый"
+            },
+            {
+                "kanji": "中古車",
+                "jp": "ちゅうごしゃ",
+                "en": "used car",
+                "uz": "ishlatilgan avtomobil",
+                "ru": "подержанный автомобиль"
+            }
+        ]
+    },
+    {
+        "lesson": 3,
+        "data": [
+            {
+                "kanji": "百",
+                "jp": "ひゃく",
+                "en": "hundred",
+                "uz": "yuz",
+                "ru": "сто"
+            },
+            {
+                "kanji": "三百",
+                "jp": "さんびゃく",
+                "en": "three hundred",
+                "uz": "uch yuz",
+                "ru": "триста"
+            },
+            {
+                "kanji": "八百",
+                "jp": "はっぴゃく",
+                "en": "eight hundred",
+                "uz": "sakkiz yuz",
+                "ru": "восемьсот"
+            },
+            {
+                "kanji": "八百屋",
+                "jp": "やおや",
+                "en": "greengrocer",
+                "uz": "sabzavot do‘koni",
+                "ru": "овощной магазин"
+            },
+            {
+                "kanji": "千",
+                "jp": "せん",
+                "en": "thousand",
+                "uz": "ming",
+                "ru": "тысяча"
+            },
+            {
+                "kanji": "千円",
+                "jp": "せんえん",
+                "en": "1000 yen",
+                "uz": "ming yen",
+                "ru": "тысяча йен"
+            },
+            {
+                "kanji": "三千",
+                "jp": "さんぜん",
+                "en": "three thousand",
+                "uz": "uch ming",
+                "ru": "три тысячи"
+            },
+            {
+                "kanji": "万",
+                "jp": "まん",
+                "en": "ten thousand",
+                "uz": "o'n ming",
+                "ru": "десять тысяч"
+            },
+            {
+                "kanji": "百万円",
+                "jp": "ひゃくまんえん",
+                "en": "million yen",
+                "uz": "million yen",
+                "ru": "миллион йен"
+            },
+            {
+                "kanji": "万年筆",
+                "jp": "まんねんひつ",
+                "en": "fountain pen",
+                "uz": "siyohli ruchka",
+                "ru": "перьевая ручка"
+            },
+            {
+                "kanji": "円い",
+                "jp": "まるい",
+                "en": "round",
+                "uz": "dumaloq",
+                "ru": "круглый"
+            },
+            {
+                "kanji": "円",
+                "jp": "えん",
+                "en": "yen",
+                "uz": "yen",
+                "ru": "йена"
+            },
+            {
+                "kanji": "三千円",
+                "jp": "さんぜんえん",
+                "en": "3000 yen",
+                "uz": "uch ming yen",
+                "ru": "три тысячи йен"
+            },
+            {
+                "kanji": "一万円",
+                "jp": "いちまんえん",
+                "en": "10,000 yen",
+                "uz": "o'n ming yen",
+                "ru": "десять тысяч йен"
+            },
+            {
+                "kanji": "円高",
+                "jp": "えんだか",
+                "en": "high yen (strong currency)",
+                "uz": "yena kursi oshishi",
+                "ru": "высокий курс йены"
+            },
+            {
+                "kanji": "日",
+                "jp": "ひ",
+                "en": "day, sun",
+                "uz": "kun",
+                "ru": "день, солнце"
+            },
+            {
+                "kanji": "木曜日",
+                "jp": "もくようび",
+                "en": "Thursday",
+                "uz": "payshanba",
+                "ru": "четверг"
+            },
+            {
+                "kanji": "二日",
+                "jp": "ふつか",
+                "en": "second day",
+                "uz": "ikkinchi chislo",
+                "ru": "второе число"
+            },
+            {
+                "kanji": "毎日",
+                "jp": "まいにち",
+                "en": "every day",
+                "uz": "har kuni",
+                "ru": "каждый день"
+            },
+            {
+                "kanji": "日記",
+                "jp": "にっき",
+                "en": "diary",
+                "uz": "kundalik",
+                "ru": "дневник"
+            },
+            {
+                "kanji": "日本",
+                "jp": "にほん",
+                "en": "Japan",
+                "uz": "Yaponiya",
+                "ru": "Япония"
+            },
+            {
+                "kanji": "今日",
+                "jp": "きょう",
+                "en": "today",
+                "uz": "bugun",
+                "ru": "сегодня"
+            },
+            {
+                "kanji": "昨日",
+                "jp": "きのう",
+                "en": "yesterday",
+                "uz": "kecha",
+                "ru": "вчера"
+            },
+            {
+                "kanji": "明日",
+                "jp": "あした",
+                "en": "tomorrow",
+                "uz": "ertaga",
+                "ru": "завтра"
+            },
+            {
+                "kanji": "明日",
+                "jp": "あす",
+                "en": "tomorrow (formal/written)",
+                "uz": "ertasi kun",
+                "ru": "завтра"
+            },
+            {
+                "kanji": "月",
+                "jp": "つき",
+                "en": "moon, month",
+                "uz": "oy",
+                "ru": "луна, месяц"
+            },
+            {
+                "kanji": "一月",
+                "jp": "いちがつ",
+                "en": "January",
+                "uz": "yanvar",
+                "ru": "январь"
+            },
+            {
+                "kanji": "月曜日",
+                "jp": "げつようび",
+                "en": "Monday",
+                "uz": "dushanba",
+                "ru": "понедельник"
+            },
+            {
+                "kanji": "今月",
+                "jp": "こんげつ",
+                "en": "this month",
+                "uz": "bu oy",
+                "ru": "этот месяц"
+            },
+            {
+                "kanji": "先月",
+                "jp": "せんげつ",
+                "en": "last month",
+                "uz": "o‘tgani oy",
+                "ru": "прошлый месяц"
+            },
+            {
+                "kanji": "来月",
+                "jp": "らいげつ",
+                "en": "next month",
+                "uz": "kelgusi oy",
+                "ru": "следующий месяц"
+            },
+            {
+                "kanji": "再来月",
+                "jp": "さらいげつ",
+                "en": "month after next",
+                "uz": "bir oy keyin",
+                "ru": "через месяц"
+            },
+            {
+                "kanji": "一ヶ月",
+                "jp": "いっかげつ",
+                "en": "one month",
+                "uz": "bir oy davomida",
+                "ru": "один месяц"
+            },
+            {
+                "kanji": "明るい",
+                "jp": "あかるい",
+                "en": "bright, cheerful",
+                "uz": "yorug‘",
+                "ru": "светлый"
+            },
+            {
+                "kanji": "説明する",
+                "jp": "せつめいする",
+                "en": "to explain",
+                "uz": "tushuntirish",
+                "ru": "объяснять"
+            },
+            {
+                "kanji": "立つ",
+                "jp": "たつ",
+                "en": "to stand",
+                "uz": "turmoq",
+                "ru": "стоять"
+            },
+            {
+                "kanji": "立てる",
+                "jp": "たてる",
+                "en": "to set up, erect",
+                "uz": "qo‘ymoq",
+                "ru": "ставить, возводить"
+            },
+            {
+                "kanji": "国立の",
+                "jp": "こくりつの",
+                "en": "national",
+                "uz": "milliy, davlat",
+                "ru": "национальный"
+            },
+            {
+                "kanji": "独立する",
+                "jp": "どくりつする",
+                "en": "to become independent",
+                "uz": "mustaqil bo‘lmoq",
+                "ru": "становиться независимым"
+            },
+            {
+                "kanji": "立派な",
+                "jp": "りっぱな",
+                "en": "splendid, fine",
+                "uz": "ajoyib",
+                "ru": "прекрасный"
+            },
+            {
+                "kanji": "音",
+                "jp": "おと",
+                "en": "sound",
+                "uz": "tovush",
+                "ru": "звук"
+            },
+            {
+                "kanji": "音楽",
+                "jp": "おんがく",
+                "en": "music",
+                "uz": "musiqa",
+                "ru": "музыка"
+            },
+            {
+                "kanji": "発音",
+                "jp": "はつおん",
+                "en": "pronunciation",
+                "uz": "talaffuz",
+                "ru": "произношение"
+            },
+            {
+                "kanji": "暗い",
+                "jp": "くらい",
+                "en": "dark",
+                "uz": "qorong‘i",
+                "ru": "темный"
+            },
+            {
+                "kanji": "暗室",
+                "jp": "あんしつ",
+                "en": "dark room, darkroom",
+                "uz": "qorong‘i xona",
+                "ru": "темная комната"
+            },
+            {
+                "kanji": "火",
+                "jp": "ひ",
+                "en": "fire",
+                "uz": "olov",
+                "ru": "огонь"
+            },
+            {
+                "kanji": "火曜日",
+                "jp": "かようび",
+                "en": "Tuesday",
+                "uz": "seshanba",
+                "ru": "вторник"
+            },
+            {
+                "kanji": "花火",
+                "jp": "はなび",
+                "en": "fireworks",
+                "uz": "mushakbozlik",
+                "ru": "фейерверк"
+            },
+            {
+                "kanji": "火事",
+                "jp": "かじ",
+                "en": "fire (disaster)",
+                "uz": "yong‘in",
+                "ru": "пожар"
+            },
+            {
+                "kanji": "火山",
+                "jp": "かざん",
+                "en": "volcano",
+                "uz": "vulqon",
+                "ru": "вулкан"
+            },
+            {
+                "kanji": "水",
+                "jp": "みず",
+                "en": "water",
+                "uz": "suv",
+                "ru": "вода"
+            },
+            {
+                "kanji": "水曜日",
+                "jp": "すいようび",
+                "en": "Wednesday",
+                "uz": "chorshanba",
+                "ru": "среда"
+            },
+            {
+                "kanji": "水道",
+                "jp": "すいどう",
+                "en": "water supply, tap",
+                "uz": "kran",
+                "ru": "водопровод"
+            },
+            {
+                "kanji": "水泳",
+                "jp": "すいえい",
+                "en": "swimming",
+                "uz": "suzish",
+                "ru": "плавание"
+            },
+            {
+                "kanji": "土",
+                "jp": "つち",
+                "en": "earth, soil",
+                "uz": "yer",
+                "ru": "земля"
+            },
+            {
+                "kanji": "土曜日",
+                "jp": "どようび",
+                "en": "Saturday",
+                "uz": "shanba",
+                "ru": "суббота"
+            },
+            {
+                "kanji": "土地",
+                "jp": "とち",
+                "en": "land, plot",
+                "uz": "yer",
+                "ru": "земля, участок"
+            },
+            {
+                "kanji": "お土産",
+                "jp": "おみやげ",
+                "en": "souvenir, gift",
+                "uz": "sovg‘a",
+                "ru": "сувенир"
+            },
+            {
+                "kanji": "国",
+                "jp": "くに",
+                "en": "country, nation",
+                "uz": "davlat",
+                "ru": "страна"
+            },
+            {
+                "kanji": "外国",
+                "jp": "がいこく",
+                "en": "foreign country",
+                "uz": "xorijiy mamlakat",
+                "ru": "иностранная страна"
+            },
+            {
+                "kanji": "外国人",
+                "jp": "がいこくじん",
+                "en": "foreigner",
+                "uz": "chet ellik",
+                "ru": "иностранец"
+            },
+            {
+                "kanji": "国際的な",
+                "jp": "こくさいてきな",
+                "en": "international",
+                "uz": "xalqaro",
+                "ru": "международный"
+            },
+            {
+                "kanji": "国旗",
+                "jp": "こっき",
+                "en": "national flag",
+                "uz": "davlat bayrog‘i",
+                "ru": "флаг"
+            },
+            {
+                "kanji": "全部",
+                "jp": "ぜんぶ",
+                "en": "all, everything",
+                "uz": "hamma",
+                "ru": "всё"
+            },
+            {
+                "kanji": "全然",
+                "jp": "ぜんぜん",
+                "en": "not at all (used with negative)",
+                "uz": "umuman",
+                "ru": "совсем не"
+            },
+            {
+                "kanji": "全員",
+                "jp": "ぜんいん",
+                "en": "all members",
+                "uz": "hamma a’zolar",
+                "ru": "все участники"
+            },
+            {
+                "kanji": "お金",
+                "jp": "おかね",
+                "en": "money",
+                "uz": "pul",
+                "ru": "деньги"
+            },
+            {
+                "kanji": "お金持ち",
+                "jp": "おかねもち",
+                "en": "rich person",
+                "uz": "boy odam",
+                "ru": "богатый человек"
+            },
+            {
+                "kanji": "金",
+                "jp": "きん",
+                "en": "gold",
+                "uz": "tilla, oltin",
+                "ru": "золото"
+            },
+            {
+                "kanji": "金曜日",
+                "jp": "きんようび",
+                "en": "Friday",
+                "uz": "juma",
+                "ru": "пятница"
+            },
+            {
+                "kanji": "大工",
+                "jp": "だいく",
+                "en": "carpenter",
+                "uz": "duradgor",
+                "ru": "плотник"
+            },
+            {
+                "kanji": "工場",
+                "jp": "こうじょう",
+                "en": "factory",
+                "uz": "zavod",
+                "ru": "завод"
+            },
+            {
+                "kanji": "工業",
+                "jp": "こうぎょう",
+                "en": "industry",
+                "uz": "sanoat",
+                "ru": "промышленность"
+            },
+            {
+                "kanji": "工学",
+                "jp": "こうがく",
+                "en": "engineering",
+                "uz": "texnika",
+                "ru": "инженерия"
+            },
+            {
+                "kanji": "人口の",
+                "jp": "じんこうの",
+                "en": "population",
+                "uz": "aholi",
+                "ru": "население"
+            },
+            {
+                "kanji": "左",
+                "jp": "ひだり",
+                "en": "left",
+                "uz": "chap",
+                "ru": "лево"
+            },
+            {
+                "kanji": "左手",
+                "jp": "ひだりて",
+                "en": "left hand",
+                "uz": "chap qo‘l",
+                "ru": "левая рука"
+            },
+            {
+                "kanji": "左側",
+                "jp": "ひだりがわ",
+                "en": "left side",
+                "uz": "chap taraf",
+                "ru": "левая сторона"
+            },
+            {
+                "kanji": "左きき",
+                "jp": "ひだりきき",
+                "en": "left-handed",
+                "uz": "chapaqay",
+                "ru": "левша"
+            },
+            {
+                "kanji": "左折する",
+                "jp": "させつする",
+                "en": "to turn left",
+                "uz": "chapga burilish",
+                "ru": "повернуть налево"
+            },
+            {
+                "kanji": "右",
+                "jp": "みぎ",
+                "en": "right",
+                "uz": "o‘ng",
+                "ru": "право"
+            },
+            {
+                "kanji": "右手",
+                "jp": "みぎて",
+                "en": "right hand",
+                "uz": "o‘ng qo‘l",
+                "ru": "правая рука"
+            },
+            {
+                "kanji": "右側",
+                "jp": "みぎがわ",
+                "en": "right side",
+                "uz": "o‘ng taraf",
+                "ru": "правая сторона"
+            },
+            {
+                "kanji": "右折する",
+                "jp": "うせつする",
+                "en": "to turn right",
+                "uz": "o‘ngga burilish",
+                "ru": "повернуть направо"
+            },
+            {
+                "kanji": "左右",
+                "jp": "さゆう",
+                "en": "left and right",
+                "uz": "o‘ng va chap",
+                "ru": "лево и право"
+            },
+            {
+                "kanji": "友達",
+                "jp": "ともだち",
+                "en": "friend",
+                "uz": "do‘st",
+                "ru": "друг"
+            },
+            {
+                "kanji": "友人",
+                "jp": "ゆうじん",
+                "en": "friend, acquaintance",
+                "uz": "do‘st, oshna",
+                "ru": "друг, знакомый"
+            },
+            {
+                "kanji": "親友",
+                "jp": "しんゆう",
+                "en": "close friend, best friend",
+                "uz": "yaqin do‘st",
+                "ru": "близкий друг"
+            },
+            {
+                "kanji": "友情",
+                "jp": "ゆうじょう",
+                "en": "friendship",
+                "uz": "do‘stlik",
+                "ru": "дружба"
+            }
+        ]
+    },
+    {
+        "lesson": 4,
+        "data": [
+            {
+                "kanji": "何",
+                "jp": "なに/なん",
+                "uz": "Nima",
+                "en": "What",
+                "ru": "Что"
+            },
+            {
+                "kanji": "何人",
+                "jp": "なにじん/なんじん",
+                "uz": "Qaysi millat",
+                "en": "What nationality",
+                "ru": "Какой национальности"
+            },
+            {
+                "kanji": "何年",
+                "jp": "なんねん",
+                "uz": "Qaysi yil",
+                "en": "Which year",
+                "ru": "Какой год"
+            },
+            {
+                "kanji": "何時",
+                "jp": "なんじ",
+                "uz": "Soat nechi",
+                "en": "What time",
+                "ru": "Который час"
+            },
+            {
+                "kanji": "手",
+                "jp": "て",
+                "uz": "Qo‘l",
+                "en": "Hand",
+                "ru": "Рука"
+            },
+            {
+                "kanji": "手紙",
+                "jp": "てがみ",
+                "uz": "Xat",
+                "en": "Letter",
+                "ru": "Письмо"
+            },
+            {
+                "kanji": "手伝う",
+                "jp": "てつだう",
+                "uz": "Yordam bermoq",
+                "en": "To help",
+                "ru": "Помогать"
+            },
+            {
+                "kanji": "手袋",
+                "jp": "てぶくろ",
+                "uz": "Qo‘lqop",
+                "en": "Gloves",
+                "ru": "Перчатки"
+            },
+            {
+                "kanji": "運転手",
+                "jp": "うんてんしゅ",
+                "uz": "Haydovchi",
+                "en": "Driver",
+                "ru": "Водитель"
+            },
+            {
+                "kanji": "上手な",
+                "jp": "じょうずな",
+                "uz": "Mohir",
+                "en": "Skilled, good at",
+                "ru": "Умелый, способный"
+            },
+            {
+                "kanji": "下手な",
+                "jp": "へたな",
+                "uz": "Mohir emas",
+                "en": "Unskilled, poor at",
+                "ru": "Неумелый"
+            },
+            {
+                "kanji": "切る",
+                "jp": "きる",
+                "uz": "Kesmoq",
+                "en": "To cut",
+                "ru": "Резать"
+            },
+            {
+                "kanji": "切手",
+                "jp": "きって",
+                "uz": "Marka",
+                "en": "Postage stamp",
+                "ru": "Марка"
+            },
+            {
+                "kanji": "切符",
+                "jp": "きっぷ",
+                "uz": "Bilet",
+                "en": "Ticket",
+                "ru": "Билет"
+            },
+            {
+                "kanji": "大切な",
+                "jp": "たいせつな",
+                "uz": "Muhim",
+                "en": "Important",
+                "ru": "Важный"
+            },
+            {
+                "kanji": "親切な",
+                "jp": "しんせつな",
+                "uz": "Mehribon",
+                "en": "Kind, helpful",
+                "ru": "Добрый, любезный"
+            },
+            {
+                "kanji": "分かる",
+                "jp": "わかる",
+                "uz": "Tushunmoq",
+                "en": "To understand",
+                "ru": "Понимать"
+            },
+            {
+                "kanji": "分ける",
+                "jp": "わける",
+                "uz": "Bo‘lmoq",
+                "en": "To divide, separate",
+                "ru": "Делить, разделять"
+            },
+            {
+                "kanji": "五分",
+                "jp": "ごふん",
+                "uz": "Besh daqiqa",
+                "en": "Five minutes",
+                "ru": "Пять минут"
+            },
+            {
+                "kanji": "二十分",
+                "jp": "にじゅっぷん",
+                "uz": "Yigirma daqiqa",
+                "en": "Twenty minutes",
+                "ru": "Двадцать минут"
+            },
+            {
+                "kanji": "半分",
+                "jp": "はんぶん",
+                "uz": "Yarmi",
+                "en": "Half",
+                "ru": "Половина"
+            },
+            {
+                "kanji": "十分な",
+                "jp": "じゅうぶんな",
+                "uz": "Yetarli",
+                "en": "Enough, sufficient",
+                "ru": "Достаточно, достаточный"
+            },
+            {
+                "kanji": "今",
+                "jp": "いま",
+                "uz": "Hozir",
+                "en": "Now",
+                "ru": "Сейчас"
+            },
+            {
+                "kanji": "今晩",
+                "jp": "こんばん",
+                "uz": "Bugun kechqurun",
+                "en": "Tonight",
+                "ru": "Сегодня вечером"
+            },
+            {
+                "kanji": "今年",
+                "jp": "ことし",
+                "uz": "Bu yil",
+                "en": "This year",
+                "ru": "Этот год"
+            },
+            {
+                "kanji": "今朝",
+                "jp": "けさ",
+                "uz": "Bugun ertalab",
+                "en": "This morning",
+                "ru": "Сегодня утром"
+            },
+            {
+                "kanji": "三時半",
+                "jp": "さんじはん",
+                "uz": "Uch yarim",
+                "en": "3:30",
+                "ru": "Три тридцать"
+            },
+            {
+                "kanji": "半年",
+                "jp": "はんとし",
+                "uz": "Yarim yil",
+                "en": "Half a year",
+                "ru": "Полгода"
+            },
+            {
+                "kanji": "前半",
+                "jp": "ぜんはん",
+                "uz": "Birinchi yarmi",
+                "en": "First half",
+                "ru": "Первая половина"
+            },
+            {
+                "kanji": "後半",
+                "jp": "こうはん",
+                "uz": "Ikkinchi yarmi",
+                "en": "Second half",
+                "ru": "Вторая половина"
+            },
+            {
+                "kanji": "止まる",
+                "jp": "とまる",
+                "uz": "To‘xtamoq",
+                "en": "To stop (intr.)",
+                "ru": "Останавливаться"
+            },
+            {
+                "kanji": "止める",
+                "jp": "とめる",
+                "uz": "To‘xtatmoq",
+                "en": "To stop (tr.)",
+                "ru": "Останавливать"
+            },
+            {
+                "kanji": "通行止め",
+                "jp": "つうこうどめ",
+                "uz": "Harakatni to'xtatish",
+                "en": "No through traffic",
+                "ru": "Движение запрещено"
+            },
+            {
+                "kanji": "中止する",
+                "jp": "ちゅうしする",
+                "uz": "To‘xtatmoq",
+                "en": "To cancel",
+                "ru": "Прекращать, отменять"
+            },
+            {
+                "kanji": "正しい",
+                "jp": "ただしい",
+                "uz": "To‘g‘ri",
+                "en": "Correct, right",
+                "ru": "Правильный"
+            },
+            {
+                "kanji": "お正月",
+                "jp": "おしょうがつ",
+                "uz": "Yangi yil",
+                "en": "New Year",
+                "ru": "Новый год"
+            },
+            {
+                "kanji": "正確な",
+                "jp": "せいかくな",
+                "uz": "Aniq",
+                "en": "Accurate, precise",
+                "ru": "Точный, верный"
+            },
+            {
+                "kanji": "歩く",
+                "jp": "あるく",
+                "uz": "Piyoda yurmoq",
+                "en": "To walk",
+                "ru": "Идти пешком"
+            },
+            {
+                "kanji": "歩道",
+                "jp": "ほどう",
+                "uz": "Yo‘lak",
+                "en": "Sidewalk",
+                "ru": "Тротуар"
+            },
+            {
+                "kanji": "歩行者",
+                "jp": "ほこうしゃ",
+                "uz": "Piyoda",
+                "en": "Pedestrian",
+                "ru": "Пешеход"
+            },
+            {
+                "kanji": "散歩する",
+                "jp": "さんぽする",
+                "uz": "Piyoda yurmoq",
+                "en": "To take a walk",
+                "ru": "Гулять"
+            },
+            {
+                "kanji": "足",
+                "jp": "あし",
+                "uz": "Oyoq",
+                "en": "Foot/leg",
+                "ru": "Нога"
+            },
+            {
+                "kanji": "足す",
+                "jp": "たす",
+                "uz": "Qo‘shmoq",
+                "en": "To add",
+                "ru": "Добавлять"
+            },
+            {
+                "kanji": "足りる",
+                "jp": "たりる",
+                "uz": "Yetmoq",
+                "en": "To be enough",
+                "ru": "Хватать"
+            },
+            {
+                "kanji": "二足",
+                "jp": "にそく",
+                "uz": "Ikki juft",
+                "en": "Two pairs",
+                "ru": "Две пары"
+            },
+            {
+                "kanji": "不足する",
+                "jp": "ふそくする",
+                "uz": "Kamchilikni his qilmoq",
+                "en": "To be insufficient",
+                "ru": "Недоставать"
+            },
+            {
+                "kanji": "走る",
+                "jp": "はしる",
+                "uz": "Yugurmoq",
+                "en": "To run",
+                "ru": "Бежать"
+            },
+            {
+                "kanji": "走者",
+                "jp": "そうしゃ",
+                "uz": "Yuguradigan inson",
+                "en": "Runner",
+                "ru": "Бегун"
+            },
+            {
+                "kanji": "起きる",
+                "jp": "おきる",
+                "uz": "Uyg‘onmoq",
+                "en": "To get up",
+                "ru": "Вставать"
+            },
+            {
+                "kanji": "早起きする",
+                "jp": "はやおきする",
+                "uz": "Erta uyg‘onmoq",
+                "en": "To get up early",
+                "ru": "Рано вставать"
+            },
+            {
+                "kanji": "起こす",
+                "jp": "おこす",
+                "uz": "Uyg‘otmoq",
+                "en": "To wake someone up",
+                "ru": "Будить"
+            },
+            {
+                "kanji": "夕方",
+                "jp": "ゆうがた",
+                "uz": "Kechqurun",
+                "en": "Evening",
+                "ru": "Вечер"
+            },
+            {
+                "kanji": "夕飯",
+                "jp": "ゆうはん",
+                "uz": "Kechki ovqat",
+                "en": "Dinner",
+                "ru": "Ужин"
+            },
+            {
+                "kanji": "夕食",
+                "jp": "ゆうしょく",
+                "uz": "Kechki ovqat",
+                "en": "Dinner",
+                "ru": "Ужин"
+            },
+            {
+                "kanji": "外",
+                "jp": "そと",
+                "uz": "Tashqari",
+                "en": "Outside",
+                "ru": "Снаружи"
+            },
+            {
+                "kanji": "外の",
+                "jp": "ほかの",
+                "uz": "Boshqa",
+                "en": "Other",
+                "ru": "Другой"
+            },
+            {
+                "kanji": "海外",
+                "jp": "かいがい",
+                "uz": "Chet el",
+                "en": "Overseas",
+                "ru": "Заграница"
+            },
+            {
+                "kanji": "郊外",
+                "jp": "こうがい",
+                "uz": "Shahar tashqarasi",
+                "en": "Suburbs",
+                "ru": "Окраина города"
+            },
+            {
+                "kanji": "外出する",
+                "jp": "がいしゅつする",
+                "uz": "Uydan chiqmoq",
+                "en": "To go out",
+                "ru": "Выходить"
+            },
+            {
+                "kanji": "時間外",
+                "jp": "じかんがい",
+                "uz": "Qo‘shimcha vaqt",
+                "en": "Overtime, outside working hours",
+                "ru": "Внеурочное время"
+            },
+            {
+                "kanji": "多い",
+                "jp": "おおい",
+                "uz": "Ko‘p",
+                "en": "Many, a lot",
+                "ru": "Много"
+            },
+            {
+                "kanji": "多分",
+                "jp": "たぶん",
+                "uz": "Balki",
+                "en": "Perhaps, probably",
+                "ru": "Возможно"
+            },
+            {
+                "kanji": "多数",
+                "jp": "たすう",
+                "uz": "Ko‘p sonli",
+                "en": "Majority, many",
+                "ru": "Большинство"
+            },
+            {
+                "kanji": "多少",
+                "jp": "たしょう",
+                "uz": "Azroq",
+                "en": "More or less, some",
+                "ru": "Немного"
+            },
+            {
+                "kanji": "名前",
+                "jp": "なまえ",
+                "uz": "Ism",
+                "en": "Name",
+                "ru": "Имя"
+            },
+            {
+                "kanji": "有名な",
+                "jp": "ゆうめいな",
+                "uz": "Mashhur",
+                "en": "Famous",
+                "ru": "Знаменитый"
+            },
+            {
+                "kanji": "名所",
+                "jp": "めいしょ",
+                "uz": "Tarixiy joy",
+                "en": "Famous place",
+                "ru": "Известное место"
+            },
+            {
+                "kanji": "名物",
+                "jp": "めいぶつ",
+                "uz": "Mashhur narsa",
+                "en": "Specialty, famous product",
+                "ru": "Достопримечательность, знаменитость"
+            },
+            {
+                "kanji": "名字",
+                "jp": "みょうじ",
+                "uz": "Familiya",
+                "en": "Surname",
+                "ru": "Фамилия"
+            },
+            {
+                "kanji": "夜",
+                "jp": "よる",
+                "uz": "Kech",
+                "en": "Night",
+                "ru": "Ночь"
+            },
+            {
+                "kanji": "今夜",
+                "jp": "こんや",
+                "uz": "Bugun kechqurun",
+                "en": "Tonight",
+                "ru": "Сегодня вечером"
+            },
+            {
+                "kanji": "夜食",
+                "jp": "やしょく",
+                "uz": "Kechki yegulik",
+                "en": "Late-night meal",
+                "ru": "Поздний ужин"
+            }
+        ]
+    },
+    {
+        "lesson": 5,
+        "data": [
+            {
+                "kanji": "見る",
+                "jp": "みる",
+                "uz": "Ko‘rmoq",
+                "en": "To see, to look",
+                "ru": "Смотреть"
+            },
+            {
+                "kanji": "見せる",
+                "jp": "みせる",
+                "uz": "Ko‘rsatmoq",
+                "en": "To show",
+                "ru": "Показывать"
+            },
+            {
+                "kanji": "見つかる",
+                "jp": "みつかる",
+                "uz": "Topilmoq",
+                "en": "To be found",
+                "ru": "Найтись"
+            },
+            {
+                "kanji": "見つける",
+                "jp": "みつける",
+                "uz": "Topmoq",
+                "en": "To find",
+                "ru": "Найти"
+            },
+            {
+                "kanji": "拝見する",
+                "jp": "はいけんする",
+                "uz": "Qaramoq",
+                "en": "Humble form of 'to see'",
+                "ru": "Смотреть (скромно)"
+            },
+            {
+                "kanji": "元気な",
+                "jp": "げんきな",
+                "uz": "Sog‘lom",
+                "en": "Healthy, energetic",
+                "ru": "Здоровый, энергичный"
+            },
+            {
+                "kanji": "元日",
+                "jp": "がんじつ",
+                "uz": "Yangi yilning birinchi kuni",
+                "en": "New Year's Day",
+                "ru": "Первый день нового года"
+            },
+            {
+                "kanji": "先に",
+                "jp": "さきに",
+                "uz": "Oldin",
+                "en": "Earlier, before",
+                "ru": "Ранее, прежде"
+            },
+            {
+                "kanji": "先生",
+                "jp": "せんせい",
+                "uz": "O‘qituvchi",
+                "en": "Teacher",
+                "ru": "Учитель"
+            },
+            {
+                "kanji": "先週",
+                "jp": "せんしゅう",
+                "uz": "O‘tgkan hafta",
+                "en": "Last week",
+                "ru": "На прошлой неделе"
+            },
+            {
+                "kanji": "先月",
+                "jp": "せんげつ",
+                "uz": "O‘tgkan oy",
+                "en": "Last month",
+                "ru": "В прошлом месяце"
+            },
+            {
+                "kanji": "先輩",
+                "jp": "せんぱい",
+                "uz": "O‘zidan katta yoshli o‘rtoq",
+                "en": "Senior, elder",
+                "ru": "Старший (по возрасту или стажу)"
+            },
+            {
+                "kanji": "天気",
+                "jp": "てんき",
+                "uz": "Ob-havo",
+                "en": "Weather",
+                "ru": "Погода"
+            },
+            {
+                "kanji": "天気予報",
+                "jp": "てんきよほう",
+                "uz": "Ob-havo ma’lumoti",
+                "en": "Weather forecast",
+                "ru": "Прогноз погоды"
+            },
+            {
+                "kanji": "天国",
+                "jp": "てんごく",
+                "uz": "Jannat",
+                "en": "Heaven",
+                "ru": "Рай"
+            },
+            {
+                "kanji": "作文",
+                "jp": "さくぶん",
+                "uz": "Insho",
+                "en": "Composition, essay",
+                "ru": "Сочинение"
+            },
+            {
+                "kanji": "文章",
+                "jp": "ぶんしょう",
+                "uz": "Gap",
+                "en": "Sentence, text",
+                "ru": "Текст, предложение"
+            },
+            {
+                "kanji": "文化",
+                "jp": "ぶんか",
+                "uz": "Madaniyat",
+                "en": "Culture",
+                "ru": "Культура"
+            },
+            {
+                "kanji": "文学",
+                "jp": "ぶんがく",
+                "uz": "Adabiyot",
+                "en": "Literature",
+                "ru": "Литература"
+            },
+            {
+                "kanji": "文法",
+                "jp": "ぶんぽう",
+                "uz": "Grammatika",
+                "en": "Grammar",
+                "ru": "Грамматика"
+            },
+            {
+                "kanji": "お父さん",
+                "jp": "おとうさん",
+                "uz": "Birovning otasi",
+                "en": "(Someone else's) father",
+                "ru": "Чей-то отец"
+            },
+            {
+                "kanji": "父",
+                "jp": "ちち",
+                "uz": "Mening otam",
+                "en": "My father",
+                "ru": "Мой отец"
+            },
+            {
+                "kanji": "父親",
+                "jp": "ちちおや",
+                "uz": "Ota",
+                "en": "Father",
+                "ru": "Отец"
+            },
+            {
+                "kanji": "父母",
+                "jp": "ふぼ",
+                "uz": "Ota-ona",
+                "en": "Parents",
+                "ru": "Родители"
+            },
+            {
+                "kanji": "お母さん",
+                "jp": "おかあさん",
+                "uz": "Birovning onasi",
+                "en": "(Someone else's) mother",
+                "ru": "Чья-то мать"
+            },
+            {
+                "kanji": "母",
+                "jp": "はは",
+                "uz": "Mening onam",
+                "en": "My mother",
+                "ru": "Моя мать"
+            },
+            {
+                "kanji": "母親",
+                "jp": "ははおや",
+                "uz": "Ona",
+                "en": "Mother",
+                "ru": "Мать"
+            },
+            {
+                "kanji": "母国",
+                "jp": "ぼこく",
+                "uz": "Ona vatan",
+                "en": "Mother country, homeland",
+                "ru": "Родина"
+            },
+            {
+                "kanji": "母語",
+                "jp": "ぼご",
+                "uz": "Ona tili",
+                "en": "Native language",
+                "ru": "Родной язык"
+            },
+            {
+                "kanji": "行く",
+                "jp": "いく",
+                "uz": "Yurmoq",
+                "en": "To go",
+                "ru": "Идти"
+            },
+            {
+                "kanji": "行う",
+                "jp": "おこなう",
+                "uz": "Qilmoq",
+                "en": "To perform, to carry out",
+                "ru": "Проводить, выполнять"
+            },
+            {
+                "kanji": "銀行",
+                "jp": "ぎんこう",
+                "uz": "Bank",
+                "en": "Bank",
+                "ru": "Банк"
+            },
+            {
+                "kanji": "旅行する",
+                "jp": "りょこうする",
+                "uz": "Sayohat qilmoq",
+                "en": "To travel",
+                "ru": "Путешествовать"
+            },
+            {
+                "kanji": "飛行機",
+                "jp": "ひこうき",
+                "uz": "Samolyot",
+                "en": "Airplane",
+                "ru": "Самолет"
+            },
+            {
+                "kanji": "毎朝",
+                "jp": "まいあさ",
+                "uz": "Har kuni ertalab",
+                "en": "Every morning",
+                "ru": "Каждое утро"
+            },
+            {
+                "kanji": "毎晩",
+                "jp": "まいばん",
+                "uz": "Har kuni kechqurun",
+                "en": "Every evening",
+                "ru": "Каждый вечер"
+            },
+            {
+                "kanji": "毎週",
+                "jp": "まいしゅう",
+                "uz": "Har hafta",
+                "en": "Every week",
+                "ru": "Каждую неделю"
+            },
+            {
+                "kanji": "毎月",
+                "jp": "まいげつ/まいつき",
+                "uz": "Har oy",
+                "en": "Every month",
+                "ru": "Каждый месяц"
+            },
+            {
+                "kanji": "毎年",
+                "jp": "まいとし/まいねん",
+                "uz": "Har yil",
+                "en": "Every year",
+                "ru": "Каждый год"
+            },
+            {
+                "kanji": "海",
+                "jp": "うみ",
+                "uz": "Dengiz",
+                "en": "Sea",
+                "ru": "Море"
+            },
+            {
+                "kanji": "海岸",
+                "jp": "かいがん",
+                "uz": "Dengiz sohili",
+                "en": "Seashore, coast",
+                "ru": "Берег моря"
+            },
+            {
+                "kanji": "海水",
+                "jp": "かいすい",
+                "uz": "Dengiz suvi",
+                "en": "Sea water",
+                "ru": "Морская вода"
+            },
+            {
+                "kanji": "海外",
+                "jp": "かいがい",
+                "uz": "Chet el",
+                "en": "Overseas",
+                "ru": "За границей"
+            },
+            {
+                "kanji": "東",
+                "jp": "ひがし",
+                "uz": "Sharq",
+                "en": "East",
+                "ru": "Восток"
+            },
+            {
+                "kanji": "東口",
+                "jp": "ひがしぐち",
+                "uz": "Sharqiy chiqish",
+                "en": "East exit",
+                "ru": "Восточный выход"
+            },
+            {
+                "kanji": "東京",
+                "jp": "とうきょう",
+                "uz": "Tokyo",
+                "en": "Tokyo",
+                "ru": "Токио"
+            },
+            {
+                "kanji": "関東",
+                "jp": "かんとう",
+                "uz": "Kanto rayoni",
+                "en": "Kanto region",
+                "ru": "Регион Канто"
+            },
+            {
+                "kanji": "西",
+                "jp": "にし",
+                "uz": "G‘arb",
+                "en": "West",
+                "ru": "Запад"
+            },
+            {
+                "kanji": "西口",
+                "jp": "にしぐち",
+                "uz": "G‘arbiy chiqish",
+                "en": "West exit",
+                "ru": "Западный выход"
+            },
+            {
+                "kanji": "西洋",
+                "jp": "せいよう",
+                "uz": "G‘arb",
+                "en": "Western world",
+                "ru": "Запад"
+            },
+            {
+                "kanji": "関西",
+                "jp": "かんさい",
+                "uz": "Kansai rayoni",
+                "en": "Kansai region",
+                "ru": "Регион Кансай"
+            },
+            {
+                "kanji": "南",
+                "jp": "みなみ",
+                "uz": "Janub",
+                "en": "South",
+                "ru": "Юг"
+            },
+            {
+                "kanji": "南口",
+                "jp": "みなみぐち",
+                "uz": "Janubiy chiqish",
+                "en": "South exit",
+                "ru": "Южный выход"
+            },
+            {
+                "kanji": "南米",
+                "jp": "なんべい",
+                "uz": "Janubiy Amerika",
+                "en": "South America",
+                "ru": "Южная Америка"
+            },
+            {
+                "kanji": "南北",
+                "jp": "なんぼく",
+                "uz": "Janub va shimol",
+                "en": "North and South",
+                "ru": "Север и Юг"
+            },
+            {
+                "kanji": "北",
+                "jp": "きた",
+                "uz": "Shimol",
+                "en": "North",
+                "ru": "Север"
+            },
+            {
+                "kanji": "北口",
+                "jp": "きたぐち",
+                "uz": "Shimoliy chiqish",
+                "en": "North exit",
+                "ru": "Северный выход"
+            },
+            {
+                "kanji": "北風",
+                "jp": "きたかぜ",
+                "uz": "Shimoliy shamol",
+                "en": "North wind",
+                "ru": "Северный ветер"
+            },
+            {
+                "kanji": "北米",
+                "jp": "ほくべい",
+                "uz": "Shimoliy Amerika",
+                "en": "North America",
+                "ru": "Северная Америка"
+            },
+            {
+                "kanji": "北海道",
+                "jp": "ほっかいどう",
+                "uz": "Hokkaido",
+                "en": "Hokkaido",
+                "ru": "Хоккайдо"
+            },
+            {
+                "kanji": "耳",
+                "jp": "みみ",
+                "uz": "Quloq",
+                "en": "Ear",
+                "ru": "Ухо"
+            },
+            {
+                "kanji": "右耳",
+                "jp": "みぎみみ",
+                "uz": "O‘ng quloq",
+                "en": "Right ear",
+                "ru": "Правое ухо"
+            },
+            {
+                "kanji": "耳鼻科",
+                "jp": "じびか",
+                "uz": "Quloq, tomoq, burun kasalliklari",
+                "en": "Otorhinolaryngology (ENT)",
+                "ru": "Отоларингология (ЛОР)"
+            },
+            {
+                "kanji": "門",
+                "jp": "もん",
+                "uz": "Darboza",
+                "en": "Gate",
+                "ru": "Ворота"
+            },
+            {
+                "kanji": "正門",
+                "jp": "せいもん",
+                "uz": "Bosh darboza",
+                "en": "Main gate",
+                "ru": "Главные ворота"
+            },
+            {
+                "kanji": "専門",
+                "jp": "せんもん",
+                "uz": "Soha",
+                "en": "Specialty, field of study",
+                "ru": "Специализация"
+            },
+            {
+                "kanji": "聞く",
+                "jp": "きく",
+                "uz": "Eshitmoq, tinglamoq",
+                "en": "To listen, to ask",
+                "ru": "Слушать, спрашивать"
+            },
+            {
+                "kanji": "聞こえる",
+                "jp": "きこえる",
+                "uz": "Eshitilmoq",
+                "en": "To be heard",
+                "ru": "Слышно"
+            },
+            {
+                "kanji": "新聞",
+                "jp": "しんぶん",
+                "uz": "Gazeta",
+                "en": "Newspaper",
+                "ru": "Газета"
+            },
+            {
+                "kanji": "間",
+                "jp": "あいだ",
+                "uz": "O‘rtasi",
+                "en": "Interval, space between",
+                "ru": "Промежуток, между"
+            },
+            {
+                "kanji": "昼間",
+                "jp": "ひるま",
+                "uz": "Peshin",
+                "en": "Daytime",
+                "ru": "Дневное время"
+            },
+            {
+                "kanji": "間に合う",
+                "jp": "まにあう",
+                "uz": "Ulgurmoq",
+                "en": "To be in time",
+                "ru": "Успевать"
+            },
+            {
+                "kanji": "時間",
+                "jp": "じかん",
+                "uz": "Vaqt",
+                "en": "Time, hour",
+                "ru": "Время"
+            },
+            {
+                "kanji": "四時間",
+                "jp": "よじかん",
+                "uz": "To‘rt soat",
+                "en": "Four hours",
+                "ru": "Четыре часа"
+            }
+        ]
+    },
+    {
+        "lesson": 6,
+        "data": [
+            {
+                "kanji": "牛",
+                "jp": "うし",
+                "uz": "Sigir, mol",
+                "en": "Cow, cattle",
+                "ru": "Корова"
+            },
+            {
+                "kanji": "牛肉",
+                "jp": "ぎゅうにく",
+                "uz": "Mol go‘shti",
+                "en": "Beef",
+                "ru": "Говядина"
+            },
+            {
+                "kanji": "牛乳",
+                "jp": "ぎゅうにゅう",
+                "uz": "Sut",
+                "en": "Milk",
+                "ru": "Молоко"
+            },
+            {
+                "kanji": "午前",
+                "jp": "ごぜん",
+                "uz": "Tonggi",
+                "en": "AM, morning",
+                "ru": "До полудня"
+            },
+            {
+                "kanji": "午後",
+                "jp": "ごご",
+                "uz": "Tushdan keyin",
+                "en": "PM, afternoon",
+                "ru": "После полудня"
+            },
+            {
+                "kanji": "年",
+                "jp": "とし",
+                "uz": "Yil",
+                "en": "Year",
+                "ru": "Год"
+            },
+            {
+                "kanji": "今年",
+                "jp": "ことし",
+                "uz": "Bu yil",
+                "en": "This year",
+                "ru": "Этот год"
+            },
+            {
+                "kanji": "年上",
+                "jp": "としうえ",
+                "uz": "Yoshi katta",
+                "en": "Older (age)",
+                "ru": "Старше (по возрасту)"
+            },
+            {
+                "kanji": "年下",
+                "jp": "としした",
+                "uz": "Yoshi kichik",
+                "en": "Younger (age)",
+                "ru": "Младше (по возрасту)"
+            },
+            {
+                "kanji": "去年",
+                "jp": "きょねん",
+                "uz": "O‘tgan yil",
+                "en": "Last year",
+                "ru": "Прошлый год"
+            },
+            {
+                "kanji": "来年",
+                "jp": "らいねん",
+                "uz": "Keyingi yil",
+                "en": "Next year",
+                "ru": "Следующий год"
+            },
+            {
+                "kanji": "再来年",
+                "jp": "さらいねん",
+                "uz": "Ikki yil keyin",
+                "en": "Year after next",
+                "ru": "Через год после следующего"
+            },
+            {
+                "kanji": "生年月日",
+                "jp": "せいねんがっぴ",
+                "uz": "Tug‘ilgan oy va kun",
+                "en": "Date of birth",
+                "ru": "Дата рождения"
+            },
+            {
+                "kanji": "前",
+                "jp": "まえ",
+                "uz": "Oldin",
+                "en": "Front, before",
+                "ru": "Перед, раньше"
+            },
+            {
+                "kanji": "名前",
+                "jp": "なまえ",
+                "uz": "Ism",
+                "en": "Name",
+                "ru": "Имя"
+            },
+            {
+                "kanji": "三年前",
+                "jp": "さんねんまえ",
+                "uz": "Uch yil oldin",
+                "en": "Three years ago",
+                "ru": "Три года назад"
+            },
+            {
+                "kanji": "前半",
+                "jp": "ぜんはん",
+                "uz": "Birinchi yarim",
+                "en": "First half",
+                "ru": "Первая половина"
+            },
+            {
+                "kanji": "後ろ",
+                "jp": "うしろ",
+                "uz": "Orqa",
+                "en": "Behind",
+                "ru": "Сзади"
+            },
+            {
+                "kanji": "後で",
+                "jp": "あとで",
+                "uz": "Keyin",
+                "en": "Later, after",
+                "ru": "Позже"
+            },
+            {
+                "kanji": "五年後",
+                "jp": "ごねんご",
+                "uz": "Besh yildan keyin",
+                "en": "Five years later",
+                "ru": "Через пять лет"
+            },
+            {
+                "kanji": "最後",
+                "jp": "さいご",
+                "uz": "Oxiri",
+                "en": "Last, end",
+                "ru": "Последний, конец"
+            },
+            {
+                "kanji": "後半",
+                "jp": "こうはん",
+                "uz": "Ikkinchi yarim",
+                "en": "Second half",
+                "ru": "Вторая половина"
+            },
+            {
+                "kanji": "高い",
+                "jp": "たかい",
+                "uz": "Baland, qimmat",
+                "en": "High, expensive",
+                "ru": "Высокий, дорогой"
+            },
+            {
+                "kanji": "円高",
+                "jp": "えんだか",
+                "uz": "Yen qiymati oshishi",
+                "en": "Strong yen",
+                "ru": "Укрепление йены"
+            },
+            {
+                "kanji": "高校",
+                "jp": "こうこう",
+                "uz": "Oliy maktab",
+                "en": "High school",
+                "ru": "Средняя школа"
+            },
+            {
+                "kanji": "高校生",
+                "jp": "こうこうせい",
+                "uz": "Oliy maktab o‘quvchisi",
+                "en": "High school student",
+                "ru": "Ученик старшей школы"
+            },
+            {
+                "kanji": "高速",
+                "jp": "こうそく",
+                "uz": "Tezlik",
+                "en": "High speed",
+                "ru": "Высокая скорость"
+            },
+            {
+                "kanji": "最高",
+                "jp": "さいこう",
+                "uz": "Eng baland",
+                "en": "The best, highest",
+                "ru": "Наивысший, лучший"
+            },
+            {
+                "kanji": "銀",
+                "jp": "ぎん",
+                "uz": "Kumush",
+                "en": "Silver",
+                "ru": "Серебро"
+            },
+            {
+                "kanji": "銀行",
+                "jp": "ぎんこう",
+                "uz": "Bank",
+                "en": "Bank",
+                "ru": "Банк"
+            },
+            {
+                "kanji": "銀座",
+                "jp": "ぎんざ",
+                "uz": "Ginza",
+                "en": "Ginza (district)",
+                "ru": "Гинза"
+            },
+            {
+                "kanji": "食べる",
+                "jp": "たべる",
+                "uz": "Yemoq",
+                "en": "To eat",
+                "ru": "Есть"
+            },
+            {
+                "kanji": "食べ物",
+                "jp": "たべもの",
+                "uz": "Yegulik",
+                "en": "Food",
+                "ru": "Еда"
+            },
+            {
+                "kanji": "食堂",
+                "jp": "しょくどう",
+                "uz": "Oshxona",
+                "en": "Cafeteria",
+                "ru": "Столовая"
+            },
+            {
+                "kanji": "食事する",
+                "jp": "しょくじする",
+                "uz": "Ovqatlanmoq",
+                "en": "To have a meal",
+                "ru": "Принимать пищу"
+            },
+            {
+                "kanji": "食料品",
+                "jp": "しょくりょうひん",
+                "uz": "Oziq-ovqat mahsuloti",
+                "en": "Groceries",
+                "ru": "Продукты питания"
+            },
+            {
+                "kanji": "ご飯",
+                "jp": "ごはん",
+                "uz": "Ovqat",
+                "en": "Cooked rice, meal",
+                "ru": "Рис, еда"
+            },
+            {
+                "kanji": "朝ご飯",
+                "jp": "あさごはん",
+                "uz": "Nonushta",
+                "en": "Breakfast",
+                "ru": "Завтрак"
+            },
+            {
+                "kanji": "昼ご飯",
+                "jp": "ひるごはん",
+                "uz": "Tushlik",
+                "en": "Lunch",
+                "ru": "Обед"
+            },
+            {
+                "kanji": "晩ご飯",
+                "jp": "ばんごはん",
+                "uz": "Kechki ovqat",
+                "en": "Dinner",
+                "ru": "Ужин"
+            },
+            {
+                "kanji": "夕飯",
+                "jp": "ゆうはん",
+                "uz": "Kechki ovqat",
+                "en": "Evening meal, dinner",
+                "ru": "Вечерняя еда, ужин"
+            },
+            {
+                "kanji": "飲む",
+                "jp": "のむ",
+                "uz": "Ichmoq",
+                "en": "To drink",
+                "ru": "Пить"
+            },
+            {
+                "kanji": "飲み物",
+                "jp": "のみもの",
+                "uz": "Ichimlik",
+                "en": "Beverage, drink",
+                "ru": "Напиток"
+            },
+            {
+                "kanji": "飲み水",
+                "jp": "のみみず",
+                "uz": "Ichimlik suvi",
+                "en": "Drinking water",
+                "ru": "Питьевая вода"
+            },
+            {
+                "kanji": "飲料水",
+                "jp": "いんりょうすい",
+                "uz": "Ichimlik suvi",
+                "en": "Drinking water",
+                "ru": "Питьевая вода"
+            },
+            {
+                "kanji": "飲酒運転",
+                "jp": "いんしゅうんてん",
+                "uz": "Mas holda haydash",
+                "en": "Drunk driving",
+                "ru": "Вождение в нетрезвом виде"
+            },
+            {
+                "kanji": "白",
+                "jp": "しろ",
+                "uz": "Oq",
+                "en": "White",
+                "ru": "Белый"
+            },
+            {
+                "kanji": "白い",
+                "jp": "しろい",
+                "uz": "Oq rang",
+                "en": "White color",
+                "ru": "Белый цвет"
+            },
+            {
+                "kanji": "白馬",
+                "jp": "はくば",
+                "uz": "Oq ot",
+                "en": "White horse",
+                "ru": "Белая лошадь"
+            },
+            {
+                "kanji": "赤い",
+                "jp": "あかい",
+                "uz": "Qizil",
+                "en": "Red",
+                "ru": "Красный"
+            },
+            {
+                "kanji": "赤ん坊",
+                "jp": "あかんぼう",
+                "uz": "Chaqaloq, go‘dak",
+                "en": "Baby, infant",
+                "ru": "Младенец"
+            },
+            {
+                "kanji": "赤ちゃん",
+                "jp": "あかちゃん",
+                "uz": "Chaqaloq",
+                "en": "Baby",
+                "ru": "Ребёнок"
+            },
+            {
+                "kanji": "赤字",
+                "jp": "あかじ",
+                "uz": "Defitsit",
+                "en": "Red ink, deficit",
+                "ru": "Дефицит, красные цифры"
+            },
+            {
+                "kanji": "赤十字",
+                "jp": "せきじゅうじ",
+                "uz": "Qizil xoch",
+                "en": "Red Cross",
+                "ru": "Красный Крест"
+            },
+            {
+                "kanji": "青い",
+                "jp": "あおい",
+                "uz": "Ko‘k rang",
+                "en": "Blue",
+                "ru": "Синий"
+            },
+            {
+                "kanji": "青信号",
+                "jp": "あおしんごう",
+                "uz": "Svetoforning yashil chirog'i",
+                "en": "Green traffic light",
+                "ru": "Зелёный сигнал светофора"
+            },
+            {
+                "kanji": "青年",
+                "jp": "せいねん",
+                "uz": "Yoshlar",
+                "en": "Youth, young man",
+                "ru": "Молодёжь"
+            },
+            {
+                "kanji": "言う",
+                "jp": "いう",
+                "uz": "Aytmoq",
+                "en": "To say, to tell",
+                "ru": "Сказать"
+            },
+            {
+                "kanji": "言葉",
+                "jp": "ことば",
+                "uz": "So‘z",
+                "en": "Word, language",
+                "ru": "Слово"
+            },
+            {
+                "kanji": "言語",
+                "jp": "げんご",
+                "uz": "Til",
+                "en": "Language",
+                "ru": "Язык"
+            },
+            {
+                "kanji": "伝言する",
+                "jp": "でんごんする",
+                "uz": "Og‘zaki aytmoq",
+                "en": "To convey a message",
+                "ru": "Передавать сообщение"
+            },
+            {
+                "kanji": "話",
+                "jp": "はなし",
+                "uz": "Gap",
+                "en": "Story, talk",
+                "ru": "Разговор, история"
+            },
+            {
+                "kanji": "話す",
+                "jp": "はなす",
+                "uz": "Gaplashmoq",
+                "en": "To speak, to talk",
+                "ru": "Говорить"
+            },
+            {
+                "kanji": "電話",
+                "jp": "でんわ",
+                "uz": "Telefon",
+                "en": "Telephone",
+                "ru": "Телефон"
+            },
+            {
+                "kanji": "会話",
+                "jp": "かいわ",
+                "uz": "Suhbat, dialog",
+                "en": "Conversation, dialogue",
+                "ru": "Беседа, диалог"
+            },
+            {
+                "kanji": "世話する",
+                "jp": "せわする",
+                "uz": "Mehribonlik qilmoq, g‘amxo‘rlik qilmoq",
+                "en": "To take care of, help",
+                "ru": "Заботиться, ухаживать"
+            },
+            {
+                "kanji": "英語",
+                "jp": "えいご",
+                "uz": "Ingliz tili",
+                "en": "English language",
+                "ru": "Английский язык"
+            },
+            {
+                "kanji": "中国語",
+                "jp": "ちゅうごくご",
+                "uz": "Xitoy tili",
+                "en": "Chinese language",
+                "ru": "Китайский язык"
+            },
+            {
+                "kanji": "母語",
+                "jp": "ぼご",
+                "uz": "Ona tili",
+                "en": "Mother tongue",
+                "ru": "Родной язык"
+            },
+            {
+                "kanji": "売る",
+                "jp": "うる",
+                "uz": "Sotmoq",
+                "en": "To sell",
+                "ru": "Продавать"
+            },
+            {
+                "kanji": "売り場",
+                "jp": "うりば",
+                "uz": "Rasta",
+                "en": "Sales counter",
+                "ru": "Прилавок"
+            },
+            {
+                "kanji": "売り切れ",
+                "jp": "うりきれ",
+                "uz": "Rasprodaja",
+                "en": "Sold out",
+                "ru": "Распродано"
+            },
+            {
+                "kanji": "売店",
+                "jp": "ばいてん",
+                "uz": "Kiosk, rasta",
+                "en": "Shop, stall",
+                "ru": "Лавка, киоск"
+            },
+            {
+                "kanji": "読む",
+                "jp": "よむ",
+                "uz": "O‘qimoq",
+                "en": "To read",
+                "ru": "Читать"
+            },
+            {
+                "kanji": "読書",
+                "jp": "どくしょ",
+                "uz": "O‘qish",
+                "en": "Reading",
+                "ru": "Чтение"
+            },
+            {
+                "kanji": "読者",
+                "jp": "どくしゃ",
+                "uz": "Kitobxon",
+                "en": "Reader",
+                "ru": "Читатель"
+            },
+            {
+                "kanji": "書く",
+                "jp": "かく",
+                "uz": "Yozmoq",
+                "en": "To write",
+                "ru": "Писать"
+            },
+            {
+                "kanji": "書道",
+                "jp": "しょどう",
+                "uz": "Yapon hattotligi",
+                "en": "Calligraphy",
+                "ru": "Каллиграфия"
+            },
+            {
+                "kanji": "書店",
+                "jp": "しょてん",
+                "uz": "Kitob do‘koni",
+                "en": "Bookstore",
+                "ru": "Книжный магазин"
+            },
+            {
+                "kanji": "和書",
+                "jp": "わしょ",
+                "uz": "Yapon kitobi",
+                "en": "Japanese book",
+                "ru": "Японская книга"
+            },
+            {
+                "kanji": "洋書",
+                "jp": "ようしょ",
+                "uz": "Yevropa kitobi",
+                "en": "Western book",
+                "ru": "Западная книга"
+            }
+        ]
+    },
+    {
+        "lesson": 7,
+        "data": [
+            {
+                "kanji": "新しい",
+                "jp": "あたらしい",
+                "uz": "Yangi",
+                "en": "New",
+                "ru": "Новый"
+            },
+            {
+                "kanji": "新聞",
+                "jp": "しんぶん",
+                "uz": "Ro‘znoma, gazeta",
+                "en": "Newspaper",
+                "ru": "Газета"
+            },
+            {
+                "kanji": "新車",
+                "jp": "しんしゃ",
+                "uz": "Yangi mashina",
+                "en": "New car",
+                "ru": "Новый автомобиль"
+            },
+            {
+                "kanji": "新年",
+                "jp": "しんねん",
+                "uz": "Yangi yil",
+                "en": "New year",
+                "ru": "Новый год"
+            },
+            {
+                "kanji": "新人",
+                "jp": "しんじん",
+                "uz": "Yangi kelgan odam",
+                "en": "Newcomer",
+                "ru": "Новичок"
+            },
+            {
+                "kanji": "馬",
+                "jp": "うま",
+                "uz": "Ot",
+                "en": "Horse",
+                "ru": "Лошадь"
+            },
+            {
+                "kanji": "馬車",
+                "jp": "ばしゃ",
+                "uz": "Ot arava",
+                "en": "Horse carriage",
+                "ru": "Конная повозка"
+            },
+            {
+                "kanji": "駅",
+                "jp": "えき",
+                "uz": "Temir yo‘l bekati",
+                "en": "Station",
+                "ru": "Станция"
+            },
+            {
+                "kanji": "駅員",
+                "jp": "えきいん",
+                "uz": "Temir yo‘l bekati hodimi",
+                "en": "Station staff",
+                "ru": "Сотрудник станции"
+            },
+            {
+                "kanji": "駅長",
+                "jp": "えきちょう",
+                "uz": "Stansita boshlig‘i",
+                "en": "Station master",
+                "ru": "Начальник станции"
+            },
+            {
+                "kanji": "魚",
+                "jp": "さかな",
+                "uz": "Baliq",
+                "en": "Fish",
+                "ru": "Рыба"
+            },
+            {
+                "kanji": "魚屋",
+                "jp": "さかなや",
+                "uz": "Baliq do‘koni",
+                "en": "Fish shop",
+                "ru": "Рыбный магазин"
+            },
+            {
+                "kanji": "焼き魚",
+                "jp": "やきさかな",
+                "uz": "Qo‘vrilgan baliq",
+                "en": "Grilled fish",
+                "ru": "Жареная рыба"
+            },
+            {
+                "kanji": "お米",
+                "jp": "おこめ",
+                "uz": "Guruch",
+                "en": "Rice",
+                "ru": "Рис"
+            },
+            {
+                "kanji": "南米",
+                "jp": "なんべい",
+                "uz": "Janubiy Amerika",
+                "en": "South America",
+                "ru": "Южная Америка"
+            },
+            {
+                "kanji": "米国",
+                "jp": "べいこく",
+                "uz": "Amerika Qo‘shma shtatlari",
+                "en": "United States",
+                "ru": "США"
+            },
+            {
+                "kanji": "新米",
+                "jp": "しんまい",
+                "uz": "Yangi hosil guruchi",
+                "en": "New rice, beginner",
+                "ru": "Новый рис, новичок"
+            },
+            {
+                "kanji": "来る",
+                "jp": "くる",
+                "uz": "Kelmoq",
+                "en": "To come",
+                "ru": "Приходить"
+            },
+            {
+                "kanji": "来週",
+                "jp": "らいしゅう",
+                "uz": "Kelasi hafta",
+                "en": "Next week",
+                "ru": "На следующей неделе"
+            },
+            {
+                "kanji": "来年",
+                "jp": "らいねん",
+                "uz": "Kelasi yil",
+                "en": "Next year",
+                "ru": "В следующем году"
+            },
+            {
+                "kanji": "将来",
+                "jp": "しょうらい",
+                "uz": "Kelajak",
+                "en": "Future",
+                "ru": "Будущее"
+            },
+            {
+                "kanji": "来日する",
+                "jp": "らいにちする",
+                "uz": "Yaponiyaga ko‘chib o‘tish",
+                "en": "To come to Japan",
+                "ru": "Приехать в Японию"
+            },
+            {
+                "kanji": "雨",
+                "jp": "あめ",
+                "uz": "Yomg‘ir",
+                "en": "Rain",
+                "ru": "Дождь"
+            },
+            {
+                "kanji": "大雨",
+                "jp": "おおあめ",
+                "uz": "Kuchli yomg‘ir",
+                "en": "Heavy rain",
+                "ru": "Сильный дождь"
+            },
+            {
+                "kanji": "梅雨",
+                "jp": "つゆ",
+                "uz": "Yomg‘ir mavsumi",
+                "en": "Rainy season",
+                "ru": "Сезон дождей"
+            },
+            {
+                "kanji": "電気",
+                "jp": "でんき",
+                "uz": "Elektr",
+                "en": "Electricity",
+                "ru": "Электричество"
+            },
+            {
+                "kanji": "電車",
+                "jp": "でんしゃ",
+                "uz": "Poyezd",
+                "en": "Train",
+                "ru": "Поезд"
+            },
+            {
+                "kanji": "電話",
+                "jp": "でんわ",
+                "uz": "Telefon",
+                "en": "Telephone",
+                "ru": "Телефон"
+            },
+            {
+                "kanji": "電報",
+                "jp": "でんぽう",
+                "uz": "Telegramma",
+                "en": "Telegraph",
+                "ru": "Телеграмма"
+            },
+            {
+                "kanji": "電灯",
+                "jp": "でんとう",
+                "uz": "Elektr",
+                "en": "Electric light",
+                "ru": "Электрический свет"
+            },
+            {
+                "kanji": "天気",
+                "jp": "てんき",
+                "uz": "Ob havo",
+                "en": "Weather",
+                "ru": "Погода"
+            },
+            {
+                "kanji": "天気予報",
+                "jp": "てんきよほう",
+                "uz": "Ob havo ma’lumoti",
+                "en": "Weather forecast",
+                "ru": "Прогноз погоды"
+            },
+            {
+                "kanji": "気分",
+                "jp": "きぶん",
+                "uz": "O‘zini his qilishi",
+                "en": "Feeling, mood",
+                "ru": "Настроение"
+            },
+            {
+                "kanji": "気持ち",
+                "jp": "きもち",
+                "uz": "Kayfiyat",
+                "en": "Feeling, emotion",
+                "ru": "Чувство, настроение"
+            },
+            {
+                "kanji": "人気がある",
+                "jp": "にんきがある",
+                "uz": "Mashhur bo‘lmoq",
+                "en": "To be popular",
+                "ru": "Быть популярным"
+            },
+            {
+                "kanji": "車",
+                "jp": "くるま",
+                "uz": "Mashina",
+                "en": "Car",
+                "ru": "Машина"
+            },
+            {
+                "kanji": "駐車場",
+                "jp": "ちゅうしゃじょう",
+                "uz": "Mashina qoyish joyi",
+                "en": "Parking lot",
+                "ru": "Парковка"
+            },
+            {
+                "kanji": "空車",
+                "jp": "くうしゃ",
+                "uz": "Bo‘sh mashina",
+                "en": "Empty car, vacant",
+                "ru": "Пустая машина"
+            },
+            {
+                "kanji": "満車",
+                "jp": "まんしゃ",
+                "uz": "Mashina to‘htash joyi to‘lgan",
+                "en": "Full parking",
+                "ru": "Парковка заполнена"
+            },
+            {
+                "kanji": "空",
+                "jp": "そら",
+                "uz": "Osmon",
+                "en": "Sky",
+                "ru": "Небо"
+            },
+            {
+                "kanji": "空気",
+                "jp": "くうき",
+                "uz": "Havo",
+                "en": "Air",
+                "ru": "Воздух"
+            },
+            {
+                "kanji": "空港",
+                "jp": "くうこう",
+                "uz": "Aeroport",
+                "en": "Airport",
+                "ru": "Аэропорт"
+            },
+            {
+                "kanji": "会社",
+                "jp": "かいしゃ",
+                "uz": "Office",
+                "en": "Company",
+                "ru": "Компания"
+            },
+            {
+                "kanji": "社会",
+                "jp": "しゃかい",
+                "uz": "Jamiyat",
+                "en": "Society",
+                "ru": "Общество"
+            },
+            {
+                "kanji": "社長",
+                "jp": "しゃちょう",
+                "uz": "Boshliq",
+                "en": "Company president",
+                "ru": "Директор компании"
+            },
+            {
+                "kanji": "新聞社",
+                "jp": "しんぶんしゃ",
+                "uz": "Gazeta nashriyoti",
+                "en": "Newspaper company",
+                "ru": "Газетная компания"
+            },
+            {
+                "kanji": "神社",
+                "jp": "じんじゃ",
+                "uz": "Hram",
+                "en": "Shinto shrine",
+                "ru": "Синтоистский храм"
+            },
+            {
+                "kanji": "内田さん",
+                "jp": "うちださん",
+                "uz": "Janob Uchida",
+                "en": "Mr. Uchida",
+                "ru": "Г-н Утида"
+            },
+            {
+                "kanji": "家内",
+                "jp": "かない",
+                "uz": "Mening rafiqam",
+                "en": "My wife",
+                "ru": "Моя жена"
+            },
+            {
+                "kanji": "以内",
+                "jp": "いない",
+                "uz": "Chegarasida, dan kamroq",
+                "en": "Within, not exceeding",
+                "ru": "В пределах, не более"
+            },
+            {
+                "kanji": "社内",
+                "jp": "しゃない",
+                "uz": "Kompaniyada",
+                "en": "Inside the company",
+                "ru": "Внутри компании"
+            },
+            {
+                "kanji": "国内",
+                "jp": "こくない",
+                "uz": "Davlatni ichi",
+                "en": "Domestic, within the country",
+                "ru": "Внутри страны"
+            },
+            {
+                "kanji": "内科",
+                "jp": "ないか",
+                "uz": "Terapiya",
+                "en": "Internal medicine",
+                "ru": "Терапия"
+            },
+            {
+                "kanji": "長い",
+                "jp": "ながい",
+                "uz": "Uzun",
+                "en": "Long",
+                "ru": "Длинный"
+            },
+            {
+                "kanji": "校長",
+                "jp": "こうちょう",
+                "uz": "Maktab direktori",
+                "en": "Principal",
+                "ru": "Директор школы"
+            },
+            {
+                "kanji": "長男",
+                "jp": "ちょうなん",
+                "uz": "Katta o‘g‘il",
+                "en": "Eldest son",
+                "ru": "Старший сын"
+            },
+            {
+                "kanji": "長女",
+                "jp": "ちょうじょ",
+                "uz": "Katta qiz",
+                "en": "Eldest daughter",
+                "ru": "Старшая дочь"
+            },
+            {
+                "kanji": "学校",
+                "jp": "がっこう",
+                "uz": "Maktab",
+                "en": "School",
+                "ru": "Школа"
+            },
+            {
+                "kanji": "小学校",
+                "jp": "しょうがっこう",
+                "uz": "Boshlang‘ich maktab",
+                "en": "Elementary school",
+                "ru": "Начальная школа"
+            },
+            {
+                "kanji": "中学校",
+                "jp": "ちゅうがっこう",
+                "uz": "O‘rta maktab",
+                "en": "Middle school",
+                "ru": "Средняя школа"
+            },
+            {
+                "kanji": "会う",
+                "jp": "あう",
+                "uz": "Uchrashmoq",
+                "en": "To meet",
+                "ru": "Встречать"
+            },
+            {
+                "kanji": "会議",
+                "jp": "かいぎ",
+                "uz": "Majlis",
+                "en": "Meeting, conference",
+                "ru": "Совещание, конференция"
+            },
+            {
+                "kanji": "展覧会",
+                "jp": "てんらんかい",
+                "uz": "Ko‘rgazma",
+                "en": "Exhibition",
+                "ru": "Выставка"
+            },
+            {
+                "kanji": "お寺",
+                "jp": "おてら",
+                "uz": "Budda ibodathonasi",
+                "en": "Temple",
+                "ru": "Храм"
+            },
+            {
+                "kanji": "東大寺",
+                "jp": "とうだいじ",
+                "uz": "Toudaiji ibodathonasi",
+                "en": "Todaiji Temple",
+                "ru": "Храм Тодайдзи"
+            },
+            {
+                "kanji": "待つ",
+                "jp": "まつ",
+                "uz": "Kutmoq",
+                "en": "To wait",
+                "ru": "Ждать"
+            },
+            {
+                "kanji": "待合室",
+                "jp": "まちあいしつ",
+                "uz": "Kutish xonasi",
+                "en": "Waiting room",
+                "ru": "Комната ожидания"
+            },
+            {
+                "kanji": "招待する",
+                "jp": "しょうたいする",
+                "uz": "Taklif qilmoq",
+                "en": "To invite",
+                "ru": "Приглашать"
+            },
+            {
+                "kanji": "期待する",
+                "jp": "きたいする",
+                "uz": "Kutish, umid qilish",
+                "en": "To expect, anticipate",
+                "ru": "Ожидать, надеяться"
+            },
+            {
+                "kanji": "時々",
+                "jp": "ときどき",
+                "uz": "Ba'zan",
+                "en": "Sometimes",
+                "ru": "Иногда"
+            },
+            {
+                "kanji": "時計",
+                "jp": "とけい",
+                "uz": "Soat",
+                "en": "Clock, watch",
+                "ru": "Часы"
+            },
+            {
+                "kanji": "時間",
+                "jp": "じかん",
+                "uz": "Vaqt",
+                "en": "Time, hour",
+                "ru": "Время"
+            },
+            {
+                "kanji": "四時",
+                "jp": "よじ",
+                "uz": "Soat to‘rt",
+                "en": "Four o'clock",
+                "ru": "Четыре часа"
+            },
+            {
+                "kanji": "時代",
+                "jp": "じだい",
+                "uz": "Davr",
+                "en": "Era, period",
+                "ru": "Эпоха, период"
+            }
+        ]
+    },
+    {
+        "lesson": 8,
+        "data": [
+            {
+                "kanji": "持つ",
+                "jp": "もつ",
+                "uz": "Egalik qilmoq",
+                "en": "To hold, to have",
+                "ru": "Держать, иметь"
+            },
+            {
+                "kanji": "気持ち",
+                "jp": "きもち",
+                "uz": "Kayfiyat",
+                "en": "Feeling, mood",
+                "ru": "Чувство, настроение"
+            },
+            {
+                "kanji": "持ち物",
+                "jp": "もちもの",
+                "uz": "Tegishli narsalar",
+                "en": "Belongings",
+                "ru": "Вещи, принадлежности"
+            },
+            {
+                "kanji": "持ち帰り",
+                "jp": "もちかえり",
+                "uz": "Olib ketish",
+                "en": "Takeout, takeaway",
+                "ru": "На вынос"
+            },
+            {
+                "kanji": "特に",
+                "jp": "とくに",
+                "uz": "Ayniqsa, asosan",
+                "en": "Especially",
+                "ru": "Особенно"
+            },
+            {
+                "kanji": "特別な",
+                "jp": "とくべつな",
+                "uz": "Maxsus",
+                "en": "Special",
+                "ru": "Особенный"
+            },
+            {
+                "kanji": "特急",
+                "jp": "とっきゅう",
+                "uz": "Ekspres",
+                "en": "Limited express (train)",
+                "ru": "Скорый поезд"
+            },
+            {
+                "kanji": "買う",
+                "jp": "かう",
+                "uz": "Sotib olmoq",
+                "en": "To buy",
+                "ru": "Покупать"
+            },
+            {
+                "kanji": "買い物",
+                "jp": "かいもの",
+                "uz": "Bozorlik, xarid",
+                "en": "Shopping",
+                "ru": "Покупки"
+            },
+            {
+                "kanji": "店員",
+                "jp": "てんいん",
+                "uz": "Sotuvchi",
+                "en": "Shop clerk",
+                "ru": "Продавец"
+            },
+            {
+                "kanji": "会社員",
+                "jp": "かいしゃいん",
+                "uz": "Firma hodimi",
+                "en": "Company employee",
+                "ru": "Сотрудник компании"
+            },
+            {
+                "kanji": "会員",
+                "jp": "かいいん",
+                "uz": "A`zo",
+                "en": "Member",
+                "ru": "Член"
+            },
+            {
+                "kanji": "定員",
+                "jp": "ていいん",
+                "uz": "Sig`im, hajm",
+                "en": "Capacity, allowed number",
+                "ru": "Вместимость"
+            },
+            {
+                "kanji": "新入社員",
+                "jp": "しんにゅうしゃいん",
+                "uz": "Yangi hodim",
+                "en": "New employee",
+                "ru": "Новый сотрудник"
+            },
+            {
+                "kanji": "質問する",
+                "jp": "しつもんする",
+                "uz": "Savol so`ramoq",
+                "en": "To ask a question",
+                "ru": "Задавать вопрос"
+            },
+            {
+                "kanji": "質",
+                "jp": "しつ",
+                "uz": "Sifat",
+                "en": "Quality",
+                "ru": "Качество"
+            },
+            {
+                "kanji": "店",
+                "jp": "みせ",
+                "uz": "Do`kon",
+                "en": "Shop, store",
+                "ru": "Магазин"
+            },
+            {
+                "kanji": "店内",
+                "jp": "てんない",
+                "uz": "Do`konning ichkarisi",
+                "en": "Inside the shop",
+                "ru": "Внутри магазина"
+            },
+            {
+                "kanji": "開ける",
+                "jp": "あける",
+                "uz": "Ochmoq",
+                "en": "To open (something)",
+                "ru": "Открывать"
+            },
+            {
+                "kanji": "開く",
+                "jp": "あく",
+                "uz": "Ochiq bo`lmoq",
+                "en": "To be open",
+                "ru": "Быть открытым"
+            },
+            {
+                "kanji": "開く",
+                "jp": "ひらく",
+                "uz": "Ochmoq, tashkil qilmoq",
+                "en": "To open, hold (an event)",
+                "ru": "Открывать, организовывать"
+            },
+            {
+                "kanji": "開店時間",
+                "jp": "かいてんじかん",
+                "uz": "Ochilish vaqti",
+                "en": "Opening time",
+                "ru": "Время открытия"
+            },
+            {
+                "kanji": "閉める",
+                "jp": "しめる",
+                "uz": "Yopmoq",
+                "en": "To close (something)",
+                "ru": "Закрывать"
+            },
+            {
+                "kanji": "閉まる",
+                "jp": "しまる",
+                "uz": "Yopiq bo`lmoq",
+                "en": "To be closed",
+                "ru": "Быть закрытым"
+            },
+            {
+                "kanji": "閉じる",
+                "jp": "とじる",
+                "uz": "Yopmoq",
+                "en": "To close (books, eyes)",
+                "ru": "Закрывать"
+            },
+            {
+                "kanji": "閉店する",
+                "jp": "へいてんする",
+                "uz": "Do`konni yopmoq",
+                "en": "To close a store",
+                "ru": "Закрывать магазин"
+            },
+            {
+                "kanji": "問う",
+                "jp": "とう",
+                "uz": "Savol so`ramoq",
+                "en": "To ask, inquire",
+                "ru": "Спрашивать"
+            },
+            {
+                "kanji": "問い合わせ",
+                "jp": "といあわせ",
+                "uz": "So`roqqa tutish, so`rovnoma",
+                "en": "Inquiry",
+                "ru": "Запрос"
+            },
+            {
+                "kanji": "問題",
+                "jp": "もんだい",
+                "uz": "Savol, muammo",
+                "en": "Problem, question",
+                "ru": "Проблема, вопрос"
+            },
+            {
+                "kanji": "訪問する",
+                "jp": "ほうもんする",
+                "uz": "Tashrif buyurmoq",
+                "en": "To visit",
+                "ru": "Посещать"
+            },
+            {
+                "kanji": "自分",
+                "jp": "じぶん",
+                "uz": "O`zi, yolg`iz, yakka o`zi",
+                "en": "Oneself",
+                "ru": "Сам"
+            },
+            {
+                "kanji": "自由な",
+                "jp": "じゆうな",
+                "uz": "Ozod, erkin",
+                "en": "Free, unrestricted",
+                "ru": "Свободный"
+            },
+            {
+                "kanji": "自動ドア",
+                "jp": "じどうドア",
+                "uz": "Avtomat eshik",
+                "en": "Automatic door",
+                "ru": "Автоматическая дверь"
+            },
+            {
+                "kanji": "自宅",
+                "jp": "じたく",
+                "uz": "O`zining uyi",
+                "en": "One’s home",
+                "ru": "Свой дом"
+            },
+            {
+                "kanji": "自信",
+                "jp": "じしん",
+                "uz": "Ishonch",
+                "en": "Confidence",
+                "ru": "Уверенность"
+            },
+            {
+                "kanji": "首",
+                "jp": "くび",
+                "uz": "Bo`yin, tomoq",
+                "en": "Neck",
+                "ru": "Шея"
+            },
+            {
+                "kanji": "首相",
+                "jp": "しゅしょう",
+                "uz": "Bosh vazir",
+                "en": "Prime minister",
+                "ru": "Премьер-министр"
+            },
+            {
+                "kanji": "道",
+                "jp": "みち",
+                "uz": "Yo`l, ko`cha",
+                "en": "Road, path",
+                "ru": "Дорога, путь"
+            },
+            {
+                "kanji": "水道",
+                "jp": "すいどう",
+                "uz": "Suv yo`li",
+                "en": "Water supply, tap",
+                "ru": "Водопровод"
+            },
+            {
+                "kanji": "道具",
+                "jp": "どうぐ",
+                "uz": "Asbob-uskuna",
+                "en": "Tool, instrument",
+                "ru": "Инструмент"
+            },
+            {
+                "kanji": "歩道",
+                "jp": "ほどう",
+                "uz": "Yo`lak",
+                "en": "Sidewalk, pedestrian path",
+                "ru": "Тротуар"
+            },
+            {
+                "kanji": "車道",
+                "jp": "しゃどう",
+                "uz": "Shosse, mashinalar yo`li",
+                "en": "Roadway, street for vehicles",
+                "ru": "Дорога для машин"
+            },
+            {
+                "kanji": "毎週",
+                "jp": "まいしゅう",
+                "uz": "Har hafta",
+                "en": "Every week",
+                "ru": "Каждую неделю"
+            },
+            {
+                "kanji": "来週",
+                "jp": "らいしゅう",
+                "uz": "Kelasi hafta",
+                "en": "Next week",
+                "ru": "На следующей неделе"
+            },
+            {
+                "kanji": "先週",
+                "jp": "せんしゅう",
+                "uz": "O`tgan hafta",
+                "en": "Last week",
+                "ru": "На прошлой неделе"
+            },
+            {
+                "kanji": "一週間",
+                "jp": "いっしゅうかん",
+                "uz": "Bir hafta",
+                "en": "One week",
+                "ru": "Одна неделя"
+            },
+            {
+                "kanji": "週末",
+                "jp": "しゅうまつ",
+                "uz": "Hafta oxiri",
+                "en": "Weekend",
+                "ru": "Выходные"
+            },
+            {
+                "kanji": "重い",
+                "jp": "おもい",
+                "uz": "Og`ir",
+                "en": "Heavy",
+                "ru": "Тяжелый"
+            },
+            {
+                "kanji": "体重",
+                "jp": "たいじゅう",
+                "uz": "Tana og`irligi",
+                "en": "Body weight",
+                "ru": "Вес тела"
+            },
+            {
+                "kanji": "重大な",
+                "jp": "じゅうだいな",
+                "uz": "Muhim",
+                "en": "Serious, important",
+                "ru": "Серьезный, важный"
+            },
+            {
+                "kanji": "動く",
+                "jp": "うごく",
+                "uz": "Harakatlanmoq",
+                "en": "To move",
+                "ru": "Двигаться"
+            },
+            {
+                "kanji": "自動車",
+                "jp": "じどうしゃ",
+                "uz": "Avtomobil",
+                "en": "Car",
+                "ru": "Автомобиль"
+            },
+            {
+                "kanji": "動物",
+                "jp": "どうぶつ",
+                "uz": "Hayvon",
+                "en": "Animal",
+                "ru": "Животное"
+            },
+            {
+                "kanji": "動物園",
+                "jp": "どうぶつえん",
+                "uz": "Hayvonot bog`i",
+                "en": "Zoo",
+                "ru": "Зоопарк"
+            },
+            {
+                "kanji": "運動する",
+                "jp": "うんどうする",
+                "uz": "Mashq qilmoq",
+                "en": "To exercise",
+                "ru": "Заниматься спортом"
+            },
+            {
+                "kanji": "働く",
+                "jp": "はたらく",
+                "uz": "Ishlamoq",
+                "en": "To work",
+                "ru": "Работать"
+            },
+            {
+                "kanji": "労働",
+                "jp": "ろうどう",
+                "uz": "Mehnat, ish",
+                "en": "Labor, work",
+                "ru": "Труд, работа"
+            },
+            {
+                "kanji": "早い",
+                "jp": "はやい",
+                "uz": "Barvaqt, erta",
+                "en": "Early, fast",
+                "ru": "Рано, быстрый"
+            },
+            {
+                "kanji": "早く",
+                "jp": "はやく",
+                "uz": "Tez",
+                "en": "Quickly",
+                "ru": "Быстро"
+            },
+            {
+                "kanji": "花",
+                "jp": "はな",
+                "uz": "Gul",
+                "en": "Flower",
+                "ru": "Цветок"
+            },
+            {
+                "kanji": "花見",
+                "jp": "はなみ",
+                "uz": "Sakura gulini tomosha qilish",
+                "en": "Cherry blossom viewing",
+                "ru": "Любование сакурой"
+            },
+            {
+                "kanji": "花火",
+                "jp": "はなび",
+                "uz": "Mushakbozlik",
+                "en": "Fireworks",
+                "ru": "Фейерверк"
+            },
+            {
+                "kanji": "花瓶",
+                "jp": "かびん",
+                "uz": "Vaza",
+                "en": "Vase",
+                "ru": "Ваза"
+            },
+            {
+                "kanji": "草",
+                "jp": "くさ",
+                "uz": "O`t, maysa",
+                "en": "Grass",
+                "ru": "Трава"
+            },
+            {
+                "kanji": "草原",
+                "jp": "そうげん",
+                "uz": "Maysazor",
+                "en": "Grassland, prairie",
+                "ru": "Луг, степь"
+            },
+            {
+                "kanji": "お茶",
+                "jp": "おちゃ",
+                "uz": "Choy",
+                "en": "Tea",
+                "ru": "Чай"
+            },
+            {
+                "kanji": "紅茶",
+                "jp": "こうちゃ",
+                "uz": "Qora choy",
+                "en": "Black tea",
+                "ru": "Чёрный чай"
+            },
+            {
+                "kanji": "茶色",
+                "jp": "ちゃいろ",
+                "uz": "Jigarrang",
+                "en": "Brown",
+                "ru": "Коричневый"
+            },
+            {
+                "kanji": "喫茶店",
+                "jp": "きっさてん",
+                "uz": "Qahvaxona",
+                "en": "Cafe, tea house",
+                "ru": "Кафе, чайная"
+            }
+        ]
+    }
+]
