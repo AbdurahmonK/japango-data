@@ -1,0 +1,6661 @@
+[
+  {
+    "lesson": 26,
+    "data": [
+      {
+        "jp": "みます",
+        "uz": "ko‘rmoq, tekshirmoq",
+        "en": "to look at, to check",
+        "ru": "смотреть, проверять"
+      },
+      {
+        "jp": "さがします",
+        "uz": "qidirmoq",
+        "en": "to search, to look for",
+        "ru": "искать"
+      },
+      {
+        "jp": "おくれます",
+        "uz": "kechikmoq (vaqtga -)",
+        "en": "to be late",
+        "ru": "опаздывать"
+      },
+      {
+        "jp": "まにあいます",
+        "uz": "ulgurmoq (vaqtga -)",
+        "en": "to be in time",
+        "ru": "успевать вовремя"
+      },
+      {
+        "jp": "やります",
+        "uz": "qilmoq, bajarmoq",
+        "en": "to do, to perform",
+        "ru": "делать, выполнять"
+      },
+      {
+        "jp": "ひろいます",
+        "uz": "yerdan terib olmoq",
+        "en": "to pick up (from the ground)",
+        "ru": "подбирать"
+      },
+      {
+        "jp": "れんらくします",
+        "uz": "xabar qilmoq, bog‘lanmoq",
+        "en": "to contact, to get in touch",
+        "ru": "связываться, сообщать"
+      },
+      {
+        "jp": "きぶんがいい",
+        "uz": "kayfiyati chog‘, ahvoli yaxshi",
+        "en": "to feel well",
+        "ru": "хорошее самочувствие"
+      },
+      {
+        "jp": "きぶんがわるい",
+        "uz": "kayfiyati yo‘q, ahvoli yomon",
+        "en": "to feel unwell",
+        "ru": "плохое самочувствие"
+      },
+      {
+        "jp": "うんどうかい",
+        "uz": "sport musobaqasi",
+        "en": "sports day, athletic meet",
+        "ru": "спортивные соревнования"
+      },
+      {
+        "jp": "ぼんおどり",
+        "uz": "Bon raqsi",
+        "en": "Bon dance",
+        "ru": "танец Бон"
+      },
+      {
+        "jp": "フリーマーケット",
+        "uz": "bapaxorka (eski buyumlar bozori)",
+        "en": "flea market",
+        "ru": "блошиный рынок"
+      },
+      {
+        "jp": "ばしょ",
+        "uz": "joy",
+        "en": "place",
+        "ru": "место"
+      },
+      {
+        "jp": "ボランティア",
+        "uz": "ko‘ngilli",
+        "en": "volunteer",
+        "ru": "волонтёр"
+      },
+      {
+        "jp": "さいふ",
+        "uz": "hamyon",
+        "en": "wallet",
+        "ru": "кошелёк"
+      },
+      {
+        "jp": "ごみ",
+        "uz": "axlat",
+        "en": "garbage, trash",
+        "ru": "мусор"
+      },
+      {
+        "jp": "へいじつ",
+        "uz": "ish kunlari (Dushanbadan Jumagacha)",
+        "en": "weekday",
+        "ru": "будний день"
+      },
+      {
+        "jp": "〜べん",
+        "uz": "〜lahjasi，〜shevasi",
+        "en": "dialect of ~",
+        "ru": "диалект ~"
+      },
+      {
+        "jp": "こんど",
+        "uz": "keyingi safar",
+        "en": "next time",
+        "ru": "в следующий раз"
+      },
+      {
+        "jp": "ずいぶん",
+        "uz": "ancha, juda ko‘p",
+        "en": "very, quite a lot",
+        "ru": "очень, изрядно"
+      },
+      {
+        "jp": "ちょくせつ",
+        "uz": "bevosita, to‘g‘ridan-to‘g‘ri",
+        "en": "directly",
+        "ru": "непосредственно"
+      },
+      {
+        "jp": "いつでも",
+        "uz": "har doim",
+        "en": "anytime, always",
+        "ru": "в любое время"
+      },
+      {
+        "jp": "どこでも",
+        "uz": "har joyda",
+        "en": "anywhere",
+        "ru": "везде"
+      },
+      {
+        "jp": "だれでも",
+        "uz": "har kim ham",
+        "en": "anyone",
+        "ru": "любой человек"
+      },
+      {
+        "jp": "なんでも",
+        "uz": "hamma narsa",
+        "en": "anything",
+        "ru": "что угодно"
+      },
+      {
+        "jp": "こんな",
+        "uz": "bunaqa",
+        "en": "like this",
+        "ru": "такой"
+      },
+      {
+        "jp": "そんな",
+        "uz": "shunaqa",
+        "en": "like that (near listener)",
+        "ru": "такой (у тебя)"
+      },
+      {
+        "jp": "あんな",
+        "uz": "unaqa",
+        "en": "like that (over there)",
+        "ru": "такой (там)"
+      },
+      {
+        "jp": "かたづきます",
+        "uz": "tartibga keltirmoq",
+        "en": "to be tidied up, put in order",
+        "ru": "быть приведённым в порядок"
+      },
+      {
+        "jp": "だします",
+        "uz": "tashlamoq (axlatni)",
+        "en": "to put out, to take out",
+        "ru": "выносить"
+      },
+      {
+        "jp": "もえる ごみ",
+        "uz": "yonadigan axlatlar",
+        "en": "burnable trash",
+        "ru": "сжигаемый мусор"
+      },
+      {
+        "jp": "おきば",
+        "uz": "qo‘yish joyi",
+        "en": "storage place",
+        "ru": "место для хранения"
+      },
+      {
+        "jp": "よこ",
+        "uz": "yon (taraf)",
+        "en": "side, beside",
+        "ru": "бок, рядом"
+      },
+      {
+        "jp": "びん",
+        "uz": "shisha idish",
+        "en": "bottle",
+        "ru": "бутылка"
+      },
+      {
+        "jp": "かん",
+        "uz": "konserva banka",
+        "en": "can, tin",
+        "ru": "жестяная банка"
+      },
+      {
+        "jp": "ガス",
+        "uz": "gaz",
+        "en": "gas",
+        "ru": "газ"
+      },
+      {
+        "jp": "〜がいしゃ",
+        "uz": "〜korxonasi",
+        "en": "company of ~",
+        "ru": "компания ~"
+      },
+      {
+        "jp": "うちゅう",
+        "uz": "fazo, kosmos",
+        "en": "universe, space",
+        "ru": "космос, вселенная"
+      },
+      {
+        "jp": "〜さま",
+        "uz": "～janob, ～xonim",
+        "en": "Mr./Ms. (honorific)",
+        "ru": "господин/госпожа"
+      },
+      {
+        "jp": "うちゅうせん",
+        "uz": "kosmik kema",
+        "en": "spaceship",
+        "ru": "космический корабль"
+      },
+      {
+        "jp": "こわい",
+        "uz": "qo‘rqinchli",
+        "en": "scary, frightening",
+        "ru": "страшный"
+      },
+      {
+        "jp": "うちゅうステーション",
+        "uz": "koinot bekati, kosmik stantsiya",
+        "en": "space station",
+        "ru": "космическая станция"
+      },
+      {
+        "jp": "ちがいます",
+        "uz": "farq qilmoq",
+        "en": "to be different, to be wrong",
+        "ru": "отличаться, ошибаться"
+      },
+      {
+        "jp": "うちゅうひこうし",
+        "uz": "fazogir",
+        "en": "astronaut",
+        "ru": "космонавт"
+      }
+    ]
+  },
+  {
+    "lesson": 27,
+    "data": [
+      {
+        "jp": "かいます",
+        "uz": "boqmoq",
+        "en": "to keep (a pet), to raise",
+        "ru": "держать (животное), разводить"
+      },
+      {
+        "jp": "はしります",
+        "uz": "yugurmoq (ko‘chada〜)",
+        "en": "to run (on the street)",
+        "ru": "бегать (по улице)"
+      },
+      {
+        "jp": "みえます",
+        "uz": "ko‘rinmoq (tog‘〜)",
+        "en": "to be visible (mountain)",
+        "ru": "быть видимым (гора)"
+      },
+      {
+        "jp": "きこえます",
+        "uz": "eshitilmoq (tovush～)",
+        "en": "to be heard (sound)",
+        "ru": "слышаться (звук)"
+      },
+      {
+        "jp": "できます",
+        "uz": "qad ko‘tarmoq (ko‘cha〜)",
+        "en": "to be built, to be completed (a street)",
+        "ru": "быть построенным (улица)"
+      },
+      {
+        "jp": "ひらきます",
+        "uz": "ochmoq, tashkil qilmoq (kurs〜)",
+        "en": "to open, to set up (a class)",
+        "ru": "открывать, организовывать (курс)"
+      },
+      {
+        "jp": "しんぱい[な]",
+        "uz": "xavotirli",
+        "en": "worrying, anxious",
+        "ru": "тревожный"
+      },
+      {
+        "jp": "ペット",
+        "uz": "uy hayvoni",
+        "en": "pet",
+        "ru": "домашнее животное"
+      },
+      {
+        "jp": "とり",
+        "uz": "qush",
+        "en": "bird",
+        "ru": "птица"
+      },
+      {
+        "jp": "こえ",
+        "uz": "ovoz",
+        "en": "voice",
+        "ru": "голос"
+      },
+      {
+        "jp": "なみ",
+        "uz": "to‘lqin",
+        "en": "wave",
+        "ru": "волна"
+      },
+      {
+        "jp": "はなび",
+        "uz": "mushak",
+        "en": "fireworks",
+        "ru": "фейерверк"
+      },
+      {
+        "jp": "どうぐ",
+        "uz": "asbob, qurol",
+        "en": "tool, equipment",
+        "ru": "инструмент, средство"
+      },
+      {
+        "jp": "クリーニング",
+        "uz": "kimyoviy tozalash",
+        "en": "dry cleaning",
+        "ru": "химчистка"
+      },
+      {
+        "jp": "いえ",
+        "uz": "uy",
+        "en": "house",
+        "ru": "дом"
+      },
+      {
+        "jp": "マンション",
+        "uz": "ko‘p qavatli bino",
+        "en": "apartment building",
+        "ru": "многоквартирный дом"
+      },
+      {
+        "jp": "キッチン",
+        "uz": "oshxona",
+        "en": "kitchen",
+        "ru": "кухня"
+      },
+      {
+        "jp": "〜きょうしつ",
+        "uz": "〜o‘quv xonasi",
+        "en": "classroom of 〜",
+        "ru": "класс, аудитория по 〜"
+      },
+      {
+        "jp": "パーティールーム",
+        "uz": "bazmxona",
+        "en": "party room",
+        "ru": "зал для вечеринок"
+      },
+      {
+        "jp": "かた",
+        "uz": "odam (ひとning hurmat shakli)",
+        "en": "person (polite form of ひと)",
+        "ru": "человек (вежливая форма от ひと)"
+      },
+      {
+        "jp": "〜ご",
+        "uz": "-keyin",
+        "en": "after 〜",
+        "ru": "после 〜"
+      },
+      {
+        "jp": "〜しか",
+        "uz": "-gina",
+        "en": "only 〜",
+        "ru": "только 〜"
+      },
+      {
+        "jp": "ほかの",
+        "uz": "boshqa",
+        "en": "other",
+        "ru": "другой"
+      },
+      {
+        "jp": "はっきり",
+        "uz": "aniq, lo‘nda",
+        "en": "clearly",
+        "ru": "ясно, отчётливо"
+      },
+      {
+        "jp": "かぐ",
+        "uz": "mebel",
+        "en": "furniture",
+        "ru": "мебель"
+      },
+      {
+        "jp": "ほんだな",
+        "uz": "kitob javoni",
+        "en": "bookshelf",
+        "ru": "книжная полка"
+      },
+      {
+        "jp": "いつか",
+        "uz": "qachondir",
+        "en": "someday",
+        "ru": "когда-нибудь"
+      },
+      {
+        "jp": "たてます",
+        "uz": "qurmoq",
+        "en": "to build",
+        "ru": "строить"
+      },
+      {
+        "jp": "すばらしい",
+        "uz": "ajoyib",
+        "en": "wonderful, great",
+        "ru": "замечательный"
+      },
+      {
+        "jp": "こどもたち",
+        "uz": "bolalar",
+        "en": "children",
+        "ru": "дети"
+      },
+      {
+        "jp": "だいすき[な］",
+        "uz": "sevimli",
+        "en": "favorite, very likeable",
+        "ru": "любимый"
+      },
+      {
+        "jp": "しゅじんこう",
+        "uz": "bosh qahramon, personaj",
+        "en": "protagonist, main character",
+        "ru": "главный герой, персонаж"
+      },
+      {
+        "jp": "かたち",
+        "uz": "shakl",
+        "en": "shape, form",
+        "ru": "форма"
+      },
+      {
+        "jp": "ふしぎ[な］",
+        "uz": "g‘alati",
+        "en": "strange, mysterious",
+        "ru": "странный, загадочный"
+      },
+      {
+        "jp": "ポケット",
+        "uz": "cho‘ntak",
+        "en": "pocket",
+        "ru": "карман"
+      },
+      {
+        "jp": "たとえば",
+        "uz": "masalan, misol uchun",
+        "en": "for example",
+        "ru": "например"
+      },
+      {
+        "jp": "つけます",
+        "uz": "ulamoq",
+        "en": "to attach, to join",
+        "ru": "прикреплять, соединять"
+      },
+      {
+        "jp": "じゆうに",
+        "uz": "mustaqil, erkin",
+        "en": "freely",
+        "ru": "свободно"
+      },
+      {
+        "jp": "そら",
+        "uz": "osmon",
+        "en": "sky",
+        "ru": "небо"
+      },
+      {
+        "jp": "とびます",
+        "uz": "uchmoq",
+        "en": "to fly",
+        "ru": "летать"
+      },
+      {
+        "jp": "むかし",
+        "uz": "qadimda, ilgari",
+        "en": "long ago, in the past",
+        "ru": "давно, раньше"
+      },
+      {
+        "jp": "じぶん",
+        "uz": "o‘zim",
+        "en": "myself, oneself",
+        "ru": "сам, себя"
+      },
+      {
+        "jp": "しょうらい",
+        "uz": "kelajak",
+        "en": "future",
+        "ru": "будущее"
+      }
+    ]
+  },
+  {
+    "lesson": 28,
+    "data": [
+      {
+        "jp": "うれます",
+        "uz": "sotilmoq (non～)",
+        "en": "to sell (bread, etc.)",
+        "ru": "продаваться (хлеб и т.п.)"
+      },
+      {
+        "jp": "おどります",
+        "uz": "raqsga tushmoq",
+        "en": "to dance",
+        "ru": "танцевать"
+      },
+      {
+        "jp": "かみます",
+        "uz": "tishlamoq; chaynamoq",
+        "en": "to bite, to chew",
+        "ru": "кусать, жевать"
+      },
+      {
+        "jp": "えらびます",
+        "uz": "tanlamoq",
+        "en": "to choose, to select",
+        "ru": "выбирать"
+      },
+      {
+        "jp": "かよいます",
+        "uz": "qatnamoq (universitetga～)",
+        "en": "to commute (to university)",
+        "ru": "посещать, ходить (в университет)"
+      },
+      {
+        "jp": "メモします",
+        "uz": "qayd qilmoq",
+        "en": "to make a note",
+        "ru": "делать заметку"
+      },
+      {
+        "jp": "まじめ[な]",
+        "uz": "jiddiy",
+        "en": "serious",
+        "ru": "серьёзный"
+      },
+      {
+        "jp": "ねっしん[な]",
+        "uz": "tirishqoq, g‘ayratli",
+        "en": "enthusiastic, eager",
+        "ru": "старательный, усердный"
+      },
+      {
+        "jp": "えらい",
+        "uz": "zo‘r, ulug",
+        "en": "great, admirable",
+        "ru": "великий, выдающийся"
+      },
+      {
+        "jp": "ちょうどいい",
+        "uz": "ayni muddao, xuddi o‘zi",
+        "en": "just right",
+        "ru": "как раз подходящий"
+      },
+      {
+        "jp": "けしき",
+        "uz": "manzara, ko‘rinish",
+        "en": "scenery, view",
+        "ru": "пейзаж, вид"
+      },
+      {
+        "jp": "びよういん",
+        "uz": "go‘zallik saloni",
+        "en": "beauty salon",
+        "ru": "салон красоты"
+      },
+      {
+        "jp": "だいどころ",
+        "uz": "oshxona",
+        "en": "kitchen",
+        "ru": "кухня"
+      },
+      {
+        "jp": "けいけん",
+        "uz": "tajriba",
+        "en": "experience",
+        "ru": "опыт"
+      },
+      {
+        "jp": "ちから",
+        "uz": "kuch",
+        "en": "power, strength",
+        "ru": "сила"
+      },
+      {
+        "jp": "にんき",
+        "uz": "e’tiborli, e’tiborga loyiq",
+        "en": "popular, well-liked",
+        "ru": "популярность"
+      },
+      {
+        "jp": "かたち",
+        "uz": "shakl",
+        "en": "shape, form",
+        "ru": "форма"
+      },
+      {
+        "jp": "いろ",
+        "uz": "rang",
+        "en": "color",
+        "ru": "цвет"
+      },
+      {
+        "jp": "あじ",
+        "uz": "ta’m",
+        "en": "taste",
+        "ru": "вкус"
+      },
+      {
+        "jp": "ガム",
+        "uz": "saqich",
+        "en": "chewing gum",
+        "ru": "жевательная резинка"
+      },
+      {
+        "jp": "しなもの",
+        "uz": "mahsulot",
+        "en": "goods, items",
+        "ru": "товар"
+      },
+      {
+        "jp": "ねだん",
+        "uz": "narx",
+        "en": "price",
+        "ru": "цена"
+      },
+      {
+        "jp": "きゅうりょう",
+        "uz": "maosh, oylik",
+        "en": "salary",
+        "ru": "зарплата"
+      },
+      {
+        "jp": "ボーナス",
+        "uz": "premiya, mukofot puli",
+        "en": "bonus",
+        "ru": "премия"
+      },
+      {
+        "jp": "ゲーム",
+        "uz": "o‘yin",
+        "en": "game",
+        "ru": "игра"
+      },
+      {
+        "jp": "ばんぐみ",
+        "uz": "ko‘rsatuv",
+        "en": "program, show",
+        "ru": "передача"
+      },
+      {
+        "jp": "ドラマ",
+        "uz": "serial",
+        "en": "drama, TV series",
+        "ru": "сериал"
+      },
+      {
+        "jp": "かしゅ",
+        "uz": "qo‘shiqchi",
+        "en": "singer",
+        "ru": "певец"
+      },
+      {
+        "jp": "しょうせつ",
+        "uz": "roman, hikoya",
+        "en": "novel",
+        "ru": "роман"
+      },
+      {
+        "jp": "しょうせつか",
+        "uz": "yozuvchi, hikoyanavis",
+        "en": "novelist",
+        "ru": "романист, писатель"
+      },
+      {
+        "jp": "〜か",
+        "uz": "～chi, -kor (rasmchi, sana’tkor)",
+        "en": "person who does 〜 (e.g. artist, scholar)",
+        "ru": "суффикс профессии (например, художник, учёный)"
+      },
+      {
+        "jp": "〜き",
+        "uz": "～mashina",
+        "en": "machine of 〜",
+        "ru": "машина, аппарат"
+      },
+      {
+        "jp": "むすこ",
+        "uz": "o‘g‘il, o‘g'lim",
+        "en": "son, my son",
+        "ru": "сын, мой сын"
+      },
+      {
+        "jp": "むすこさん",
+        "uz": "o‘g‘lingiz, o‘g‘li",
+        "en": "your son, someone’s son",
+        "ru": "ваш сын, сын (чей-то)"
+      },
+      {
+        "jp": "むすめ",
+        "uz": "qiz, qizim",
+        "en": "daughter, my daughter",
+        "ru": "дочь, моя дочь"
+      },
+      {
+        "jp": "むすめさん",
+        "uz": "qizingiz, qizi",
+        "en": "your daughter, someone’s daughter",
+        "ru": "ваша дочь, дочь (чья-то)"
+      },
+      {
+        "jp": "じぶん",
+        "uz": "o‘zi(m, -ng)",
+        "en": "oneself",
+        "ru": "сам, себя"
+      },
+      {
+        "jp": "しょうらい",
+        "uz": "kelajak",
+        "en": "future",
+        "ru": "будущее"
+      },
+      {
+        "jp": "しばらく",
+        "uz": "bir oz vaqt",
+        "en": "a little while",
+        "ru": "некоторое время"
+      },
+      {
+        "jp": "たいてい",
+        "uz": "asosan",
+        "en": "usually, mostly",
+        "ru": "обычно"
+      },
+      {
+        "jp": "それに",
+        "uz": "buning ustiga",
+        "en": "besides, moreover",
+        "ru": "к тому же"
+      },
+      {
+        "jp": "それで",
+        "uz": "shuning uchun",
+        "en": "so, therefore",
+        "ru": "поэтому"
+      },
+      {
+        "jp": "[ちょっと]おねがいが あるんです が。",
+        "uz": "Sizdan iltimos ....",
+        "en": "I have a small favor to ask...",
+        "ru": "У меня есть небольшая просьба..."
+      },
+      {
+        "jp": "じつは",
+        "uz": "ochig‘i, rostini aytsam",
+        "en": "actually, to tell the truth",
+        "ru": "на самом деле, по правде говоря"
+      },
+      {
+        "jp": "かいわ",
+        "uz": "suhbat",
+        "en": "conversation",
+        "ru": "разговор, диалог"
+      },
+      {
+        "jp": "うーん",
+        "uz": "Ha. / Xo‘p.",
+        "en": "Hmm... / Well...",
+        "ru": "Хм... / Ну..."
+      },
+      {
+        "jp": "おしらせ",
+        "uz": "e’lon, xabar",
+        "en": "notice, announcement",
+        "ru": "объявление, сообщение"
+      },
+      {
+        "jp": "さんかします",
+        "uz": "ishtirok etmoq, qatnashmoq",
+        "en": "to participate",
+        "ru": "участвовать"
+      },
+      {
+        "jp": "ひにち",
+        "uz": "sana",
+        "en": "date",
+        "ru": "дата"
+      },
+      {
+        "jp": "ど",
+        "uz": "shanba",
+        "en": "Saturday",
+        "ru": "суббота"
+      },
+      {
+        "jp": "たいいくかん",
+        "uz": "sportzal",
+        "en": "gymnasium",
+        "ru": "спортзал"
+      },
+      {
+        "jp": "むりょう",
+        "uz": "bepul, tekin",
+        "en": "free of charge",
+        "ru": "бесплатно"
+      },
+      {
+        "jp": "さそいます",
+        "uz": "chaqirmoq, taklif qilmoq",
+        "en": "to invite",
+        "ru": "приглашать"
+      },
+      {
+        "jp": "イベント",
+        "uz": "tadbir",
+        "en": "event",
+        "ru": "мероприятие"
+      }
+    ]
+  },
+  {
+    "lesson": 29,
+    "data": [
+      {
+        "jp": "あきます",
+        "uz": "ochilmoq (eshik ～)",
+        "en": "to open (door ～)",
+        "ru": "открываться (дверь ～)"
+      },
+      {
+        "jp": "しまります",
+        "uz": "yopilmoq (eshik ～)",
+        "en": "to close (door ～)",
+        "ru": "закрываться (дверь ～)"
+      },
+      {
+        "jp": "つきます",
+        "uz": "yonmoq (chiroq ～)",
+        "en": "to turn on, to be lit (light ～)",
+        "ru": "зажигаться, гореть (свет ～)"
+      },
+      {
+        "jp": "きえます",
+        "uz": "o‘chmoq (chiroq ～)",
+        "en": "to go out, disappear (light ～)",
+        "ru": "гаснуть, исчезать (свет ～)"
+      },
+      {
+        "jp": "こわれます",
+        "uz": "sinmoq, buzilmoq (stul ～)",
+        "en": "to break, to be broken (chair ～)",
+        "ru": "ломаться, быть сломанным (стул ～)"
+      },
+      {
+        "jp": "われます",
+        "uz": "sinmoq (stakan ～)",
+        "en": "to crack, to break (glass ～)",
+        "ru": "разбиваться (стакан ～)"
+      },
+      {
+        "jp": "おれます",
+        "uz": "sinmoq (daraxt ～)",
+        "en": "to snap, to break (tree ～)",
+        "ru": "сломаться, переломиться (дерево ～)"
+      },
+      {
+        "jp": "やぶれます",
+        "uz": "yirtilmoq (qog‘oz ～)",
+        "en": "to tear, to rip (paper ～)",
+        "ru": "рваться (бумага ～)"
+      },
+      {
+        "jp": "よごれます",
+        "uz": "iflos bo‘lmoq (kiyim ～)",
+        "en": "to get dirty (clothes ～)",
+        "ru": "пачкаться (одежда ～)"
+      },
+      {
+        "jp": "つきます",
+        "uz": "bo‘lmoq, bor bo‘lmoq (cho‘ntagi bor)",
+        "en": "to be attached, to have (pocket ～)",
+        "ru": "быть прикреплённым, иметь (карман ～)"
+      },
+      {
+        "jp": "はずれます",
+        "uz": "ochilmoq (tugmasi ochiq)",
+        "en": "to come undone (button ～)",
+        "ru": "расстёгиваться (пуговица ～)"
+      },
+      {
+        "jp": "とまります",
+        "uz": "to‘xtamoq (mashina～)",
+        "en": "to stop (car ～)",
+        "ru": "останавливаться (машина ～)"
+      },
+      {
+        "jp": "まちがえます",
+        "uz": "adashmoq, xato qilmoq",
+        "en": "to make a mistake",
+        "ru": "ошибаться"
+      },
+      {
+        "jp": "おとします",
+        "uz": "tushirmoq, yo‘qotmoq",
+        "en": "to drop, to lose",
+        "ru": "уронить, потерять"
+      },
+      {
+        "jp": "かかります",
+        "uz": "qulflanmoq (qulfloq)",
+        "en": "to be locked",
+        "ru": "быть запертым"
+      },
+      {
+        "jp": "ふきます",
+        "uz": "artmoq",
+        "en": "to wipe",
+        "ru": "вытирать"
+      },
+      {
+        "jp": "とりかえます",
+        "uz": "almashtirmoq",
+        "en": "to exchange, to replace",
+        "ru": "менять, заменять"
+      },
+      {
+        "jp": "かたづけます",
+        "uz": "yig‘ishtirmoq, tartibga keltirmoq",
+        "en": "to tidy up, to put in order",
+        "ru": "убирать, приводить в порядок"
+      },
+      {
+        "jp": "[お]さら",
+        "uz": "likopcha, tarelka",
+        "en": "plate, dish",
+        "ru": "тарелка"
+      },
+      {
+        "jp": "[お]ちゃわん",
+        "uz": "piyola, kosa",
+        "en": "rice bowl",
+        "ru": "чашка, пиала"
+      },
+      {
+        "jp": "コップ",
+        "uz": "stakan",
+        "en": "cup, glass",
+        "ru": "стакан"
+      },
+      {
+        "jp": "ガラス",
+        "uz": "shisha",
+        "en": "glass",
+        "ru": "стекло"
+      },
+      {
+        "jp": "ふくろ",
+        "uz": "paket, qop",
+        "en": "bag, sack",
+        "ru": "пакет, мешок"
+      },
+      {
+        "jp": "しょるい",
+        "uz": "hujjatlar",
+        "en": "documents",
+        "ru": "документы"
+      },
+      {
+        "jp": "えだ",
+        "uz": "shox",
+        "en": "branch",
+        "ru": "ветка"
+      },
+      {
+        "jp": "えきいん",
+        "uz": "vokzal (bekat) xodimi",
+        "en": "station staff",
+        "ru": "служащий станции"
+      },
+      {
+        "jp": "こうばん",
+        "uz": "politsiya posti",
+        "en": "police box",
+        "ru": "полицейский пост"
+      },
+      {
+        "jp": "スピーチ",
+        "uz": "nutq",
+        "en": "speech",
+        "ru": "речь"
+      },
+      {
+        "jp": "へんじ",
+        "uz": "javob",
+        "en": "reply, answer",
+        "ru": "ответ"
+      },
+      {
+        "jp": "おさきに どうぞ。",
+        "uz": "Avval siz.",
+        "en": "After you.",
+        "ru": "Вы первым."
+      },
+      {
+        "jp": "いまのでんしゃ",
+        "uz": "hozirgi poyezd",
+        "en": "the train just now",
+        "ru": "поезд только что"
+      },
+      {
+        "jp": "わすれもの",
+        "uz": "esdan chiqarib qoldirib ketilgan buyum",
+        "en": "forgotten item",
+        "ru": "забытая вещь"
+      },
+      {
+        "jp": "このくらい",
+        "uz": "mana bunday (kattaligi)",
+        "en": "about this size",
+        "ru": "примерно такого размера"
+      },
+      {
+        "jp": "〜がわ",
+        "uz": "～tomon",
+        "en": "side ～",
+        "ru": "сторона ～"
+      },
+      {
+        "jp": "ポケット",
+        "uz": "cho‘ntak",
+        "en": "pocket",
+        "ru": "карман"
+      },
+      {
+        "jp": "〜へん",
+        "uz": "～atrof",
+        "en": "around ～, vicinity",
+        "ru": "около ～, район"
+      },
+      {
+        "jp": "おぼえていません。",
+        "uz": "Yodimda yo‘q.",
+        "en": "I don't remember.",
+        "ru": "Не помню."
+      },
+      {
+        "jp": "あみだな",
+        "uz": "to‘rli yuk tokchasi",
+        "en": "luggage rack",
+        "ru": "багажная полка"
+      },
+      {
+        "jp": "たしか",
+        "uz": "balki",
+        "en": "probably, I'm not sure but...",
+        "ru": "наверное, если не ошибаюсь"
+      },
+      {
+        "jp": "ああ、よかった。",
+        "uz": "Uh, xudoga shukur!",
+        "en": "Oh, thank goodness!",
+        "ru": "О, слава богу!"
+      },
+      {
+        "jp": "じしん",
+        "uz": "zilzila",
+        "en": "earthquake",
+        "ru": "землетрясение"
+      },
+      {
+        "jp": "かべ",
+        "uz": "devor",
+        "en": "wall",
+        "ru": "стена"
+      },
+      {
+        "jp": "はり",
+        "uz": "soat mili",
+        "en": "hand (of a clock)",
+        "ru": "стрелка (часов)"
+      },
+      {
+        "jp": "さします",
+        "uz": "ko‘rsatmoq",
+        "en": "to point, indicate",
+        "ru": "указывать"
+      },
+      {
+        "jp": "えきまえ",
+        "uz": "vokzal (bekat) oldi hududi",
+        "en": "in front of station",
+        "ru": "перед станцией"
+      },
+      {
+        "jp": "たおれます",
+        "uz": "yiqilmoq, ag‘anamoq",
+        "en": "to fall down, collapse",
+        "ru": "падать, опрокидываться"
+      },
+      {
+        "jp": "にし",
+        "uz": "g‘arb",
+        "en": "west",
+        "ru": "запад"
+      },
+      {
+        "jp": "〜のほう",
+        "uz": "～tomon, taraf, yo‘nalish",
+        "en": "direction of ～",
+        "ru": "в сторону ～"
+      },
+      {
+        "jp": "もえます",
+        "uz": "yonmoq",
+        "en": "to burn",
+        "ru": "гореть"
+      },
+      {
+        "jp": "レポーター",
+        "uz": "muxbir",
+        "en": "reporter",
+        "ru": "репортёр"
+      }
+    ]
+  },
+  {
+    "lesson": 30,
+    "data": [
+      {
+        "jp": "はります",
+        "uz": "yopishtirmoq",
+        "en": "to stick, to paste",
+        "ru": "приклеить"
+      },
+      {
+        "jp": "かけます",
+        "uz": "ilmoq",
+        "en": "to hang",
+        "ru": "повесить"
+      },
+      {
+        "jp": "かざります",
+        "uz": "bezatmoq",
+        "en": "to decorate",
+        "ru": "украшать"
+      },
+      {
+        "jp": "ならべます",
+        "uz": "taxlamoq",
+        "en": "to arrange, to line up",
+        "ru": "расставлять"
+      },
+      {
+        "jp": "うえます",
+        "uz": "ekmoq",
+        "en": "to plant",
+        "ru": "сажать"
+      },
+      {
+        "jp": "もどします",
+        "uz": "qaytarmoq",
+        "en": "to return, to put back",
+        "ru": "возвращать"
+      },
+      {
+        "jp": "まとめます",
+        "uz": "jamlamoq",
+        "en": "to put together, to summarize",
+        "ru": "собрать, подытожить"
+      },
+      {
+        "jp": "しまいます",
+        "uz": "yashirmoq, solib qo‘ymoq",
+        "en": "to put away",
+        "ru": "убирать, класть на место"
+      },
+      {
+        "jp": "きめます",
+        "uz": "ahd qilmoq, qaror qilmoq",
+        "en": "to decide",
+        "ru": "решать"
+      },
+      {
+        "jp": "よしゅうします",
+        "uz": "dars qilmoq",
+        "en": "to prepare for a lesson",
+        "ru": "готовиться к уроку"
+      },
+      {
+        "jp": "ふくしゅうします",
+        "uz": "takrorlamoq",
+        "en": "to review, to revise",
+        "ru": "повторять"
+      },
+      {
+        "jp": "そのままにします",
+        "uz": "shu holicha qoldirmoq",
+        "en": "to leave as it is",
+        "ru": "оставить как есть"
+      },
+      {
+        "jp": "じゅぎょう",
+        "uz": "dars, mashg‘ulot",
+        "en": "class, lesson",
+        "ru": "урок, занятие"
+      },
+      {
+        "jp": "こうぎ",
+        "uz": "ma’ruza",
+        "en": "lecture",
+        "ru": "лекция"
+      },
+      {
+        "jp": "ミーティング",
+        "uz": "yig‘ilish",
+        "en": "meeting",
+        "ru": "собрание"
+      },
+      {
+        "jp": "よてい",
+        "uz": "reja",
+        "en": "schedule, plan",
+        "ru": "план"
+      },
+      {
+        "jp": "おしらせ",
+        "uz": "e’lon, xabar",
+        "en": "notice, announcement",
+        "ru": "объявление, уведомление"
+      },
+      {
+        "jp": "ガイドブック",
+        "uz": "yo‘lko‘rsatish chizmasi",
+        "en": "guidebook",
+        "ru": "путеводитель"
+      },
+      {
+        "jp": "カレンダー",
+        "uz": "kalendar，taqvim",
+        "en": "calendar",
+        "ru": "календарь"
+      },
+      {
+        "jp": "ポスター",
+        "uz": "plakat",
+        "en": "poster",
+        "ru": "плакат"
+      },
+      {
+        "jp": "よていひょう",
+        "uz": "reja jadvali",
+        "en": "schedule table",
+        "ru": "расписание"
+      },
+      {
+        "jp": "ごみばこ",
+        "uz": "axlat qutisi",
+        "en": "trash can",
+        "ru": "мусорное ведро"
+      },
+      {
+        "jp": "にんぎょう",
+        "uz": "qo‘g‘irchoq",
+        "en": "doll",
+        "ru": "кукла"
+      },
+      {
+        "jp": "かびん",
+        "uz": "guldon",
+        "en": "vase",
+        "ru": "ваза"
+      },
+      {
+        "jp": "かがみ",
+        "uz": "ko‘zgu",
+        "en": "mirror",
+        "ru": "зеркало"
+      },
+      {
+        "jp": "ひきだし",
+        "uz": "tortma",
+        "en": "drawer",
+        "ru": "ящик"
+      },
+      {
+        "jp": "げんかん",
+        "uz": "dahliz",
+        "en": "entrance, hallway",
+        "ru": "прихожая"
+      },
+      {
+        "jp": "ろうか",
+        "uz": "yo‘lak, koridor",
+        "en": "corridor, hallway",
+        "ru": "коридор"
+      },
+      {
+        "jp": "かべ",
+        "uz": "devor",
+        "en": "wall",
+        "ru": "стена"
+      },
+      {
+        "jp": "いけ",
+        "uz": "hovuz",
+        "en": "pond",
+        "ru": "пруд"
+      },
+      {
+        "jp": "もとのところ",
+        "uz": "o‘z joyiga",
+        "en": "original place",
+        "ru": "на прежнее место"
+      },
+      {
+        "jp": "まわり",
+        "uz": "atrof",
+        "en": "around, surroundings",
+        "ru": "окружение, вокруг"
+      },
+      {
+        "jp": "まんなか",
+        "uz": "o‘rtasi",
+        "en": "center, middle",
+        "ru": "середина"
+      },
+      {
+        "jp": "すみ",
+        "uz": "burchak",
+        "en": "corner",
+        "ru": "угол"
+      },
+      {
+        "jp": "まだ",
+        "uz": "hali",
+        "en": "still, yet",
+        "ru": "ещё"
+      },
+      {
+        "jp": "リュック",
+        "uz": "ryukzak, sumka",
+        "en": "backpack",
+        "ru": "рюкзак"
+      },
+      {
+        "jp": "ひじょうぶくろ",
+        "uz": "zarur buyumlar",
+        "en": "emergency bag",
+        "ru": "аварийная сумка"
+      },
+      {
+        "jp": "ひじょうじ",
+        "uz": "favqulodda holat",
+        "en": "emergency",
+        "ru": "чрезвычайная ситуация"
+      },
+      {
+        "jp": "せいかつします",
+        "uz": "hayot, boshdan kechirmoq",
+        "en": "to live, to make a living",
+        "ru": "жить, существовать"
+      },
+      {
+        "jp": "かいちゅうでんとう",
+        "uz": "fonar",
+        "en": "flashlight",
+        "ru": "фонарик"
+      },
+      {
+        "jp": "〜とか、〜とか",
+        "uz": "～mi，～mi va shunga o‘xshash",
+        "en": "such as ～, ～, etc.",
+        "ru": "например ～, ～ и т.д."
+      },
+      {
+        "jp": "まるい",
+        "uz": "doira, aylana",
+        "en": "round",
+        "ru": "круглый"
+      },
+      {
+        "jp": "ある 〜",
+        "uz": "bir ～",
+        "en": "a certain ～",
+        "ru": "некоторый ～"
+      },
+      {
+        "jp": "ゆめをみます",
+        "uz": "tush ko‘rish",
+        "en": "to dream",
+        "ru": "видеть сон"
+      },
+      {
+        "jp": "うれしい",
+        "uz": "xursand",
+        "en": "happy",
+        "ru": "радостный"
+      },
+      {
+        "jp": "いや[な]",
+        "uz": "yoqimsiz",
+        "en": "unpleasant",
+        "ru": "неприятный"
+      },
+      {
+        "jp": "すると",
+        "uz": "shunda",
+        "en": "then, thereupon",
+        "ru": "тогда, и тут"
+      },
+      {
+        "jp": "めがさめます",
+        "uz": "uyg‘onmoq",
+        "en": "to wake up",
+        "ru": "проснуться"
+      }
+    ]
+  },
+  {
+    "lesson": 31,
+    "data": [
+      {
+        "jp": "つづけます",
+        "uz": "davom ettirmoq",
+        "en": "to continue",
+        "ru": "продолжать"
+      },
+      {
+        "jp": "みつけます",
+        "uz": "topmoq",
+        "en": "to find",
+        "ru": "находить"
+      },
+      {
+        "jp": "とります [やすみを〜]",
+        "uz": "ta’til olmoq",
+        "en": "to take (a holiday)",
+        "ru": "брать отпуск"
+      },
+      {
+        "jp": "うけます [しけんを〜]",
+        "uz": "qabul qilmoq; topshirmoq (imtihon topshirmoq)",
+        "en": "to take (an exam)",
+        "ru": "сдавать (экзамен)"
+      },
+      {
+        "jp": "もうしこみます",
+        "uz": "ro‘yxatga yozilmoq",
+        "en": "to apply, to register",
+        "ru": "подавать заявление, регистрироваться"
+      },
+      {
+        "jp": "きゅうけいします",
+        "uz": "dam olmoq, tanaffus qilmoq",
+        "en": "to take a break",
+        "ru": "отдыхать, делать перерыв"
+      },
+      {
+        "jp": "れんきゅう",
+        "uz": "qatorasiga bir necha dam olish kunining kelishi",
+        "en": "consecutive holidays",
+        "ru": "несколько выходных подряд"
+      },
+      {
+        "jp": "さくぶん",
+        "uz": "insho",
+        "en": "composition, essay",
+        "ru": "сочинение"
+      },
+      {
+        "jp": "はっぴょう",
+        "uz": "og‘zaki nutq, bayon etish",
+        "en": "presentation, announcement",
+        "ru": "выступление, доклад"
+      },
+      {
+        "jp": "てんらんかい",
+        "uz": "ko‘rgazma",
+        "en": "exhibition",
+        "ru": "выставка"
+      },
+      {
+        "jp": "けっこんしき",
+        "uz": "nikoh to‘yi",
+        "en": "wedding ceremony",
+        "ru": "свадебная церемония"
+      },
+      {
+        "jp": "[お]そうしき",
+        "uz": "dafn marosimi",
+        "en": "funeral",
+        "ru": "похороны"
+      },
+      {
+        "jp": "しき",
+        "uz": "marosim",
+        "en": "ceremony",
+        "ru": "церемония"
+      },
+      {
+        "jp": "ほんしゃ",
+        "uz": "bosh ofis",
+        "en": "head office",
+        "ru": "главный офис"
+      },
+      {
+        "jp": "してん",
+        "uz": "filial",
+        "en": "branch office",
+        "ru": "филиал"
+      },
+      {
+        "jp": "きょうかい",
+        "uz": "cherkov",
+        "en": "church",
+        "ru": "церковь"
+      },
+      {
+        "jp": "だいがくいん",
+        "uz": "magistratura va aspirantura",
+        "en": "graduate school",
+        "ru": "магистратура, аспирантура"
+      },
+      {
+        "jp": "どうぶつえん",
+        "uz": "hayvonot bog‘i",
+        "en": "zoo",
+        "ru": "зоопарк"
+      },
+      {
+        "jp": "おんせん",
+        "uz": "“Onsen” - issiq buloq",
+        "en": "hot spring (onsen)",
+        "ru": "горячий источник"
+      },
+      {
+        "jp": "かえり",
+        "uz": "qaytish",
+        "en": "return",
+        "ru": "возвращение"
+      },
+      {
+        "jp": "おこさん",
+        "uz": "(birovning) bolasi, farzandingiz, farzandi",
+        "en": "someone’s child",
+        "ru": "чей-то ребёнок"
+      },
+      {
+        "jp": "―ごう",
+        "uz": "poyezd raqami, tayfun raqami",
+        "en": "number (of train, typhoon, etc.)",
+        "ru": "номер (поезда, тайфуна и т.д.)"
+      },
+      {
+        "jp": "〜のほう",
+        "uz": "～tomon",
+        "en": "direction of ～",
+        "ru": "в сторону ～"
+      },
+      {
+        "jp": "ずっと",
+        "uz": "ancha (vaqtga nisbatan)",
+        "en": "much, by far, continuously",
+        "ru": "намного, всё время"
+      },
+      {
+        "jp": "のこります",
+        "uz": "qolmoq",
+        "en": "to remain",
+        "ru": "оставаться"
+      },
+      {
+        "jp": "にゅうがくしけん",
+        "uz": "kirish imtihoni",
+        "en": "entrance exam",
+        "ru": "вступительный экзамен"
+      },
+      {
+        "jp": "つきに",
+        "uz": "(bir) oyda (vaqt)",
+        "en": "per month",
+        "ru": "в месяц"
+      },
+      {
+        "jp": "むら",
+        "uz": "qishloq",
+        "en": "village",
+        "ru": "деревня"
+      },
+      {
+        "jp": "そつぎょうします",
+        "uz": "o‘qishni bitirmoq",
+        "en": "to graduate",
+        "ru": "заканчивать учёбу"
+      },
+      {
+        "jp": "えいがかん",
+        "uz": "kinoteatr",
+        "en": "cinema, movie theater",
+        "ru": "кинотеатр"
+      },
+      {
+        "jp": "いや[な]",
+        "uz": "yoqimsiz",
+        "en": "unpleasant",
+        "ru": "неприятный"
+      },
+      {
+        "jp": "そら",
+        "uz": "osmon",
+        "en": "sky",
+        "ru": "небо"
+      },
+      {
+        "jp": "とじます",
+        "uz": "yopmoq",
+        "en": "to close (something)",
+        "ru": "закрывать"
+      },
+      {
+        "jp": "とかい",
+        "uz": "shahar",
+        "en": "city, urban area",
+        "ru": "город"
+      },
+      {
+        "jp": "こどもたち",
+        "uz": "bolalar",
+        "en": "children",
+        "ru": "дети"
+      },
+      {
+        "jp": "じゆうに",
+        "uz": "mustaqil, erkin",
+        "en": "freely",
+        "ru": "свободно"
+      }
+    ]
+  },
+  {
+    "lesson": 32,
+    "data": [
+      {
+        "jp": "うんどうします",
+        "uz": "jismoniy mashq qilmoq",
+        "en": "to exercise",
+        "ru": "заниматься спортом"
+      },
+      {
+        "jp": "せいこうします",
+        "uz": "muvaffaqiyatga erishmoq",
+        "en": "to succeed",
+        "ru": "добиваться успеха"
+      },
+      {
+        "jp": "しっぱいします [しけんに〜]",
+        "uz": "muvaffaqiyatsizlikka uchramoq (imtihondan yiqilmoq)",
+        "en": "to fail (an exam)",
+        "ru": "провалиться (на экзамене)"
+      },
+      {
+        "jp": "ごうかくします [しけんに〜]",
+        "uz": "o‘tmoq, yaxshi topshirmoq (imtihondan o‘tmoq)",
+        "en": "to pass (an exam)",
+        "ru": "сдать (экзамен)"
+      },
+      {
+        "jp": "やみます [あめが〜]",
+        "uz": "tinmoq (yomg‘ir tinmoq)",
+        "en": "to stop (raining)",
+        "ru": "прекращаться (дождь)"
+      },
+      {
+        "jp": "はれます",
+        "uz": "oftob chiqib turmoq (havoning ochiq bo‘lishi)",
+        "en": "to clear up (weather)",
+        "ru": "яснеть (погода)"
+      },
+      {
+        "jp": "くもります",
+        "uz": "havo aynimoq",
+        "en": "to become cloudy",
+        "ru": "становиться пасмурным"
+      },
+      {
+        "jp": "つづきます [ねつが〜]",
+        "uz": "davom etmoq (isitma tushmaslik)",
+        "en": "to continue (fever, etc.)",
+        "ru": "продолжаться (температура и т.п.)"
+      },
+      {
+        "jp": "ひきます [かぜを〜]",
+        "uz": "shamollamoq",
+        "en": "to catch a cold",
+        "ru": "простудиться"
+      },
+      {
+        "jp": "ひやします",
+        "uz": "sovutmoq",
+        "en": "to cool, to chill",
+        "ru": "охлаждать"
+      },
+      {
+        "jp": "こみます [みちが〜]",
+        "uz": "to‘lmoq (ko‘cha ～)",
+        "en": "to get crowded (street)",
+        "ru": "быть переполненным (улица)"
+      },
+      {
+        "jp": "すきます [みちが〜]",
+        "uz": "bo‘shamoq (ko‘cha ～)",
+        "en": "to get less crowded (street)",
+        "ru": "пустеть (улица)"
+      },
+      {
+        "jp": "でます [しあいに〜]",
+        "uz": "chiqmoq (musobaqaga chiqmoq)",
+        "en": "to participate (in a match)",
+        "ru": "выходить, участвовать (в матче)"
+      },
+      {
+        "jp": "むりを します",
+        "uz": "o‘zini qiynamoq",
+        "en": "to overdo, to strain oneself",
+        "ru": "переутомляться, перенапрягаться"
+      },
+      {
+        "jp": "じゅうぶん[な]",
+        "uz": "to‘la; yetarli",
+        "en": "enough, sufficient",
+        "ru": "достаточный"
+      },
+      {
+        "jp": "おかしい",
+        "uz": "g‘alati",
+        "en": "strange, funny",
+        "ru": "странный, смешной"
+      },
+      {
+        "jp": "うるさい",
+        "uz": "sershovqin",
+        "en": "noisy, annoying",
+        "ru": "шумный, надоедливый"
+      },
+      {
+        "jp": "せんせい",
+        "uz": "doktor",
+        "en": "doctor (polite)",
+        "ru": "доктор (вежливо)"
+      },
+      {
+        "jp": "やけど",
+        "uz": "kuyish; kuymoq",
+        "en": "burn",
+        "ru": "ожог"
+      },
+      {
+        "jp": "けが",
+        "uz": "jarohat; jarohat olmoq",
+        "en": "injury",
+        "ru": "травма"
+      },
+      {
+        "jp": "せき",
+        "uz": "yo‘tal; yo‘talmoq",
+        "en": "cough",
+        "ru": "кашель"
+      },
+      {
+        "jp": "インフルエンザ",
+        "uz": "gripp",
+        "en": "influenza, flu",
+        "ru": "грипп"
+      },
+      {
+        "jp": "そら",
+        "uz": "osmon",
+        "en": "sky",
+        "ru": "небо"
+      },
+      {
+        "jp": "たいよう",
+        "uz": "oftob, quyosh",
+        "en": "sun",
+        "ru": "солнце"
+      },
+      {
+        "jp": "ほし",
+        "uz": "yulduz",
+        "en": "star",
+        "ru": "звезда"
+      },
+      {
+        "jp": "かぜ",
+        "uz": "shamol",
+        "en": "wind",
+        "ru": "ветер"
+      },
+      {
+        "jp": "ひがし",
+        "uz": "sharq",
+        "en": "east",
+        "ru": "восток"
+      },
+      {
+        "jp": "にし",
+        "uz": "g‘arb",
+        "en": "west",
+        "ru": "запад"
+      },
+      {
+        "jp": "みなみ",
+        "uz": "janub",
+        "en": "south",
+        "ru": "юг"
+      },
+      {
+        "jp": "きた",
+        "uz": "shimol",
+        "en": "north",
+        "ru": "север"
+      },
+      {
+        "jp": "こくさい〜",
+        "uz": "halqaro〜",
+        "en": "international ～",
+        "ru": "международный ～"
+      },
+      {
+        "jp": "すいどう",
+        "uz": "vodoprovod",
+        "en": "water supply",
+        "ru": "водопровод"
+      },
+      {
+        "jp": "エンジン",
+        "uz": "motor",
+        "en": "engine",
+        "ru": "двигатель"
+      },
+      {
+        "jp": "チーム",
+        "uz": "komanda",
+        "en": "team",
+        "ru": "команда"
+      },
+      {
+        "jp": "こんや",
+        "uz": "bu kecha",
+        "en": "tonight",
+        "ru": "сегодня вечером"
+      },
+      {
+        "jp": "ゆうがた",
+        "uz": "shom, kechki payt",
+        "en": "evening, dusk",
+        "ru": "вечер"
+      },
+      {
+        "jp": "まえ",
+        "uz": "oldin, avval",
+        "en": "before",
+        "ru": "до, раньше"
+      },
+      {
+        "jp": "おそく",
+        "uz": "kech",
+        "en": "late",
+        "ru": "поздно"
+      },
+      {
+        "jp": "こんなに",
+        "uz": "bunday (so‘zlovchiga yaqin)",
+        "en": "this much, like this",
+        "ru": "такой (рядом с говорящим)"
+      },
+      {
+        "jp": "そんなに",
+        "uz": "shunday (suhbatdoshga yaqin)",
+        "en": "so much (near listener)",
+        "ru": "такой (рядом с собеседником)"
+      },
+      {
+        "jp": "あんなに",
+        "uz": "unday (ikkalasiga ham uzoq)",
+        "en": "that much (far from both)",
+        "ru": "такой (далеко от обоих)"
+      },
+      {
+        "jp": "げんき",
+        "uz": "tetik; sog‘liq",
+        "en": "healthy, energetic",
+        "ru": "здоровый, энергичный"
+      },
+      {
+        "jp": "い",
+        "uz": "oshqozon",
+        "en": "stomach",
+        "ru": "желудок"
+      },
+      {
+        "jp": "ストレス",
+        "uz": "stress, diqqat bo‘lmoq",
+        "en": "stress",
+        "ru": "стресс"
+      },
+      {
+        "jp": "それは いけませんね。",
+        "uz": "Yomon bo‘libdi. (hamdardlik bildirish iborasi)",
+        "en": "That’s not good. (expression of sympathy)",
+        "ru": "Это плохо. (выражение сочувствия)"
+      },
+      {
+        "jp": "ほしうらない",
+        "uz": "yulduzlar bashorati",
+        "en": "horoscope",
+        "ru": "гороскоп"
+      },
+      {
+        "jp": "おうしざ",
+        "uz": "sigir burji",
+        "en": "Taurus (zodiac sign)",
+        "ru": "Телец (знак зодиака)"
+      },
+      {
+        "jp": "はたらきすぎ",
+        "uz": "ko‘p ishlab yuborish, haddan ko‘p ishlash",
+        "en": "overworking",
+        "ru": "переработка"
+      },
+      {
+        "jp": "こまります",
+        "uz": "qiyin ahvolda qolmoq",
+        "en": "to be in trouble",
+        "ru": "быть в затруднении"
+      },
+      {
+        "jp": "たからくじ",
+        "uz": "lotoreya",
+        "en": "lottery",
+        "ru": "лотерея"
+      },
+      {
+        "jp": "あたります [たからくじが〜]",
+        "uz": "yutuq chiqmoq (lotoreyaga)",
+        "en": "to win (a lottery)",
+        "ru": "выигрывать (в лотерею)"
+      },
+      {
+        "jp": "けんこう",
+        "uz": "sog‘liq",
+        "en": "health",
+        "ru": "здоровье"
+      },
+      {
+        "jp": "れんあい",
+        "uz": "sevgi-muhabbat",
+        "en": "romantic love",
+        "ru": "любовь (романтическая)"
+      },
+      {
+        "jp": "こいびと",
+        "uz": "sevgan kishi; sevikli yor",
+        "en": "lover, partner",
+        "ru": "возлюбленный, партнёр"
+      },
+      {
+        "jp": "ラッキーアイテム",
+        "uz": "omad buyimi",
+        "en": "lucky item",
+        "ru": "счастливый предмет"
+      },
+      {
+        "jp": "いし",
+        "uz": "qimmatbaho tosh",
+        "en": "stone, jewel",
+        "ru": "камень, драгоценный камень"
+      }
+    ]
+  },
+  {
+    "lesson": 33,
+    "data": [
+      {
+        "jp": "にげます",
+        "uz": "qochmoq",
+        "en": "to escape, run away",
+        "ru": "убегать"
+      },
+      {
+        "jp": "さわぎます",
+        "uz": "shovqin solmoq",
+        "en": "to make noise",
+        "ru": "шуметь"
+      },
+      {
+        "jp": "あきらめます",
+        "uz": "voz kechmoq, niyatdan qaytmoq",
+        "en": "to give up",
+        "ru": "сдаваться"
+      },
+      {
+        "jp": "なげます",
+        "uz": "otmoq",
+        "en": "to throw",
+        "ru": "бросать"
+      },
+      {
+        "jp": "まもります",
+        "uz": "himoya qilmoq, rioya qilmoq",
+        "en": "to protect, to obey",
+        "ru": "защищать, соблюдать"
+      },
+      {
+        "jp": "はじまります [しきが〜]",
+        "uz": "boshlanmoq (tadbir ～)",
+        "en": "to begin (a ceremony)",
+        "ru": "начинаться (церемония)"
+      },
+      {
+        "jp": "しゅっせきします [かいぎに〜]",
+        "uz": "bo‘lmoq (majlisda bo‘lmoq)",
+        "en": "to attend (a meeting)",
+        "ru": "присутствовать (на собрании)"
+      },
+      {
+        "jp": "つたえます",
+        "uz": "yetkazmoq (xabar)",
+        "en": "to convey (a message)",
+        "ru": "передавать (сообщение)"
+      },
+      {
+        "jp": "ちゅういします [くるまに〜]",
+        "uz": "ehtiyot bo‘lmoq (mashinaga ehtiyot bo‘lmoq)",
+        "en": "to be careful (of cars)",
+        "ru": "быть осторожным (с машинами)"
+      },
+      {
+        "jp": "はずします [せきを〜]",
+        "uz": "bo‘shatmoq (o‘rinni bo‘shatmoq)",
+        "en": "to leave (one's seat)",
+        "ru": "покидать (место)"
+      },
+      {
+        "jp": "もどります",
+        "uz": "qaytmoq",
+        "en": "to return",
+        "ru": "возвращаться"
+      },
+      {
+        "jp": "あります [でんわが〜]",
+        "uz": "qo‘ng‘iroq bo‘ldi",
+        "en": "to receive (a phone call)",
+        "ru": "есть (звонок)"
+      },
+      {
+        "jp": "リサイクルします",
+        "uz": "qayta ishlash",
+        "en": "to recycle",
+        "ru": "перерабатывать"
+      },
+      {
+        "jp": "だめ[な]",
+        "uz": "mumkin bo‘lmagan",
+        "en": "not allowed, no good",
+        "ru": "нельзя"
+      },
+      {
+        "jp": "おなじ",
+        "uz": "bir xil",
+        "en": "same",
+        "ru": "одинаковый"
+      },
+      {
+        "jp": "けいさつ",
+        "uz": "politsiya",
+        "en": "police",
+        "ru": "полиция"
+      },
+      {
+        "jp": "せき",
+        "uz": "joy, o‘rin",
+        "en": "seat",
+        "ru": "место"
+      },
+      {
+        "jp": "マーク",
+        "uz": "belgi",
+        "en": "mark, symbol",
+        "ru": "знак"
+      },
+      {
+        "jp": "ボール",
+        "uz": "koptok",
+        "en": "ball",
+        "ru": "мяч"
+      },
+      {
+        "jp": "しめきり",
+        "uz": "ohirgi muddat",
+        "en": "deadline",
+        "ru": "крайний срок"
+      },
+      {
+        "jp": "きそく",
+        "uz": "qoida",
+        "en": "rule",
+        "ru": "правило"
+      },
+      {
+        "jp": "きけん",
+        "uz": "xavf",
+        "en": "danger",
+        "ru": "опасность"
+      },
+      {
+        "jp": "しようきんし",
+        "uz": "ishlatish mumkin emas",
+        "en": "do not use",
+        "ru": "не использовать"
+      },
+      {
+        "jp": "たちいりきんし",
+        "uz": "kirish mumkin emas",
+        "en": "no entry",
+        "ru": "вход воспрещён"
+      },
+      {
+        "jp": "じょこう",
+        "uz": "sekin xaydash",
+        "en": "drive slowly",
+        "ru": "ехать медленно"
+      },
+      {
+        "jp": "いりぐち",
+        "uz": "kirish eshigi",
+        "en": "entrance",
+        "ru": "вход"
+      },
+      {
+        "jp": "でぐち",
+        "uz": "chiqish eshigi",
+        "en": "exit",
+        "ru": "выход"
+      },
+      {
+        "jp": "ひじょうぐち",
+        "uz": "favqulodda vaziyat paytidagi chiqish eshigi",
+        "en": "emergency exit",
+        "ru": "аварийный выход"
+      },
+      {
+        "jp": "むりょう",
+        "uz": "bepul, tekin",
+        "en": "free of charge",
+        "ru": "бесплатно"
+      },
+      {
+        "jp": "わりびき",
+        "uz": "chegirma",
+        "en": "discount",
+        "ru": "скидка"
+      },
+      {
+        "jp": "のみほうだい",
+        "uz": "xohlagancha ichish",
+        "en": "all you can drink",
+        "ru": "безлимитное питьё"
+      },
+      {
+        "jp": "しようちゅう",
+        "uz": "band",
+        "en": "in use",
+        "ru": "занято"
+      },
+      {
+        "jp": "ぼしゅうちゅう",
+        "uz": "tanlov e’lon qilingan",
+        "en": "recruiting",
+        "ru": "идёт набор"
+      },
+      {
+        "jp": "〜ちゅう",
+        "uz": "～jarayonida",
+        "en": "in the middle of ～",
+        "ru": "в процессе ～"
+      },
+      {
+        "jp": "どういう〜",
+        "uz": "qanday〜",
+        "en": "what kind of ～",
+        "ru": "какой ～"
+      },
+      {
+        "jp": "いくら [〜ても]",
+        "uz": "qancha〜 (～sam ham, ～sang ham, ～sa ham)",
+        "en": "no matter how ～",
+        "ru": "сколько бы ни ～"
+      },
+      {
+        "jp": "もう",
+        "uz": "boshqa, endi (inkor ma’noda)",
+        "en": "anymore (in negative)",
+        "ru": "больше (в отриц.)"
+      },
+      {
+        "jp": "あと 〜",
+        "uz": "yana〜, qoldi",
+        "en": "more ～, remaining",
+        "ru": "ещё ～, осталось"
+      },
+      {
+        "jp": "〜ほど",
+        "uz": "～dek",
+        "en": "as ～ as",
+        "ru": "настолько ～"
+      },
+      {
+        "jp": "ちゅうしゃいはん",
+        "uz": "mashina to‘xtatishda qoida buzish",
+        "en": "parking violation",
+        "ru": "нарушение парковки"
+      },
+      {
+        "jp": "ばっきん",
+        "uz": "jarima",
+        "en": "fine",
+        "ru": "штраф"
+      },
+      {
+        "jp": "じしん",
+        "uz": "zilzila",
+        "en": "earthquake",
+        "ru": "землетрясение"
+      },
+      {
+        "jp": "おきます",
+        "uz": "sodir bo‘lmoq",
+        "en": "to happen, occur",
+        "ru": "происходить"
+      },
+      {
+        "jp": "たすけあいます",
+        "uz": "o‘zaro yordam",
+        "en": "to help each other",
+        "ru": "помогать друг другу"
+      },
+      {
+        "jp": "もともと",
+        "uz": "aslida",
+        "en": "originally",
+        "ru": "изначально"
+      },
+      {
+        "jp": "かなしい",
+        "uz": "xomush",
+        "en": "sad",
+        "ru": "грустный"
+      },
+      {
+        "jp": "もっと",
+        "uz": "yanada",
+        "en": "more",
+        "ru": "ещё больше"
+      },
+      {
+        "jp": "あいさつ",
+        "uz": "ko‘rishish (～をします ko‘rishmoq)",
+        "en": "greeting",
+        "ru": "приветствие"
+      },
+      {
+        "jp": "あいて",
+        "uz": "sherik",
+        "en": "partner, opponent",
+        "ru": "партнёр, собеседник"
+      },
+      {
+        "jp": "きもち",
+        "uz": "his-tuyg‘u, ko‘ngil, kayfiyat",
+        "en": "feeling, mood",
+        "ru": "чувство, настроение"
+      }
+    ]
+  },
+  {
+    "lesson": 34,
+    "data": [
+      {
+        "jp": "みがきます [はを〜]",
+        "uz": "tozalamoq (tish tozalamoq)",
+        "en": "to brush (teeth)",
+        "ru": "чистить (зубы)"
+      },
+      {
+        "jp": "くみたてます",
+        "uz": "yig‘ib yasamoq",
+        "en": "to assemble, put together",
+        "ru": "собирать"
+      },
+      {
+        "jp": "おります",
+        "uz": "bukmoq, buklamoq",
+        "en": "to fold, bend",
+        "ru": "складывать, сгибать"
+      },
+      {
+        "jp": "きが つきます [わすれものに〜]",
+        "uz": "sezmoq, payqamoq, e’tibor qilmoq (yo‘qotilgan narsani ko‘rib qolmoq)",
+        "en": "to notice (something left behind)",
+        "ru": "замечать (забытую вещь)"
+      },
+      {
+        "jp": "つけます [しょうゆを〜]",
+        "uz": "qo‘shmoq (soya sousidan qo‘shmoq)",
+        "en": "to dip/apply (soy sauce)",
+        "ru": "добавлять (соевый соус)"
+      },
+      {
+        "jp": "みつかります [かぎが〜]",
+        "uz": "topilmoq (kalit topilmoq)",
+        "en": "to be found (a key)",
+        "ru": "находиться (ключ)"
+      },
+      {
+        "jp": "しつもんします",
+        "uz": "savol bermoq",
+        "en": "to ask a question",
+        "ru": "задавать вопрос"
+      },
+      {
+        "jp": "さします [かさを〜]",
+        "uz": "tutmoq (soyabon tutmoq)",
+        "en": "to put up (an umbrella)",
+        "ru": "держать (зонт)"
+      },
+      {
+        "jp": "スポーツクラブ",
+        "uz": "sport klubi",
+        "en": "sports club",
+        "ru": "спортивный клуб"
+      },
+      {
+        "jp": "[お]しろ",
+        "uz": "qasr, qal'a",
+        "en": "castle",
+        "ru": "замок"
+      },
+      {
+        "jp": "せつめいしょ",
+        "uz": "yo‘riqnoma",
+        "en": "manual, instruction book",
+        "ru": "инструкция"
+      },
+      {
+        "jp": "ず",
+        "uz": "chizma",
+        "en": "diagram, drawing",
+        "ru": "чертёж, схема"
+      },
+      {
+        "jp": "せん",
+        "uz": "chiziq",
+        "en": "line",
+        "ru": "линия"
+      },
+      {
+        "jp": "やじるし",
+        "uz": "ko‘rsatkich belgisi",
+        "en": "arrow (sign)",
+        "ru": "стрелка"
+      },
+      {
+        "jp": "くろ",
+        "uz": "qora rang",
+        "en": "black",
+        "ru": "чёрный"
+      },
+      {
+        "jp": "しろ",
+        "uz": "oq rang",
+        "en": "white",
+        "ru": "белый"
+      },
+      {
+        "jp": "あか",
+        "uz": "qizil rang",
+        "en": "red",
+        "ru": "красный"
+      },
+      {
+        "jp": "あお",
+        "uz": "ko‘k rang",
+        "en": "blue",
+        "ru": "синий"
+      },
+      {
+        "jp": "こん",
+        "uz": "to‘qko‘k",
+        "en": "navy blue",
+        "ru": "тёмно-синий"
+      },
+      {
+        "jp": "きいろ",
+        "uz": "sariq rang",
+        "en": "yellow",
+        "ru": "жёлтый"
+      },
+      {
+        "jp": "ちゃいろ",
+        "uz": "jigarrang",
+        "en": "brown",
+        "ru": "коричневый"
+      },
+      {
+        "jp": "しょうゆ",
+        "uz": "soya sousi",
+        "en": "soy sauce",
+        "ru": "соевый соус"
+      },
+      {
+        "jp": "ソース",
+        "uz": "sous",
+        "en": "sauce",
+        "ru": "соус"
+      },
+      {
+        "jp": "おきゃく[さん]",
+        "uz": "mijoz; mehmon",
+        "en": "customer; guest",
+        "ru": "клиент; гость"
+      },
+      {
+        "jp": "〜か",
+        "uz": "～ yoki～",
+        "en": "～ or ～",
+        "ru": "～ или ～"
+      },
+      {
+        "jp": "ゆうべ",
+        "uz": "kecha kechasi",
+        "en": "last night",
+        "ru": "вчера вечером"
+      },
+      {
+        "jp": "さっき",
+        "uz": "yaqinda (vaqt)",
+        "en": "a little while ago",
+        "ru": "только что"
+      },
+      {
+        "jp": "さどう",
+        "uz": "choy marosimi",
+        "en": "tea ceremony",
+        "ru": "чаепитие (японская церемония)"
+      },
+      {
+        "jp": "おちゃを たてます",
+        "uz": "yaponcha choy damlamoq",
+        "en": "to make (Japanese tea)",
+        "ru": "заваривать чай (по-японски)"
+      },
+      {
+        "jp": "さきに",
+        "uz": "oldin, birinchi navbatda",
+        "en": "first, before",
+        "ru": "сначала, прежде"
+      },
+      {
+        "jp": "のせます",
+        "uz": "qo‘ymoq, chiqarmoq (gazeta)",
+        "en": "to put on, to publish",
+        "ru": "класть, публиковать"
+      },
+      {
+        "jp": "これでいいですか。",
+        "uz": "Mana shundaymi?",
+        "en": "Is this okay?",
+        "ru": "Так пойдёт?"
+      },
+      {
+        "jp": "いかがですか",
+        "uz": "(choy) qanday? Choyning mazasi qanday?",
+        "en": "How is it? (tea, etc.)",
+        "ru": "Как вам? (например, чай)"
+      },
+      {
+        "jp": "にがい",
+        "uz": "achchiq (dori, kofe), taxir",
+        "en": "bitter",
+        "ru": "горький"
+      },
+      {
+        "jp": "おやこどんぶり",
+        "uz": "kuygan guruch, ustida tuxum va tovuq go‘shti",
+        "en": "rice bowl with chicken and egg",
+        "ru": "донбури с курицей и яйцом"
+      },
+      {
+        "jp": "ざいりょう",
+        "uz": "masalliq",
+        "en": "ingredients",
+        "ru": "ингредиенты"
+      },
+      {
+        "jp": "〜ぶん",
+        "uz": "～porsiya",
+        "en": "～ portion",
+        "ru": "～ порция"
+      },
+      {
+        "jp": "―グラム",
+        "uz": "～gramm",
+        "en": "～ grams",
+        "ru": "～ грамм"
+      },
+      {
+        "jp": "―こ",
+        "uz": "～ta (kichik narsalar sanog‘i)",
+        "en": "～ (counter for small objects)",
+        "ru": "～ (счёт для мелких предметов)"
+      },
+      {
+        "jp": "たまねぎ",
+        "uz": "piyoz",
+        "en": "onion",
+        "ru": "лук"
+      },
+      {
+        "jp": "４ぶんの１",
+        "uz": "to‘rtdan biri",
+        "en": "one fourth, quarter",
+        "ru": "четверть"
+      },
+      {
+        "jp": "ちょうみりょう",
+        "uz": "ziravorlar",
+        "en": "seasoning, spices",
+        "ru": "специи"
+      },
+      {
+        "jp": "てきとうな おおきさに",
+        "uz": "qulay kattalikda",
+        "en": "in suitable size",
+        "ru": "подходящего размера"
+      },
+      {
+        "jp": "なべ",
+        "uz": "qozoncha, kostryul",
+        "en": "pot, pan",
+        "ru": "кастрюля"
+      },
+      {
+        "jp": "ひ",
+        "uz": "olov",
+        "en": "fire, flame",
+        "ru": "огонь"
+      },
+      {
+        "jp": "ひに かけます",
+        "uz": "olovga qo‘ymoq",
+        "en": "to put on the stove/fire",
+        "ru": "ставить на огонь"
+      },
+      {
+        "jp": "にます",
+        "uz": "qaynatmoq",
+        "en": "to boil, simmer",
+        "ru": "варить, тушить"
+      },
+      {
+        "jp": "にえます",
+        "uz": "qaynamoq",
+        "en": "to be cooked, boiled",
+        "ru": "свариться"
+      },
+      {
+        "jp": "どんぶり",
+        "uz": "spool kosacha",
+        "en": "large rice bowl",
+        "ru": "большая миска для риса"
+      },
+      {
+        "jp": "たちます",
+        "uz": "(vaqt) o‘tmoq",
+        "en": "time passes",
+        "ru": "время проходит"
+      }
+    ]
+  },
+  {
+    "lesson": 35,
+    "data": [
+      {
+        "jp": "さきます [はなが〜]",
+        "uz": "ochilmoq (gul ochilmoq)",
+        "en": "to bloom (flowers bloom)",
+        "ru": "цвести (цветы цветут)"
+      },
+      {
+        "jp": "かわります [いろが〜]",
+        "uz": "o‘zgarmoq (rang o‘zgarmoq)",
+        "en": "to change (color changes)",
+        "ru": "меняться (меняется цвет)"
+      },
+      {
+        "jp": "こまります",
+        "uz": "qiynalmoq",
+        "en": "to be in trouble",
+        "ru": "быть в затруднении"
+      },
+      {
+        "jp": "つけます [まるを〜]",
+        "uz": "qo‘ymoq (yumaloq belgi qo‘ymoq)",
+        "en": "to mark (with a circle)",
+        "ru": "отмечать (кружком)"
+      },
+      {
+        "jp": "なおります [びょうきが〜] [こしょうが〜]",
+        "uz": "tuzalmoq (kasal tuzalmoq, buzuq narsa tuzalmoq)",
+        "en": "to get well, to be fixed",
+        "ru": "выздоравливать, исправляться"
+      },
+      {
+        "jp": "クリックします",
+        "uz": "click",
+        "en": "to click",
+        "ru": "кликать"
+      },
+      {
+        "jp": "にゅうりょくします",
+        "uz": "kiritmoq (kompyuterda yozmoq, termoq)",
+        "en": "to input (type into computer)",
+        "ru": "вводить (в компьютер)"
+      },
+      {
+        "jp": "ただしい",
+        "uz": "to‘g‘ri",
+        "en": "correct",
+        "ru": "правильный"
+      },
+      {
+        "jp": "むこう",
+        "uz": "narigi tomon",
+        "en": "the other side",
+        "ru": "та сторона"
+      },
+      {
+        "jp": "しま",
+        "uz": "orol",
+        "en": "island",
+        "ru": "остров"
+      },
+      {
+        "jp": "みなと",
+        "uz": "port, bandargoh",
+        "en": "port, harbor",
+        "ru": "порт, гавань"
+      },
+      {
+        "jp": "きんじょ",
+        "uz": "yaqin joy",
+        "en": "neighborhood",
+        "ru": "окрестности"
+      },
+      {
+        "jp": "おくじょう",
+        "uz": "tom",
+        "en": "rooftop",
+        "ru": "крыша"
+      },
+      {
+        "jp": "かいがい",
+        "uz": "xorij, chet el",
+        "en": "overseas, abroad",
+        "ru": "за границей"
+      },
+      {
+        "jp": "やまのぼり",
+        "uz": "toqqa chiqish, alpinizm",
+        "en": "mountain climbing",
+        "ru": "альпинизм"
+      },
+      {
+        "jp": "れきし",
+        "uz": "tarix",
+        "en": "history",
+        "ru": "история"
+      },
+      {
+        "jp": "きかい",
+        "uz": "imkoniyat",
+        "en": "opportunity",
+        "ru": "возможность"
+      },
+      {
+        "jp": "きょか",
+        "uz": "ruxsat",
+        "en": "permission",
+        "ru": "разрешение"
+      },
+      {
+        "jp": "まる",
+        "uz": "doira",
+        "en": "circle",
+        "ru": "круг"
+      },
+      {
+        "jp": "ふりがな",
+        "uz": "ieroglifning o‘qilishi",
+        "en": "reading of kanji (with kana)",
+        "ru": "чтение кандзи (с фуриганой)"
+      },
+      {
+        "jp": "せつび",
+        "uz": "jihoz, asbob-uskuna",
+        "en": "equipment, facilities",
+        "ru": "оборудование"
+      },
+      {
+        "jp": "レバー",
+        "uz": "richag, dastak",
+        "en": "lever",
+        "ru": "рычаг"
+      },
+      {
+        "jp": "キー",
+        "uz": "kalit",
+        "en": "key",
+        "ru": "ключ"
+      },
+      {
+        "jp": "カーテン",
+        "uz": "parda",
+        "en": "curtain",
+        "ru": "штора"
+      },
+      {
+        "jp": "ひも",
+        "uz": "arqon",
+        "en": "string, cord",
+        "ru": "верёвка"
+      },
+      {
+        "jp": "すいはんき",
+        "uz": "risovarka, guruch pishirgich",
+        "en": "rice cooker",
+        "ru": "рисоварка"
+      },
+      {
+        "jp": "は",
+        "uz": "barg",
+        "en": "leaf",
+        "ru": "лист"
+      },
+      {
+        "jp": "むかし",
+        "uz": "qadimda, ilgari",
+        "en": "long ago, old times",
+        "ru": "давно, в старину"
+      },
+      {
+        "jp": "もっと",
+        "uz": "yanada",
+        "en": "more",
+        "ru": "ещё больше"
+      },
+      {
+        "jp": "これでわりましょう",
+        "uz": "Shu bilan tugatamiz.",
+        "en": "Let's finish here.",
+        "ru": "На этом закончим."
+      },
+      {
+        "jp": "それなら",
+        "uz": "unday bo‘lsa",
+        "en": "if so, in that case",
+        "ru": "в таком случае"
+      },
+      {
+        "jp": "やこうバス",
+        "uz": "kechki avtobus",
+        "en": "night bus",
+        "ru": "ночной автобус"
+      },
+      {
+        "jp": "さあ",
+        "uz": "“Qaydam” (biror savolga javob bera olmagan paytdagi ibora)",
+        "en": "well... (when unsure)",
+        "ru": "ну... (когда не знаешь ответа)"
+      },
+      {
+        "jp": "りょこうしゃ",
+        "uz": "turizm agentligi",
+        "en": "travel agency",
+        "ru": "туристическое агентство"
+      },
+      {
+        "jp": "くわしい",
+        "uz": "batafsil",
+        "en": "detailed",
+        "ru": "подробный"
+      },
+      {
+        "jp": "スキーじょう",
+        "uz": "chang‘i uchish maydoni",
+        "en": "ski resort",
+        "ru": "горнолыжный курорт"
+      },
+      {
+        "jp": "しゅ",
+        "uz": "Qizil rang (och qizil)",
+        "en": "vermilion, bright red",
+        "ru": "алый цвет"
+      },
+      {
+        "jp": "まじわります",
+        "uz": "aloqada bo‘lmoq (odamlar bilan)",
+        "en": "to associate with, to mix",
+        "ru": "общаться"
+      },
+      {
+        "jp": "ことわざ",
+        "uz": "maqol",
+        "en": "proverb",
+        "ru": "пословица"
+      },
+      {
+        "jp": "かんけい",
+        "uz": "aloqa",
+        "en": "relation, connection",
+        "ru": "связь"
+      },
+      {
+        "jp": "なかよく します",
+        "uz": "yaxshi munosabatda bo‘lmoq",
+        "en": "to get along well",
+        "ru": "хорошо ладить"
+      },
+      {
+        "jp": "ひつよう [な]",
+        "uz": "kerakli, zarur",
+        "en": "necessary",
+        "ru": "необходимый"
+      }
+    ]
+  },
+  {
+    "lesson": 36,
+    "data": [
+      {
+        "jp": "あいます [じこに〜]",
+        "uz": "uchramoq (halokatga uchramoq)",
+        "en": "to meet with (an accident)",
+        "ru": "попадать (в аварию)"
+      },
+      {
+        "jp": "ちょきんします",
+        "uz": "pul yig‘moq",
+        "en": "to save money",
+        "ru": "копить деньги"
+      },
+      {
+        "jp": "すぎます [７じを〜]",
+        "uz": "o‘tmoq, oshmoq (soat 7 dan oshmoq)",
+        "en": "to pass (7 o'clock)",
+        "ru": "проходить (после 7 часов)"
+      },
+      {
+        "jp": "なれます [しごとに〜]",
+        "uz": "ko‘nikmoq (urf-odatga ko‘nikmoq)",
+        "en": "to get used to (work)",
+        "ru": "привыкать (к работе)"
+      },
+      {
+        "jp": "くさります [たべものが〜]",
+        "uz": "aynib qolmoq, yomon bo‘lib qolmoq, qolimoq",
+        "en": "to rot, spoil (food)",
+        "ru": "портиться (еда)"
+      },
+      {
+        "jp": "けんどう",
+        "uz": "kendo sport turi (qilichbozlik)",
+        "en": "kendo (Japanese fencing)",
+        "ru": "кэндо (японское фехтование)"
+      },
+      {
+        "jp": "じゅうどう",
+        "uz": "dzyudo kurash",
+        "en": "judo",
+        "ru": "дзюдо"
+      },
+      {
+        "jp": "ラッシュ",
+        "uz": "tiqilinch transport qatnovi",
+        "en": "rush (traffic jam)",
+        "ru": "час пик"
+      },
+      {
+        "jp": "うちゅう",
+        "uz": "fazo",
+        "en": "universe, space",
+        "ru": "космос"
+      },
+      {
+        "jp": "きょく",
+        "uz": "kuy",
+        "en": "tune, melody",
+        "ru": "мелодия"
+      },
+      {
+        "jp": "まいしゅう",
+        "uz": "har hafta",
+        "en": "every week",
+        "ru": "каждую неделю"
+      },
+      {
+        "jp": "まいつき",
+        "uz": "har oy",
+        "en": "every month",
+        "ru": "каждый месяц"
+      },
+      {
+        "jp": "まいとし（まいねん）",
+        "uz": "har yili",
+        "en": "every year",
+        "ru": "каждый год"
+      },
+      {
+        "jp": "このごろ",
+        "uz": "shu kunlarda",
+        "en": "these days",
+        "ru": "в последнее время"
+      },
+      {
+        "jp": "やっと",
+        "uz": "nihoyat",
+        "en": "finally",
+        "ru": "наконец-то"
+      },
+      {
+        "jp": "かなり",
+        "uz": "juda",
+        "en": "fairly, considerably",
+        "ru": "довольно, значительно"
+      },
+      {
+        "jp": "かならず",
+        "uz": "albatta",
+        "en": "surely, without fail",
+        "ru": "обязательно"
+      },
+      {
+        "jp": "ぜったいに",
+        "uz": "aniq, umuman (inkor gaplarda)",
+        "en": "absolutely (not in negatives)",
+        "ru": "абсолютно (в отриц. предложениях)"
+      },
+      {
+        "jp": "じょうずに",
+        "uz": "zo‘r qilib, qoyillatib",
+        "en": "skillfully, well",
+        "ru": "умело, хорошо"
+      },
+      {
+        "jp": "できるだけ",
+        "uz": "iloji boricha",
+        "en": "as much as possible",
+        "ru": "насколько возможно"
+      },
+      {
+        "jp": "ほとんど",
+        "uz": "deyarli",
+        "en": "almost, nearly",
+        "ru": "почти"
+      },
+      {
+        "jp": "おきゃくさま",
+        "uz": "mijoz, mehmon, tashrif buyuruvchi",
+        "en": "guest, customer",
+        "ru": "гость, клиент"
+      },
+      {
+        "jp": "とくべつ [な]",
+        "uz": "alohida",
+        "en": "special",
+        "ru": "особенный"
+      },
+      {
+        "jp": "して いらっしゃいます",
+        "uz": "qilmoq (していますning hurmat shakli)",
+        "en": "to do (honorific of しています)",
+        "ru": "делаете (вежливая форма)"
+      },
+      {
+        "jp": "すいえい",
+        "uz": "suzish",
+        "en": "swimming",
+        "ru": "плавание"
+      },
+      {
+        "jp": "ちがいます",
+        "uz": "farq qilmoq",
+        "en": "to be different, to be wrong",
+        "ru": "отличаться, быть неверным"
+      },
+      {
+        "jp": "つかって いらっしゃるんですね",
+        "uz": "ishlatyapsizmi (使っているning hurmat shakli)",
+        "en": "you're using it, right? (honorific)",
+        "ru": "пользуетесь, да? (вежливая форма)"
+      },
+      {
+        "jp": "チャレンジします",
+        "uz": "urinib ko‘rmoq",
+        "en": "to try, to challenge",
+        "ru": "попробовать, бросить вызов"
+      },
+      {
+        "jp": "きもち",
+        "uz": "his-tuyg‘u, ko‘ngil, kayfiyat",
+        "en": "feeling, mood",
+        "ru": "чувство, настроение"
+      },
+      {
+        "jp": "のりもの",
+        "uz": "transport",
+        "en": "vehicle",
+        "ru": "транспорт"
+      },
+      {
+        "jp": "―せいき",
+        "uz": "―asr",
+        "en": "― century",
+        "ru": "― век"
+      },
+      {
+        "jp": "とおく",
+        "uz": "uzoq",
+        "en": "far, distant",
+        "ru": "далеко"
+      },
+      {
+        "jp": "めずらしい",
+        "uz": "noyob, nadir",
+        "en": "rare, unusual",
+        "ru": "редкий"
+      },
+      {
+        "jp": "きしゃ",
+        "uz": "parovoz",
+        "en": "steam train",
+        "ru": "паровоз"
+      },
+      {
+        "jp": "きせん",
+        "uz": "paroxod",
+        "en": "steamship",
+        "ru": "пароход"
+      },
+      {
+        "jp": "おおぜいの〜",
+        "uz": "ko‘p",
+        "en": "many (people)",
+        "ru": "много (людей)"
+      },
+      {
+        "jp": "はこびます",
+        "uz": "tashimoq",
+        "en": "to carry, transport",
+        "ru": "переносить, перевозить"
+      },
+      {
+        "jp": "りようします",
+        "uz": "foydalanmoq, ishlatmoq",
+        "en": "to use, make use of",
+        "ru": "использовать"
+      },
+      {
+        "jp": "じゆうに",
+        "uz": "bemalol, erkin",
+        "en": "freely",
+        "ru": "свободно"
+      }
+    ]
+  },
+  {
+    "lesson": 37,
+    "data": [
+      {
+        "jp": "ほめます",
+        "uz": "maqtamoq",
+        "en": "to praise",
+        "ru": "хвалить"
+      },
+      {
+        "jp": "しかります",
+        "uz": "koyimoq, urishmoq",
+        "en": "to scold",
+        "ru": "ругать"
+      },
+      {
+        "jp": "さそいます",
+        "uz": "chaqirmoq, taklif qilmoq",
+        "en": "to invite, to ask",
+        "ru": "приглашать, звать"
+      },
+      {
+        "jp": "しょうたいします",
+        "uz": "taklif qilmoq",
+        "en": "to invite",
+        "ru": "приглашать"
+      },
+      {
+        "jp": "たのみます",
+        "uz": "so‘ramoq, iltimos qilmoq",
+        "en": "to request, ask a favor",
+        "ru": "просить, поручать"
+      },
+      {
+        "jp": "ちゅういします",
+        "uz": "ogohlantirmoq",
+        "en": "to warn, to be careful",
+        "ru": "предупреждать, быть внимательным"
+      },
+      {
+        "jp": "とります",
+        "uz": "olib qo‘ymoq, o‘g‘irlamoq",
+        "en": "to steal",
+        "ru": "воровать"
+      },
+      {
+        "jp": "ふみます",
+        "uz": "bosmoq",
+        "en": "to step on",
+        "ru": "наступать"
+      },
+      {
+        "jp": "こわします",
+        "uz": "buzmoq",
+        "en": "to break, destroy",
+        "ru": "ломать, разрушать"
+      },
+      {
+        "jp": "よごします",
+        "uz": "kir qilmoq, iflos qilmoq",
+        "en": "to make dirty",
+        "ru": "пачкать"
+      },
+      {
+        "jp": "おこないます",
+        "uz": "o‘tkazmoq",
+        "en": "to hold, carry out",
+        "ru": "проводить"
+      },
+      {
+        "jp": "ゆしゅつします",
+        "uz": "eksport qilmoq",
+        "en": "to export",
+        "ru": "экспортировать"
+      },
+      {
+        "jp": "ゆにゅうします",
+        "uz": "import qilmoq",
+        "en": "to import",
+        "ru": "импортировать"
+      },
+      {
+        "jp": "ほんやくします",
+        "uz": "tarjima qilmoq (yozma)",
+        "en": "to translate (written)",
+        "ru": "переводить (письменно)"
+      },
+      {
+        "jp": "はつめいします",
+        "uz": "ixtiro qilmoq",
+        "en": "to invent",
+        "ru": "изобретать"
+      },
+      {
+        "jp": "はっけんします",
+        "uz": "topmoq, kashf qilmoq",
+        "en": "to discover, find",
+        "ru": "открывать, обнаруживать"
+      },
+      {
+        "jp": "こめ",
+        "uz": "guruch",
+        "en": "rice",
+        "ru": "рис"
+      },
+      {
+        "jp": "むぎ",
+        "uz": "don, g‘alla",
+        "en": "wheat, barley, grain",
+        "ru": "зерно, пшеница"
+      },
+      {
+        "jp": "せきゆ",
+        "uz": "neft",
+        "en": "oil, petroleum",
+        "ru": "нефть"
+      },
+      {
+        "jp": "げんりょう",
+        "uz": "xom ashyo",
+        "en": "raw material",
+        "ru": "сырьё"
+      },
+      {
+        "jp": "インスタントラーメン",
+        "uz": "bir zumda tayyor bo‘ladigan lapsha",
+        "en": "instant noodles",
+        "ru": "лапша быстрого приготовления"
+      },
+      {
+        "jp": "デート",
+        "uz": "uchrashuv",
+        "en": "date (romantic meeting)",
+        "ru": "свидание"
+      },
+      {
+        "jp": "どろぼう",
+        "uz": "o‘g‘ri",
+        "en": "thief",
+        "ru": "вор"
+      },
+      {
+        "jp": "けいかん",
+        "uz": "politsiya",
+        "en": "police officer",
+        "ru": "полицейский"
+      },
+      {
+        "jp": "せかいじゅう",
+        "uz": "butun dunyoda",
+        "en": "throughout the world",
+        "ru": "по всему миру"
+      },
+      {
+        "jp": "〜じゅう",
+        "uz": "butun～",
+        "en": "all over ～",
+        "ru": "по всему ～"
+      },
+      {
+        "jp": "―せいき",
+        "uz": "-(i)nchi asr",
+        "en": "― century",
+        "ru": "― век"
+      },
+      {
+        "jp": "なにご",
+        "uz": "qaysi til?",
+        "en": "what language?",
+        "ru": "какой язык?"
+      },
+      {
+        "jp": "だれか",
+        "uz": "biror kim, kimdir",
+        "en": "someone",
+        "ru": "кто-то"
+      },
+      {
+        "jp": "よかったですね。",
+        "uz": "Omadi kelibdi-ya?",
+        "en": "That’s good, isn’t it?",
+        "ru": "Здорово, правда?"
+      },
+      {
+        "jp": "みなさま",
+        "uz": "xonimlar va janoblar",
+        "en": "ladies and gentlemen",
+        "ru": "дамы и господа"
+      },
+      {
+        "jp": "やけます [うちが〜]",
+        "uz": "yonmoq (uy yonmoq)",
+        "en": "to burn (house burns)",
+        "ru": "гореть (дом)"
+      },
+      {
+        "jp": "そのご",
+        "uz": "shundan keyin",
+        "en": "after that",
+        "ru": "после этого"
+      },
+      {
+        "jp": "せかいいさん",
+        "uz": "Dunyo merosi biri",
+        "en": "World Heritage",
+        "ru": "мировое наследие"
+      },
+      {
+        "jp": "〜のひとつ",
+        "uz": "～ning bittasi",
+        "en": "one of ～",
+        "ru": "один из ～"
+      },
+      {
+        "jp": "きんいろ",
+        "uz": "tilla rang",
+        "en": "golden color",
+        "ru": "золотой цвет"
+      },
+      {
+        "jp": "ほんもの",
+        "uz": "haqiqiy buyum",
+        "en": "real thing",
+        "ru": "настоящая вещь"
+      },
+      {
+        "jp": "きん",
+        "uz": "tilla",
+        "en": "gold",
+        "ru": "золото"
+      },
+      {
+        "jp": "―キロ",
+        "uz": "og‘irligi kilo, -kilogramm",
+        "en": "― kilo, kilogram",
+        "ru": "― килограмм"
+      },
+      {
+        "jp": "うつくしい",
+        "uz": "chiroyli, go‘zal",
+        "en": "beautiful",
+        "ru": "красивый"
+      },
+      {
+        "jp": "ごうか [な]",
+        "uz": "hashamatli",
+        "en": "gorgeous, luxurious",
+        "ru": "роскошный"
+      },
+      {
+        "jp": "ちょうこく",
+        "uz": "o‘ymakorlik",
+        "en": "sculpture, carving",
+        "ru": "резьба, скульптура"
+      },
+      {
+        "jp": "いいつたえ",
+        "uz": "afsona",
+        "en": "legend, tradition",
+        "ru": "легенда, предание"
+      },
+      {
+        "jp": "ねむります",
+        "uz": "uxlamoq",
+        "en": "to sleep",
+        "ru": "спать"
+      },
+      {
+        "jp": "ほります",
+        "uz": "o‘ymoq",
+        "en": "to engrave, carve",
+        "ru": "вырезать, гравировать"
+      },
+      {
+        "jp": "なかま",
+        "uz": "hamkasb, hamtovoq",
+        "en": "companion, colleague",
+        "ru": "товарищ, коллега"
+      },
+      {
+        "jp": "しかし",
+        "uz": "lekin",
+        "en": "however, but",
+        "ru": "однако, но"
+      },
+      {
+        "jp": "そのあと",
+        "uz": "shundan so‘ng",
+        "en": "after that",
+        "ru": "после того"
+      },
+      {
+        "jp": "いっしょうけんめい",
+        "uz": "jon-jahdi bilan",
+        "en": "with all one’s effort",
+        "ru": "изо всех сил"
+      },
+      {
+        "jp": "ねずみ",
+        "uz": "sichqon",
+        "en": "mouse, rat",
+        "ru": "мышь"
+      },
+      {
+        "jp": "いっぴきも いません",
+        "uz": "bitta ham yo‘q (hayvon)",
+        "en": "not even one (animal)",
+        "ru": "ни одного (животного)"
+      }
+    ]
+  },
+  {
+    "lesson": 38,
+    "data": [
+      {
+        "jp": "さんかします",
+        "uz": "qatnashmoq, ishtirok etmoq",
+        "en": "to participate, to join",
+        "ru": "участвовать"
+      },
+      {
+        "jp": "そだてます",
+        "uz": "voyaga yetkazmoq, tarbiyalamoq",
+        "en": "to raise, to bring up",
+        "ru": "воспитывать, растить"
+      },
+      {
+        "jp": "はこびます",
+        "uz": "tashimoq",
+        "en": "to carry, to transport",
+        "ru": "перевозить, носить"
+      },
+      {
+        "jp": "にゅういんします",
+        "uz": "kasalxonaga tushmoq",
+        "en": "to be hospitalized",
+        "ru": "лечь в больницу"
+      },
+      {
+        "jp": "たいいんします",
+        "uz": "kasalxonadan chiqmoq",
+        "en": "to leave the hospital",
+        "ru": "выписаться из больницы"
+      },
+      {
+        "jp": "いれます [でんげんを〜]",
+        "uz": "ulamoq, tiqmoq (tokka ulamoq)",
+        "en": "to turn on (the power)",
+        "ru": "включить (электричество)"
+      },
+      {
+        "jp": "きります [でんげんを〜]",
+        "uz": "uzmoq (tokdan uzmoq)",
+        "en": "to turn off (the power)",
+        "ru": "выключить (электричество)"
+      },
+      {
+        "jp": "かけます [かぎを〜]",
+        "uz": "qulflamoq",
+        "en": "to lock",
+        "ru": "закрыть на ключ"
+      },
+      {
+        "jp": "つきます [うそを〜]",
+        "uz": "yolg‘on ishlatmoq (gapirmoq)",
+        "en": "to tell a lie",
+        "ru": "лгать"
+      },
+      {
+        "jp": "きもちが いい",
+        "uz": "yoqimli",
+        "en": "pleasant, comfortable",
+        "ru": "приятный"
+      },
+      {
+        "jp": "きもちが わるい",
+        "uz": "yoqimsiz",
+        "en": "unpleasant, disgusting",
+        "ru": "неприятный"
+      },
+      {
+        "jp": "おおきな 〜",
+        "uz": "katta～",
+        "en": "big ～",
+        "ru": "большой ～"
+      },
+      {
+        "jp": "ちいさな 〜",
+        "uz": "kichkina～",
+        "en": "small ～",
+        "ru": "маленький ～"
+      },
+      {
+        "jp": "あかちゃん",
+        "uz": "chaqaloq",
+        "en": "baby",
+        "ru": "младенец"
+      },
+      {
+        "jp": "しょうがっこう",
+        "uz": "boshlang‘ich maktab",
+        "en": "elementary school",
+        "ru": "начальная школа"
+      },
+      {
+        "jp": "ちゅうがっこう",
+        "uz": "o‘rta maktab",
+        "en": "junior high school",
+        "ru": "средняя школа"
+      },
+      {
+        "jp": "えきまえ",
+        "uz": "vokzal oldi",
+        "en": "in front of the station",
+        "ru": "перед станцией"
+      },
+      {
+        "jp": "かいがん",
+        "uz": "dengiz sohili",
+        "en": "seashore, coast",
+        "ru": "морское побережье"
+      },
+      {
+        "jp": "こうじょう",
+        "uz": "zavod",
+        "en": "factory",
+        "ru": "завод, фабрика"
+      },
+      {
+        "jp": "むら",
+        "uz": "qishloq",
+        "en": "village",
+        "ru": "деревня"
+      },
+      {
+        "jp": "かな",
+        "uz": "harf",
+        "en": "kana (Japanese syllabary)",
+        "ru": "кана (азбука)"
+      },
+      {
+        "jp": "ゆびわ",
+        "uz": "uzuk",
+        "en": "ring",
+        "ru": "кольцо"
+      },
+      {
+        "jp": "でんげん",
+        "uz": "yoqqich",
+        "en": "power switch",
+        "ru": "источник питания"
+      },
+      {
+        "jp": "しゅうかん",
+        "uz": "odat, urf",
+        "en": "custom, habit",
+        "ru": "обычай, привычка"
+      },
+      {
+        "jp": "〜せい",
+        "uz": "-cha",
+        "en": "made in ～, -type",
+        "ru": "～ производство"
+      },
+      {
+        "jp": "おととし",
+        "uz": "2 yil oldin",
+        "en": "the year before last",
+        "ru": "позапрошлый год"
+      },
+      {
+        "jp": "［あ、］いけない",
+        "uz": "Voy (xato qilib qo‘yganda qo‘llaniladigan ibora)",
+        "en": "Oh no! (expression when a mistake is made)",
+        "ru": "Ой! (когда ошибся)"
+      },
+      {
+        "jp": "おさきに [しつれいします]",
+        "uz": "yaxshi qolinglar",
+        "en": "See you, I’ll go ahead",
+        "ru": "Извините, я пойду раньше"
+      },
+      {
+        "jp": "かいらん",
+        "uz": "hamma qo‘lma-qo‘l ko‘zdan kechirib chiqadigan “varaqa”",
+        "en": "circular notice",
+        "ru": "циркуляр, рассылка"
+      },
+      {
+        "jp": "けんきゅうしつ",
+        "uz": "laboratoriya",
+        "en": "laboratory",
+        "ru": "лаборатория"
+      },
+      {
+        "jp": "きちんと",
+        "uz": "yaxshilab, aniq, ehtiyotkorlik bilan",
+        "en": "properly, neatly",
+        "ru": "аккуратно, правильно"
+      },
+      {
+        "jp": "せいりします",
+        "uz": "taxlamoq, tartibga keltirmoq",
+        "en": "to arrange, to organize",
+        "ru": "организовывать, приводить в порядок"
+      },
+      {
+        "jp": "ほうほう",
+        "uz": "bajarish usuli, yo’l, metod",
+        "en": "method, way",
+        "ru": "метод, способ"
+      },
+      {
+        "jp": "〜と いう",
+        "uz": "...degan ma’noda",
+        "en": "called ～, named ～",
+        "ru": "называется ～"
+      },
+      {
+        "jp": "―さつ",
+        "uz": "(kitoblarni sanashda ishlatiladi)",
+        "en": "counter for books",
+        "ru": "счётный суффикс для книг"
+      },
+      {
+        "jp": "はんこ",
+        "uz": "pechat, muhr",
+        "en": "seal, stamp",
+        "ru": "печать, штамп"
+      },
+      {
+        "jp": "おします [はんこを〜]",
+        "uz": "pechat urmoq, bosmoq (muhr)",
+        "en": "to stamp, to seal",
+        "ru": "поставить печать"
+      },
+      {
+        "jp": "ふたご",
+        "uz": "egizaklar",
+        "en": "twins",
+        "ru": "близнецы"
+      },
+      {
+        "jp": "しまい",
+        "uz": "opa-singillar",
+        "en": "sisters",
+        "ru": "сёстры"
+      },
+      {
+        "jp": "５ねんせい",
+        "uz": "5-sinf o‘quvchisi",
+        "en": "fifth grader",
+        "ru": "ученик 5 класса"
+      },
+      {
+        "jp": "にて います",
+        "uz": "o‘xshamoq",
+        "en": "to resemble",
+        "ru": "быть похожим"
+      },
+      {
+        "jp": "せいかく",
+        "uz": "tabiati, xarakteri",
+        "en": "character, personality",
+        "ru": "характер"
+      },
+      {
+        "jp": "おとなしい",
+        "uz": "bosiq",
+        "en": "quiet, gentle",
+        "ru": "спокойный"
+      },
+      {
+        "jp": "やさしい",
+        "uz": "mehribon",
+        "en": "kind, gentle",
+        "ru": "добрый"
+      },
+      {
+        "jp": "せわを します",
+        "uz": "g‘amxo‘rlik qilmoq, qaramoq",
+        "en": "to take care of",
+        "ru": "ухаживать"
+      },
+      {
+        "jp": "じかんが たちます",
+        "uz": "vaqt o‘tmoq",
+        "en": "time passes",
+        "ru": "время проходит"
+      },
+      {
+        "jp": "だいすき [な]",
+        "uz": "eng yoqtirgan",
+        "en": "to like very much",
+        "ru": "очень любить"
+      },
+      {
+        "jp": "―てん",
+        "uz": "ball birligi",
+        "en": "point, score",
+        "ru": "балл"
+      },
+      {
+        "jp": "きが つよい",
+        "uz": "qattiq pishiq, kuchli, bardoshli, irodali",
+        "en": "strong-willed",
+        "ru": "волевой"
+      },
+      {
+        "jp": "けんかします",
+        "uz": "urishmoq, janjallashmoq",
+        "en": "to fight, to quarrel",
+        "ru": "ссориться, драться"
+      },
+      {
+        "jp": "ふしぎ [な]",
+        "uz": "g‘alati",
+        "en": "mysterious, strange",
+        "ru": "странный, удивительный"
+      },
+      {
+        "jp": "ねんれい",
+        "uz": "yosh",
+        "en": "age",
+        "ru": "возраст"
+      },
+      {
+        "jp": "しかた",
+        "uz": "yo’l, metod",
+        "en": "way, method",
+        "ru": "способ, метод"
+      }
+    ]
+  },
+  {
+    "lesson": 39,
+    "data": [
+      {
+        "jp": "こたえます [しつもんに〜]",
+        "uz": "javob bermoq (savolga javob bermoq)",
+        "en": "to answer (a question)",
+        "ru": "отвечать (на вопрос)"
+      },
+      {
+        "jp": "たおれます [ビルが〜]",
+        "uz": "qulamoq (bino qulamoq)",
+        "en": "to fall down (a building collapses)",
+        "ru": "падать, рушиться (здание)"
+      },
+      {
+        "jp": "とおります [みちを〜]",
+        "uz": "o‘tmoq (ko‘chadan o‘tmoq)",
+        "en": "to pass (through a street)",
+        "ru": "проходить (через улицу)"
+      },
+      {
+        "jp": "しにます",
+        "uz": "o‘lmoq",
+        "en": "to die",
+        "ru": "умирать"
+      },
+      {
+        "jp": "びっくりします",
+        "uz": "hayron bo‘lmoq",
+        "en": "to be surprised",
+        "ru": "удивляться"
+      },
+      {
+        "jp": "がっかりします",
+        "uz": "ko‘ngli qolmoq, xafa bo‘lmoq",
+        "en": "to be disappointed",
+        "ru": "разочаровываться"
+      },
+      {
+        "jp": "あんしんします",
+        "uz": "xotirjam bo‘lmoq",
+        "en": "to be relieved",
+        "ru": "успокаиваться"
+      },
+      {
+        "jp": "けんかします",
+        "uz": "urishmoq, yoqalashmoq",
+        "en": "to quarrel, to fight",
+        "ru": "ссориться, драться"
+      },
+      {
+        "jp": "りこんします",
+        "uz": "ajrashmoq",
+        "en": "to divorce",
+        "ru": "разводиться"
+      },
+      {
+        "jp": "ふとります",
+        "uz": "semirmoq",
+        "en": "to gain weight",
+        "ru": "толстеть"
+      },
+      {
+        "jp": "やせます",
+        "uz": "ozmoq",
+        "en": "to lose weight",
+        "ru": "худеть"
+      },
+      {
+        "jp": "ふくざつ［な］",
+        "uz": "murakkab",
+        "en": "complicated",
+        "ru": "сложный"
+      },
+      {
+        "jp": "じゃま［な］",
+        "uz": "xalaqit beruvchi",
+        "en": "hindering, obstructive",
+        "ru": "мешающий"
+      },
+      {
+        "jp": "かたい",
+        "uz": "qattiq",
+        "en": "hard, tough",
+        "ru": "твёрдый"
+      },
+      {
+        "jp": "やわらかい",
+        "uz": "yumshoq",
+        "en": "soft",
+        "ru": "мягкий"
+      },
+      {
+        "jp": "きたない",
+        "uz": "iflos, kir",
+        "en": "dirty",
+        "ru": "грязный"
+      },
+      {
+        "jp": "うれしい",
+        "uz": "xursand",
+        "en": "happy, glad",
+        "ru": "радостный"
+      },
+      {
+        "jp": "かなしい",
+        "uz": "xomush",
+        "en": "sad",
+        "ru": "грустный"
+      },
+      {
+        "jp": "はずかしい",
+        "uz": "uyatli",
+        "en": "embarrassing, ashamed",
+        "ru": "стыдный, неловкий"
+      },
+      {
+        "jp": "しゅしょう",
+        "uz": "bosh vazir",
+        "en": "prime minister",
+        "ru": "премьер-министр"
+      },
+      {
+        "jp": "じしん",
+        "uz": "zilzila",
+        "en": "earthquake",
+        "ru": "землетрясение"
+      },
+      {
+        "jp": "つなみ",
+        "uz": "sunami",
+        "en": "tsunami",
+        "ru": "цунами"
+      },
+      {
+        "jp": "たいふう",
+        "uz": "tayfun, dovul",
+        "en": "typhoon",
+        "ru": "тайфун"
+      },
+      {
+        "jp": "かみなり",
+        "uz": "chaqmoq",
+        "en": "thunder",
+        "ru": "гром"
+      },
+      {
+        "jp": "かじ",
+        "uz": "yong‘in",
+        "en": "fire",
+        "ru": "пожар"
+      },
+      {
+        "jp": "じこ",
+        "uz": "halokat, baxtsiz hodisa",
+        "en": "accident",
+        "ru": "авария, несчастный случай"
+      },
+      {
+        "jp": "ハイキング",
+        "uz": "tog‘ ekskursiyasi",
+        "en": "hiking",
+        "ru": "поход, хайкинг"
+      },
+      {
+        "jp": "［お］みあい",
+        "uz": "turmushdan oldingi uchrashuv",
+        "en": "arranged marriage meeting",
+        "ru": "смотрины (перед браком)"
+      },
+      {
+        "jp": "そうさ",
+        "uz": "boshqarish (mexanizm)",
+        "en": "operation, control",
+        "ru": "управление, операция"
+      },
+      {
+        "jp": "かいじょう",
+        "uz": "zal",
+        "en": "hall, venue",
+        "ru": "зал, место проведения"
+      },
+      {
+        "jp": "〜だい",
+        "uz": "～to‘lovi, ～haqi",
+        "en": "fee, charge",
+        "ru": "плата за ～"
+      },
+      {
+        "jp": "〜や",
+        "uz": "～do‘koni; ～do‘koni sotuvchisi",
+        "en": "shop, store",
+        "ru": "магазин ～"
+      },
+      {
+        "jp": "フロント",
+        "uz": "ma’mur turadigan joy",
+        "en": "front desk, reception",
+        "ru": "стойка администратора"
+      },
+      {
+        "jp": "―ごうしつ",
+        "uz": "～xona",
+        "en": "room number ～",
+        "ru": "номер комнаты ～"
+      },
+      {
+        "jp": "タオル",
+        "uz": "sochiq",
+        "en": "towel",
+        "ru": "полотенце"
+      },
+      {
+        "jp": "せっけん",
+        "uz": "sovun",
+        "en": "soap",
+        "ru": "мыло"
+      },
+      {
+        "jp": "おおぜい",
+        "uz": "ko‘p (odam)",
+        "en": "many people",
+        "ru": "много людей"
+      },
+      {
+        "jp": "おつかれさまでした。",
+        "uz": "Ko‘ngil so‘rash (ishni tugatganda)",
+        "en": "Thank you for your hard work",
+        "ru": "Спасибо за работу"
+      },
+      {
+        "jp": "うかがいます。",
+        "uz": "boraman (kamtarin shakl)",
+        "en": "I will come (humble form)",
+        "ru": "Я приду (скромная форма)"
+      },
+      {
+        "jp": "とちゅうで",
+        "uz": "jarayonida, paytida",
+        "en": "on the way, in the middle of",
+        "ru": "по пути, в процессе"
+      },
+      {
+        "jp": "トラック",
+        "uz": "yuk mashinasi",
+        "en": "truck",
+        "ru": "грузовик"
+      },
+      {
+        "jp": "ぶつかります",
+        "uz": "urilmoq, to‘qnashmoq",
+        "en": "to collide, to bump into",
+        "ru": "столкнуться"
+      },
+      {
+        "jp": "おとな",
+        "uz": "katta yoshdagi odam",
+        "en": "adult",
+        "ru": "взрослый"
+      },
+      {
+        "jp": "しかし",
+        "uz": "lekin",
+        "en": "however, but",
+        "ru": "однако, но"
+      },
+      {
+        "jp": "また",
+        "uz": "yana, shuningdek",
+        "en": "again, also",
+        "ru": "снова, также"
+      },
+      {
+        "jp": "ようふく",
+        "uz": "Ovro‘pacha ko‘ylak",
+        "en": "Western clothes",
+        "ru": "европейская одежда"
+      },
+      {
+        "jp": "せいようかします",
+        "uz": "Ovro‘palashmoq",
+        "en": "to become Westernized",
+        "ru": "вестернизироваться"
+      },
+      {
+        "jp": "あいます",
+        "uz": "mos kelmoq",
+        "en": "to fit, to match",
+        "ru": "подходить, совпадать"
+      },
+      {
+        "jp": "いまでは",
+        "uz": "hozir, hozirda",
+        "en": "nowadays, at present",
+        "ru": "сейчас, в настоящее время"
+      },
+      {
+        "jp": "せいじんしき",
+        "uz": "Voyaga yetganlikni nishonlash",
+        "en": "coming-of-age ceremony",
+        "ru": "церемония совершеннолетия"
+      },
+      {
+        "jp": "でんとうてき［な］",
+        "uz": "milliy mato",
+        "en": "traditional",
+        "ru": "традиционный"
+      }
+    ]
+  },
+  {
+    "lesson": 40,
+    "data": [
+      {
+        "jp": "かぞえます",
+        "uz": "sanamoq",
+        "en": "to count",
+        "ru": "считать"
+      },
+      {
+        "jp": "はかります",
+        "uz": "o‘lchamoq",
+        "en": "to measure",
+        "ru": "измерять"
+      },
+      {
+        "jp": "たしかめます",
+        "uz": "aniqlamoq",
+        "en": "to confirm",
+        "ru": "проверять"
+      },
+      {
+        "jp": "あいます［サイズが〜］",
+        "uz": "mos kelmoq (razmeri mos kelmoq)",
+        "en": "to fit (size)",
+        "ru": "подходить (по размеру)"
+      },
+      {
+        "jp": "しゅっぱつします",
+        "uz": "jo‘nab ketmoq, uchib ketmoq",
+        "en": "to depart",
+        "ru": "отправляться"
+      },
+      {
+        "jp": "とうちゃくします",
+        "uz": "yetib kelmoq",
+        "en": "to arrive",
+        "ru": "прибывать"
+      },
+      {
+        "jp": "よいます",
+        "uz": "kayfi oshmoq",
+        "en": "to get drunk",
+        "ru": "напиваться"
+      },
+      {
+        "jp": "うまく いきます",
+        "uz": "(ishlari) besh bo‘lmoq",
+        "en": "to go well",
+        "ru": "хорошо идти"
+      },
+      {
+        "jp": "でます［もんだいが〜］",
+        "uz": "savollar chiqadi",
+        "en": "questions appear",
+        "ru": "появляются вопросы"
+      },
+      {
+        "jp": "そうだんします",
+        "uz": "maslahatlashmoq",
+        "en": "to consult",
+        "ru": "советоваться"
+      },
+      {
+        "jp": "ひつよう［な］",
+        "uz": "kerakli, zarur",
+        "en": "necessary",
+        "ru": "необходимый"
+      },
+      {
+        "jp": "てんきよほう",
+        "uz": "ob-havo",
+        "en": "weather forecast",
+        "ru": "прогноз погоды"
+      },
+      {
+        "jp": "ぼうねんかい",
+        "uz": "eski yilni kuzatish kechasi",
+        "en": "year-end party",
+        "ru": "новогодний вечер"
+      },
+      {
+        "jp": "しんねんかい",
+        "uz": "yangi yilni kutish kechasi",
+        "en": "New Year’s party",
+        "ru": "вечеринка на Новый год"
+      },
+      {
+        "jp": "にじかい",
+        "uz": "kechaning ikkinchi qismi",
+        "en": "second party",
+        "ru": "вторая вечеринка"
+      },
+      {
+        "jp": "はっぴょうかい",
+        "uz": "taqdimot",
+        "en": "presentation meeting",
+        "ru": "собрание-презентация"
+      },
+      {
+        "jp": "たいかい",
+        "uz": "musobaqa, tanlov",
+        "en": "tournament",
+        "ru": "турнир"
+      },
+      {
+        "jp": "マラソン",
+        "uz": "marafon, uzoqqa yugurish",
+        "en": "marathon",
+        "ru": "марафон"
+      },
+      {
+        "jp": "コンテスト",
+        "uz": "tanlov",
+        "en": "contest",
+        "ru": "конкурс"
+      },
+      {
+        "jp": "おもて",
+        "uz": "yuz tomoni",
+        "en": "front side",
+        "ru": "лицевая сторона"
+      },
+      {
+        "jp": "うら",
+        "uz": "orqa tomoni",
+        "en": "back side",
+        "ru": "оборотная сторона"
+      },
+      {
+        "jp": "まちがい",
+        "uz": "xato",
+        "en": "mistake",
+        "ru": "ошибка"
+      },
+      {
+        "jp": "きず",
+        "uz": "jarohat, chizilgan dog‘",
+        "en": "wound, scratch",
+        "ru": "рана, царапина"
+      },
+      {
+        "jp": "ズボン",
+        "uz": "shim",
+        "en": "trousers",
+        "ru": "брюки"
+      },
+      {
+        "jp": "［お］としより",
+        "uz": "yoshi ulug‘",
+        "en": "elderly person",
+        "ru": "пожилой человек"
+      },
+      {
+        "jp": "ながさ",
+        "uz": "uzunligi",
+        "en": "length",
+        "ru": "длина"
+      },
+      {
+        "jp": "おもさ",
+        "uz": "og‘irligi",
+        "en": "weight",
+        "ru": "вес"
+      },
+      {
+        "jp": "たかさ",
+        "uz": "balandligi",
+        "en": "height",
+        "ru": "высота"
+      },
+      {
+        "jp": "おおきさ",
+        "uz": "kattaligi",
+        "en": "size",
+        "ru": "размер"
+      },
+      {
+        "jp": "［―］びん",
+        "uz": "～reys",
+        "en": "flight number",
+        "ru": "рейс"
+      },
+      {
+        "jp": "―こ",
+        "uz": "sanoq suffiksi (kichik hajm uchun)",
+        "en": "counter for small objects",
+        "ru": "счётный суффикс (для мелких предметов)"
+      },
+      {
+        "jp": "―ほん（―ぽん、−ぼん）",
+        "uz": "sanoq suffiksi (uzun narsa uchun)",
+        "en": "counter for long objects",
+        "ru": "счётный суффикс (для длинных предметов)"
+      },
+      {
+        "jp": "―はい（―ぱい、―ばい）",
+        "uz": "sanoq suffiksi (idish to‘la bo‘lgan holat uchun)",
+        "en": "counter for cups or glasses",
+        "ru": "счётный суффикс (для чашек, стаканов)"
+      },
+      {
+        "jp": "―センチ",
+        "uz": "-santimetr",
+        "en": "centimeter",
+        "ru": "сантиметр"
+      },
+      {
+        "jp": "―ミリ",
+        "uz": "-millimetr",
+        "en": "millimeter",
+        "ru": "миллиметр"
+      },
+      {
+        "jp": "―グラム",
+        "uz": "-gramm",
+        "en": "gram",
+        "ru": "грамм"
+      },
+      {
+        "jp": "〜いじょう",
+        "uz": "-dan ko‘p",
+        "en": "more than, over",
+        "ru": "более, свыше"
+      },
+      {
+        "jp": "〜いか",
+        "uz": "-dan kam",
+        "en": "less than, under",
+        "ru": "менее, до"
+      },
+      {
+        "jp": "どうでしょうか。",
+        "uz": "～ga nima deysiz?",
+        "en": "How about ～?",
+        "ru": "Как насчёт ～?"
+      },
+      {
+        "jp": "テスト",
+        "uz": "test, imtihon",
+        "en": "test, exam",
+        "ru": "тест, экзамен"
+      },
+      {
+        "jp": "せいせき",
+        "uz": "reyting, o‘zlashtirish",
+        "en": "grade, result",
+        "ru": "оценка, результат"
+      },
+      {
+        "jp": "ところで",
+        "uz": "aytganday",
+        "en": "by the way",
+        "ru": "кстати"
+      },
+      {
+        "jp": "いらっしゃいます",
+        "uz": "kelmoq (きますning hurmat shakli)",
+        "en": "to come (honorific)",
+        "ru": "приходить (вежл.)"
+      },
+      {
+        "jp": "ようす",
+        "uz": "ko‘rinishi, ahvoli",
+        "en": "appearance, condition",
+        "ru": "вид, состояние"
+      },
+      {
+        "jp": "じけん",
+        "uz": "hodisa, baxtsiz hodisa",
+        "en": "incident, case",
+        "ru": "инцидент, происшествие"
+      },
+      {
+        "jp": "オートバイ",
+        "uz": "mototsikl",
+        "en": "motorbike",
+        "ru": "мотоцикл"
+      },
+      {
+        "jp": "ばくだん",
+        "uz": "bomba",
+        "en": "bomb",
+        "ru": "бомба"
+      },
+      {
+        "jp": "つみます",
+        "uz": "to‘latmoq, bosmoq",
+        "en": "to load",
+        "ru": "грузить"
+      },
+      {
+        "jp": "うんてんしゅ",
+        "uz": "haydovchi",
+        "en": "driver",
+        "ru": "водитель"
+      },
+      {
+        "jp": "はなれた",
+        "uz": "uzoqlikdagi",
+        "en": "remote, distant",
+        "ru": "удалённый"
+      },
+      {
+        "jp": "きゅうに",
+        "uz": "birdan",
+        "en": "suddenly",
+        "ru": "внезапно"
+      },
+      {
+        "jp": "うごかします",
+        "uz": "qo‘zg‘atmoq, yurgizmoq",
+        "en": "to move, operate",
+        "ru": "двигать, приводить в действие"
+      },
+      {
+        "jp": "いっしょうけんめい",
+        "uz": "jon-jahdi bilan",
+        "en": "with all one’s effort",
+        "ru": "изо всех сил"
+      },
+      {
+        "jp": "はんにん",
+        "uz": "jinoyatchi",
+        "en": "criminal",
+        "ru": "преступник"
+      },
+      {
+        "jp": "おとこ",
+        "uz": "yigit",
+        "en": "man",
+        "ru": "мужчина"
+      },
+      {
+        "jp": "てに いれます",
+        "uz": "qo‘lga kiritmoq",
+        "en": "to obtain",
+        "ru": "получить"
+      },
+      {
+        "jp": "いまでも",
+        "uz": "hozir ham",
+        "en": "even now",
+        "ru": "даже сейчас"
+      }
+    ]
+  },
+  {
+    "lesson": 41,
+    "data": [
+      {
+        "jp": "いただきます",
+        "uz": "olmoq (kamtarinlik shakli)",
+        "en": "to receive (humble form)",
+        "ru": "получать (скромная форма)"
+      },
+      {
+        "jp": "くださいます",
+        "uz": "bermoq (hurmat shakli)",
+        "en": "to give (honorific form)",
+        "ru": "давать (уважительная форма)"
+      },
+      {
+        "jp": "やります",
+        "uz": "bermoq (o‘zidan quyi pog‘onadagi kishiga)",
+        "en": "to give (to someone lower in status)",
+        "ru": "давать (кому-то ниже по статусу)"
+      },
+      {
+        "jp": "あげます",
+        "uz": "ko‘tarmoq",
+        "en": "to give",
+        "ru": "давать"
+      },
+      {
+        "jp": "さげます",
+        "uz": "tushirmoq",
+        "en": "to lower, to drop",
+        "ru": "опускать"
+      },
+      {
+        "jp": "しんせつに します",
+        "uz": "mehr ko‘rsatmoq",
+        "en": "to be kind",
+        "ru": "быть добрым"
+      },
+      {
+        "jp": "かわいい",
+        "uz": "shiringina, yaxshigina",
+        "en": "cute, lovely",
+        "ru": "милый, симпатичный"
+      },
+      {
+        "jp": "めずらしい",
+        "uz": "noyob, nadi",
+        "en": "rare, unusual",
+        "ru": "редкий, необычный"
+      },
+      {
+        "jp": "おいわい",
+        "uz": "nishonlash（〜をします）～moq",
+        "en": "celebration (to celebrate)",
+        "ru": "празднование (праздновать)"
+      },
+      {
+        "jp": "おとしだま",
+        "uz": "yangi yil pul hadyasi",
+        "en": "New Year's money gift",
+        "ru": "новогодний денежный подарок"
+      },
+      {
+        "jp": "［お］みまい",
+        "uz": "bemor kishini ziyorat qilish; bemor kishiga olib boriladigan sovg‘a",
+        "en": "visit/gift for a sick person",
+        "ru": "визит/подарок больному"
+      },
+      {
+        "jp": "きょうみ",
+        "uz": "qiziqish",
+        "en": "interest",
+        "ru": "интерес"
+      },
+      {
+        "jp": "じょうほう",
+        "uz": "axborot, ma’lumot",
+        "en": "information",
+        "ru": "информация"
+      },
+      {
+        "jp": "ぶんぽう",
+        "uz": "grammatika",
+        "en": "grammar",
+        "ru": "грамматика"
+      },
+      {
+        "jp": "はつおん",
+        "uz": "talaffuz",
+        "en": "pronunciation",
+        "ru": "произношение"
+      },
+      {
+        "jp": "さる",
+        "uz": "maymun",
+        "en": "monkey",
+        "ru": "обезьяна"
+      },
+      {
+        "jp": "えさ",
+        "uz": "yem",
+        "en": "feed, bait",
+        "ru": "корм, приманка"
+      },
+      {
+        "jp": "おもちゃ",
+        "uz": "qo‘g‘irchoq",
+        "en": "toy",
+        "ru": "игрушка"
+      },
+      {
+        "jp": "えほん",
+        "uz": "rasmli kitob",
+        "en": "picture book",
+        "ru": "книжка с картинками"
+      },
+      {
+        "jp": "えはがき",
+        "uz": "rasmli otkritka",
+        "en": "picture postcard",
+        "ru": "открытка с рисунком"
+      },
+      {
+        "jp": "ドライバー",
+        "uz": "otvyorka",
+        "en": "screwdriver",
+        "ru": "отвёртка"
+      },
+      {
+        "jp": "ハンカチ",
+        "uz": "dastro‘mol",
+        "en": "handkerchief",
+        "ru": "носовой платок"
+      },
+      {
+        "jp": "くつした",
+        "uz": "paypoq",
+        "en": "socks",
+        "ru": "носки"
+      },
+      {
+        "jp": "てぶくろ",
+        "uz": "qo‘lqop",
+        "en": "gloves",
+        "ru": "перчатки"
+      },
+      {
+        "jp": "ようちえん",
+        "uz": "bog‘cha",
+        "en": "kindergarten",
+        "ru": "детский сад"
+      },
+      {
+        "jp": "だんぼう",
+        "uz": "isitish tizimi",
+        "en": "heating",
+        "ru": "отопление"
+      },
+      {
+        "jp": "れいぼう",
+        "uz": "sovutish tizimi",
+        "en": "air conditioning",
+        "ru": "кондиционер"
+      },
+      {
+        "jp": "おんど",
+        "uz": "temperatura",
+        "en": "temperature",
+        "ru": "температура"
+      },
+      {
+        "jp": "そふ",
+        "uz": "buvam, bobom",
+        "en": "grandfather (mine)",
+        "ru": "дедушка (мой)"
+      },
+      {
+        "jp": "そぼ",
+        "uz": "buvim, momom",
+        "en": "grandmother (mine)",
+        "ru": "бабушка (моя)"
+      },
+      {
+        "jp": "まご",
+        "uz": "nevaram",
+        "en": "grandchild (mine)",
+        "ru": "внук/внучка (мой)"
+      },
+      {
+        "jp": "おまごさん",
+        "uz": "nevarasi, nevarasi (birovning)",
+        "en": "grandchild (someone else's)",
+        "ru": "внук/внучка (чужой)"
+      },
+      {
+        "jp": "おじ",
+        "uz": "tog‘am, amakim",
+        "en": "uncle (mine)",
+        "ru": "дядя (мой)"
+      },
+      {
+        "jp": "おじさん",
+        "uz": "tog‘asi, amakisi (birovning)",
+        "en": "uncle (someone else's)",
+        "ru": "дядя (чужой)"
+      },
+      {
+        "jp": "おば",
+        "uz": "xolam, ammam",
+        "en": "aunt (mine)",
+        "ru": "тётя (моя)"
+      },
+      {
+        "jp": "おばさん",
+        "uz": "xolam, ammam (birovning)",
+        "en": "aunt (someone else's)",
+        "ru": "тётя (чужая)"
+      },
+      {
+        "jp": "かんりにん",
+        "uz": "ma’mur",
+        "en": "manager, caretaker",
+        "ru": "администратор, смотритель"
+      },
+      {
+        "jp": "〜さん",
+        "uz": "sufiks (hurmat shaklida)",
+        "en": "suffix (polite)",
+        "ru": "суффикс (уважительная форма)"
+      },
+      {
+        "jp": "このあいだ",
+        "uz": "yaqinda(vaqtga nisbatan), o‘tgan safar",
+        "en": "the other day, recently",
+        "ru": "на днях, недавно"
+      },
+      {
+        "jp": "ひとこと",
+        "uz": "bir og‘iz so‘z",
+        "en": "a few words",
+        "ru": "несколько слов"
+      },
+      {
+        "jp": "〜ずつ",
+        "uz": "～tadan",
+        "en": "each, apiece",
+        "ru": "по ～"
+      },
+      {
+        "jp": "ふたり",
+        "uz": "ikki kishi",
+        "en": "two people",
+        "ru": "двое"
+      },
+      {
+        "jp": "おたく",
+        "uz": "(birovning) uyi",
+        "en": "house (someone else's, polite)",
+        "ru": "дом (чужой, уваж.)"
+      },
+      {
+        "jp": "どうぞ おしあわせに。",
+        "uz": "baxtli bo‘ling",
+        "en": "Be happy (best wishes)",
+        "ru": "Будьте счастливы"
+      },
+      {
+        "jp": "むかしばなし",
+        "uz": "ertak",
+        "en": "folk tale",
+        "ru": "сказка"
+      },
+      {
+        "jp": "ある〜",
+        "uz": "bir～",
+        "en": "a certain ～",
+        "ru": "однажды ～"
+      },
+      {
+        "jp": "おとこ",
+        "uz": "yigit",
+        "en": "man",
+        "ru": "мужчина"
+      },
+      {
+        "jp": "こどもたち",
+        "uz": "bolalar",
+        "en": "children",
+        "ru": "дети"
+      },
+      {
+        "jp": "いじめます",
+        "uz": "qiynamoq",
+        "en": "to bully",
+        "ru": "издеваться"
+      },
+      {
+        "jp": "かめ",
+        "uz": "toshbaqa",
+        "en": "turtle",
+        "ru": "черепаха"
+      },
+      {
+        "jp": "たすけます",
+        "uz": "yordam bermoq (qutqarmoq)",
+        "en": "to help, to rescue",
+        "ru": "помогать, спасать"
+      },
+      {
+        "jp": "やさしい",
+        "uz": "mehribon",
+        "en": "kind, gentle",
+        "ru": "добрый"
+      },
+      {
+        "jp": "おひめさま",
+        "uz": "malika",
+        "en": "princess",
+        "ru": "принцесса"
+      },
+      {
+        "jp": "くらします",
+        "uz": "yashamoq",
+        "en": "to live",
+        "ru": "жить"
+      },
+      {
+        "jp": "りく",
+        "uz": "quruqlik",
+        "en": "land",
+        "ru": "суша"
+      },
+      {
+        "jp": "すると",
+        "uz": "shunda",
+        "en": "then, thereupon",
+        "ru": "тогда"
+      },
+      {
+        "jp": "けむり",
+        "uz": "tutun",
+        "en": "smoke",
+        "ru": "дым"
+      },
+      {
+        "jp": "まっしろ［な］",
+        "uz": "oppoq",
+        "en": "pure white",
+        "ru": "белоснежный"
+      },
+      {
+        "jp": "なかみ",
+        "uz": "ichidagi narsa；～dan iborat",
+        "en": "contents, inside",
+        "ru": "содержимое"
+      },
+      {
+        "jp": "うらしま たろう",
+        "uz": "ertakdagi qahramon ismi",
+        "en": "Urashima Taro (fairy tale character)",
+        "ru": "Урасива Таро (герой сказки)"
+      }
+    ]
+  },
+  {
+    "lesson": 42,
+    "data": [
+      {
+        "jp": "つつみます",
+        "uz": "tugmoq, o‘ramoq",
+        "en": "to wrap",
+        "ru": "заворачивать"
+      },
+      {
+        "jp": "わかします",
+        "uz": "qaynatmoq（suvni～）",
+        "en": "to boil (water)",
+        "ru": "кипятить (воду)"
+      },
+      {
+        "jp": "まぜます",
+        "uz": "aralashtirmoq",
+        "en": "to mix",
+        "ru": "смешивать"
+      },
+      {
+        "jp": "けいさんします",
+        "uz": "hisoblamoq",
+        "en": "to calculate",
+        "ru": "считать"
+      },
+      {
+        "jp": "ならびます",
+        "uz": "saf tortib turmoq,taxlanmoq",
+        "en": "to line up, to be arranged",
+        "ru": "стоять в ряд, выстраиваться"
+      },
+      {
+        "jp": "じょうぶ［な］",
+        "uz": "pishiq, mustahkam",
+        "en": "strong, durable",
+        "ru": "крепкий, прочный"
+      },
+      {
+        "jp": "アパート",
+        "uz": "kvartira",
+        "en": "apartment",
+        "ru": "квартира"
+      },
+      {
+        "jp": "べんごし",
+        "uz": "advokat",
+        "en": "lawyer",
+        "ru": "адвокат"
+      },
+      {
+        "jp": "おんがくか",
+        "uz": "musiqachi, cholg‘uchi",
+        "en": "musician",
+        "ru": "музыкант"
+      },
+      {
+        "jp": "こどもたち",
+        "uz": "bolalar",
+        "en": "children",
+        "ru": "дети"
+      },
+      {
+        "jp": "しぜん",
+        "uz": "tabiat",
+        "en": "nature",
+        "ru": "природа"
+      },
+      {
+        "jp": "きょういく",
+        "uz": "ta’lim-tarbiya",
+        "en": "education",
+        "ru": "образование"
+      },
+      {
+        "jp": "ぶんか",
+        "uz": "madaniyat",
+        "en": "culture",
+        "ru": "культура"
+      },
+      {
+        "jp": "しゃかい",
+        "uz": "jamiyat",
+        "en": "society",
+        "ru": "общество"
+      },
+      {
+        "jp": "せいじ",
+        "uz": "siyosat",
+        "en": "politics",
+        "ru": "политика"
+      },
+      {
+        "jp": "ほうりつ",
+        "uz": "qonun",
+        "en": "law",
+        "ru": "закон"
+      },
+      {
+        "jp": "せんそう",
+        "uz": "urush, jang",
+        "en": "war",
+        "ru": "война"
+      },
+      {
+        "jp": "へいわ",
+        "uz": "tinchlik",
+        "en": "peace",
+        "ru": "мир"
+      },
+      {
+        "jp": "もくてき",
+        "uz": "maqsad",
+        "en": "purpose, goal",
+        "ru": "цель"
+      },
+      {
+        "jp": "ろんぶん",
+        "uz": "diplom ishi, dissertatsiya",
+        "en": "thesis, dissertation",
+        "ru": "диссертация"
+      },
+      {
+        "jp": "たのしみ",
+        "uz": "xursandchilik",
+        "en": "enjoyment, pleasure",
+        "ru": "удовольствие"
+      },
+      {
+        "jp": "ミキサー",
+        "uz": "mikser",
+        "en": "mixer, blender",
+        "ru": "миксер"
+      },
+      {
+        "jp": "やかん",
+        "uz": "chovgum",
+        "en": "kettle",
+        "ru": "чайник"
+      },
+      {
+        "jp": "ふた",
+        "uz": "qopqoq",
+        "en": "lid, cover",
+        "ru": "крышка"
+      },
+      {
+        "jp": "せんぬき",
+        "uz": "shtopor, butilka ochqich",
+        "en": "bottle opener, corkscrew",
+        "ru": "штопор, открывалка"
+      },
+      {
+        "jp": "かんきり",
+        "uz": "konserva ochqich",
+        "en": "can opener",
+        "ru": "консервный нож"
+      },
+      {
+        "jp": "かんづめ",
+        "uz": "konserva",
+        "en": "canned food",
+        "ru": "консервы"
+      },
+      {
+        "jp": "のしぶくろ",
+        "uz": "pul solishga mo‘ljallangan",
+        "en": "decorated envelope for money gift",
+        "ru": "конверт для денег (подарок)"
+      },
+      {
+        "jp": "ふろしき",
+        "uz": "tugun, bo‘g‘cha",
+        "en": "wrapping cloth",
+        "ru": "традиционная ткань для заворачивания"
+      },
+      {
+        "jp": "そろばん",
+        "uz": "hisob-kitob",
+        "en": "abacus",
+        "ru": "счёты"
+      },
+      {
+        "jp": "たいおんけい",
+        "uz": "termometr",
+        "en": "thermometer",
+        "ru": "термометр"
+      },
+      {
+        "jp": "ざいりょう",
+        "uz": "masalliq, xom-ashyo",
+        "en": "ingredients, materials",
+        "ru": "ингредиенты, материалы"
+      },
+      {
+        "jp": "ある〜",
+        "uz": "bir～, ma’lum～",
+        "en": "a certain ～",
+        "ru": "некоторый ～"
+      },
+      {
+        "jp": "いっしょうけんめい",
+        "uz": "jon-jahdi bilan",
+        "en": "with all one’s effort",
+        "ru": "изо всех сил"
+      },
+      {
+        "jp": "なぜ",
+        "uz": "nega",
+        "en": "why",
+        "ru": "почему"
+      },
+      {
+        "jp": "どのくらい",
+        "uz": "qancha? necha pul?",
+        "en": "how much? how long?",
+        "ru": "сколько?"
+      },
+      {
+        "jp": "こくれん",
+        "uz": "Birlashgan Millatlar Tashkiloti",
+        "en": "United Nations",
+        "ru": "ООН"
+      },
+      {
+        "jp": "エリーゼのために",
+        "uz": "Eliza uchun",
+        "en": "For Elise",
+        "ru": "К Элизе"
+      },
+      {
+        "jp": "ベートーベン",
+        "uz": "Lyudvig Van Betxoven, nemis bastakori(1770-1827)",
+        "en": "Ludwig van Beethoven, German composer (1770–1827)",
+        "ru": "Людвиг ван Бетховен, немецкий композитор (1770–1827)"
+      },
+      {
+        "jp": "でます［ボーナスが〜］",
+        "uz": "premya, bonus",
+        "en": "to be given (bonus)",
+        "ru": "выдаваться (премия, бонус)"
+      },
+      {
+        "jp": "はんぶん",
+        "uz": "yarim",
+        "en": "half",
+        "ru": "половина"
+      },
+      {
+        "jp": "ローン",
+        "uz": "ssuda",
+        "en": "loan",
+        "ru": "кредит"
+      },
+      {
+        "jp": "カップめん",
+        "uz": "maxsus bir marotabalik konteyner qutidagi lapsha",
+        "en": "instant cup noodles",
+        "ru": "лапша в стаканчике"
+      },
+      {
+        "jp": "せかいはつ",
+        "uz": "dunyoning yaratilishi",
+        "en": "world’s first",
+        "ru": "первый в мире"
+      },
+      {
+        "jp": "〜に よって",
+        "uz": "～tomonidan",
+        "en": "by ～",
+        "ru": "по ～, благодаря ～"
+      },
+      {
+        "jp": "どんぶり",
+        "uz": "sopol nim-kosa",
+        "en": "large bowl",
+        "ru": "миска"
+      },
+      {
+        "jp": "めん",
+        "uz": "xamir",
+        "en": "noodles, dough",
+        "ru": "лапша, тесто"
+      },
+      {
+        "jp": "ひろめます",
+        "uz": "kengaytirmoq",
+        "en": "to spread, to promote",
+        "ru": "распространять"
+      },
+      {
+        "jp": "しじょうちょうさ",
+        "uz": "marketing tadqiqot",
+        "en": "market research",
+        "ru": "маркетинговое исследование"
+      },
+      {
+        "jp": "わります",
+        "uz": "sindirmoq",
+        "en": "to break",
+        "ru": "ломать"
+      },
+      {
+        "jp": "そそぎます",
+        "uz": "suv quymoq",
+        "en": "to pour",
+        "ru": "наливать"
+      },
+      {
+        "jp": "チキンラーメン",
+        "uz": "tez tayyorlanadigan lag‘monning ismi",
+        "en": "Chicken Ramen (brand of instant noodles)",
+        "ru": "Чикен Рамен (марка лапши быстрого приготовления)"
+      },
+      {
+        "jp": "あんどう ももふく",
+        "uz": "instant ramen tayyorlaydigan kishi",
+        "en": "Ando Momofuku (inventor of instant ramen)",
+        "ru": "Андо Момофуку (создатель лапши быстрого приготовления)"
+      }
+    ]
+  },
+  {
+    "lesson": 43,
+    "data": [
+      {
+        "jp": "ふえます［ゆしゅつが〜］",
+        "uz": "ko‘paymoq [eksport～]",
+        "en": "to increase [exports]",
+        "ru": "увеличиваться [экспорт]"
+      },
+      {
+        "jp": "へります［ゆしゅつが〜］",
+        "uz": "kamaymoq [eksport～]",
+        "en": "to decrease [exports]",
+        "ru": "уменьшаться [экспорт]"
+      },
+      {
+        "jp": "あがります［ねだんが〜］",
+        "uz": "ko‘tarilmoq [narx-navo～]",
+        "en": "to rise [price]",
+        "ru": "повышаться [цена]"
+      },
+      {
+        "jp": "さがります［ねだんが〜］",
+        "uz": "tushmoq [narx-navo～]",
+        "en": "to fall [price]",
+        "ru": "понижаться [цена]"
+      },
+      {
+        "jp": "きれます［ひもが〜］",
+        "uz": "uzilmoq [arqon～]",
+        "en": "to break, snap [string]",
+        "ru": "рваться [верёвка]"
+      },
+      {
+        "jp": "とれます［ボタンが〜］",
+        "uz": "yulinmoq, uzilmoq [tugma～]",
+        "en": "to come off [button]",
+        "ru": "отрываться [пуговица]"
+      },
+      {
+        "jp": "おちます［にもつが〜］",
+        "uz": "tushmoq [yuk～]",
+        "en": "to fall [baggage]",
+        "ru": "падать [багаж]"
+      },
+      {
+        "jp": "なくなります［ガソリンが〜］",
+        "uz": "tugamoq, yo‘qolmoq [yonilg‘i～]",
+        "en": "to run out [gasoline]",
+        "ru": "кончаться [бензин]"
+      },
+      {
+        "jp": "へん［な］",
+        "uz": "g‘alati",
+        "en": "strange, odd",
+        "ru": "странный"
+      },
+      {
+        "jp": "しあわせ［な］",
+        "uz": "baxtli",
+        "en": "happy",
+        "ru": "счастливый"
+      },
+      {
+        "jp": "らく［な］",
+        "uz": "yengil, oson",
+        "en": "easy, comfortable",
+        "ru": "лёгкий, удобный"
+      },
+      {
+        "jp": "うまい",
+        "uz": "mazali, mohir",
+        "en": "delicious, skillful",
+        "ru": "вкусный, умелый"
+      },
+      {
+        "jp": "まずい",
+        "uz": "bamaza",
+        "en": "bad-tasting, unpleasant",
+        "ru": "невкусный"
+      },
+      {
+        "jp": "つまらない",
+        "uz": "zerikarli",
+        "en": "boring",
+        "ru": "скучный"
+      },
+      {
+        "jp": "やさしい",
+        "uz": "mehribon",
+        "en": "kind, gentle",
+        "ru": "добрый"
+      },
+      {
+        "jp": "ガソリン",
+        "uz": "yonilg‘l, benzin",
+        "en": "gasoline, petrol",
+        "ru": "бензин"
+      },
+      {
+        "jp": "ひ",
+        "uz": "olov",
+        "en": "fire",
+        "ru": "огонь"
+      },
+      {
+        "jp": "パンフレット",
+        "uz": "rasmli buklet",
+        "en": "pamphlet, brochure",
+        "ru": "брошюра"
+      },
+      {
+        "jp": "いまにも",
+        "uz": "hozirning o‘zida",
+        "en": "at any moment",
+        "ru": "в любой момент"
+      },
+      {
+        "jp": "わあ",
+        "uz": "Voy!",
+        "en": "Wow!",
+        "ru": "Вау!"
+      },
+      {
+        "jp": "ばら",
+        "uz": "atirgul",
+        "en": "rose",
+        "ru": "роза"
+      },
+      {
+        "jp": "ドライブ",
+        "uz": "avtomobilda yurish",
+        "en": "drive, trip by car",
+        "ru": "поездка на машине"
+      },
+      {
+        "jp": "りゆう",
+        "uz": "sabab",
+        "en": "reason",
+        "ru": "причина"
+      },
+      {
+        "jp": "あやまります",
+        "uz": "kechirim so‘ramoq",
+        "en": "to apologize",
+        "ru": "извиняться"
+      },
+      {
+        "jp": "しりあいます",
+        "uz": "tanishmoq",
+        "en": "to get to know",
+        "ru": "познакомиться"
+      }
+    ]
+  },
+  {
+    "lesson": 44,
+    "data": [
+      {
+        "jp": "なきます",
+        "uz": "yig‘lamoq",
+        "en": "to cry",
+        "ru": "плакать"
+      },
+      {
+        "jp": "わらいます",
+        "uz": "kulmoq",
+        "en": "to laugh, smile",
+        "ru": "смеяться"
+      },
+      {
+        "jp": "ねむります",
+        "uz": "uxlamoq",
+        "en": "to sleep",
+        "ru": "спать"
+      },
+      {
+        "jp": "かわきます［シャツが〜］",
+        "uz": "qurimoq [ko‘ylak ～]",
+        "en": "to dry [shirt]",
+        "ru": "сохнуть [рубашка]"
+      },
+      {
+        "jp": "ぬれます［シャツが〜］",
+        "uz": "ho‘llanmoq, ho‘l bo‘lmoq [ko‘ylak ～]",
+        "en": "to get wet [shirt]",
+        "ru": "намокать [рубашка]"
+      },
+      {
+        "jp": "すべります",
+        "uz": "toymoq",
+        "en": "to slip",
+        "ru": "скользить"
+      },
+      {
+        "jp": "おきます［じこが〜］",
+        "uz": "yuz bermoq [halokat yuz bermoq]",
+        "en": "to happen [accident]",
+        "ru": "происходить [авария]"
+      },
+      {
+        "jp": "ちょうせつします",
+        "uz": "to‘g‘rilamoq, sozlamoq",
+        "en": "to adjust, regulate",
+        "ru": "регулировать, настраивать"
+      },
+      {
+        "jp": "あんぜん［な］",
+        "uz": "bexavotir, xavfsiz",
+        "en": "safe",
+        "ru": "безопасный"
+      },
+      {
+        "jp": "きけん［な］",
+        "uz": "xavfli",
+        "en": "dangerous",
+        "ru": "опасный"
+      },
+      {
+        "jp": "こい",
+        "uz": "quyuq, achchiq (ta’m), to‘q (rang)",
+        "en": "strong (taste), dark (color)",
+        "ru": "крепкий (вкус), тёмный (цвет)"
+      },
+      {
+        "jp": "うすい",
+        "uz": "yupqa, suyuq, siyrak, kuchsiz (ta’m), och (rang)",
+        "en": "thin, weak (taste), light (color)",
+        "ru": "тонкий, слабый (вкус), светлый (цвет)"
+      },
+      {
+        "jp": "あつい",
+        "uz": "qalin",
+        "en": "thick",
+        "ru": "толстый"
+      },
+      {
+        "jp": "ふとい",
+        "uz": "qalin",
+        "en": "thick, fat",
+        "ru": "толстый"
+      },
+      {
+        "jp": "ほそい",
+        "uz": "ingichka",
+        "en": "thin, slender",
+        "ru": "тонкий"
+      },
+      {
+        "jp": "くうき",
+        "uz": "havo",
+        "en": "air",
+        "ru": "воздух"
+      },
+      {
+        "jp": "なみだ",
+        "uz": "ko‘z yoshi",
+        "en": "tear",
+        "ru": "слеза"
+      },
+      {
+        "jp": "わしょく",
+        "uz": "yaponcha taom",
+        "en": "Japanese food",
+        "ru": "японская еда"
+      },
+      {
+        "jp": "ようしょく",
+        "uz": "ovro‘pacha taom",
+        "en": "Western food",
+        "ru": "европейская еда"
+      },
+      {
+        "jp": "おかず",
+        "uz": "gazak",
+        "en": "side dish",
+        "ru": "закуска, гарнир"
+      },
+      {
+        "jp": "りょう",
+        "uz": "miqdor",
+        "en": "quantity",
+        "ru": "количество"
+      },
+      {
+        "jp": "―ばい",
+        "uz": "～barobar, ～chandon",
+        "en": "times (multiplier)",
+        "ru": "раз (во сколько-то)"
+      },
+      {
+        "jp": "シングル",
+        "uz": "bir kishilik xona",
+        "en": "single room",
+        "ru": "одноместный номер"
+      },
+      {
+        "jp": "ツイン",
+        "uz": "ikki kishilik xona",
+        "en": "twin room",
+        "ru": "двухместный номер"
+      },
+      {
+        "jp": "せんたくもの",
+        "uz": "yuviladigan kir",
+        "en": "laundry",
+        "ru": "бельё для стирки"
+      },
+      {
+        "jp": "DVD",
+        "uz": "DVD",
+        "en": "DVD",
+        "ru": "DVD"
+      },
+      {
+        "jp": "どうなさいますか。",
+        "uz": "Nima buyurasiz?",
+        "en": "What would you like?",
+        "ru": "Что вы желаете?"
+      },
+      {
+        "jp": "カット",
+        "uz": "kaltalatish",
+        "en": "haircut",
+        "ru": "стрижка"
+      },
+      {
+        "jp": "シャンプー",
+        "uz": "shampun",
+        "en": "shampoo",
+        "ru": "шампунь"
+      },
+      {
+        "jp": "どういうふうになさいますか。",
+        "uz": "Qanday bo‘lishini xohlar edingiz?",
+        "en": "How would you like it?",
+        "ru": "Как вы хотите?"
+      },
+      {
+        "jp": "ショート",
+        "uz": "qisqa",
+        "en": "short",
+        "ru": "короткий"
+      },
+      {
+        "jp": "〜みたいにしてください。",
+        "uz": "～dek qilib qo‘ying.",
+        "en": "Please make it like ～.",
+        "ru": "Сделайте как ～."
+      },
+      {
+        "jp": "これでよろしいでしょうか。",
+        "uz": "Bunga nima deysiz?",
+        "en": "Is this all right?",
+        "ru": "Так пойдёт?"
+      },
+      {
+        "jp": "[どうも]おつかれさまでした。",
+        "uz": "[Rahmat] o‘z ishingizni tamomladingiz.",
+        "en": "[Thank you] for your hard work.",
+        "ru": "[Спасибо] за ваш труд."
+      },
+      {
+        "jp": "いやがります",
+        "uz": "yoqtirmaslik",
+        "en": "to dislike, hate",
+        "ru": "недолюбливать, не любить"
+      },
+      {
+        "jp": "また",
+        "uz": "shuningdek, yana",
+        "en": "also, again",
+        "ru": "также, снова"
+      },
+      {
+        "jp": "うまく",
+        "uz": "ustalik bilan bajarmoq",
+        "en": "skillfully, well",
+        "ru": "умело, хорошо"
+      },
+      {
+        "jp": "じゅんじょ",
+        "uz": "tartib",
+        "en": "order, sequence",
+        "ru": "порядок, последовательность"
+      },
+      {
+        "jp": "あんしん［な］",
+        "uz": "Xotirjam bo‘lmoq",
+        "en": "relieved, at ease",
+        "ru": "спокойный"
+      },
+      {
+        "jp": "ひょうげん",
+        "uz": "ifoda",
+        "en": "expression",
+        "ru": "выражение"
+      },
+      {
+        "jp": "たとえば",
+        "uz": "masalan, misol uchun",
+        "en": "for example",
+        "ru": "например"
+      },
+      {
+        "jp": "わかれます",
+        "uz": "ajrashmoq",
+        "en": "to separate, part",
+        "ru": "расставаться"
+      },
+      {
+        "jp": "これら",
+        "uz": "bular",
+        "en": "these",
+        "ru": "эти"
+      },
+      {
+        "jp": "えんぎがわるい",
+        "uz": "omadi yurishmagan",
+        "en": "unlucky, bad omen",
+        "ru": "плохая примета"
+      }
+    ]
+  },
+  {
+    "lesson": 45,
+    "data": [
+      {
+        "jp": "しんじます",
+        "uz": "ishonmoq",
+        "en": "to believe, trust",
+        "ru": "верить"
+      },
+      {
+        "jp": "キャンセルします",
+        "uz": "bekor qilmoq",
+        "en": "to cancel",
+        "ru": "отменять"
+      },
+      {
+        "jp": "しらせます",
+        "uz": "bildirmoq",
+        "en": "to inform, notify",
+        "ru": "сообщать"
+      },
+      {
+        "jp": "ほしょうしょ",
+        "uz": "kafolat qog‘ozi",
+        "en": "warranty certificate",
+        "ru": "гарантийный талон"
+      },
+      {
+        "jp": "りょうしゅうしょ",
+        "uz": "chek qog‘ozi",
+        "en": "receipt",
+        "ru": "квитанция, чек"
+      },
+      {
+        "jp": "キャンプ",
+        "uz": "oromgoh, lager",
+        "en": "camp",
+        "ru": "лагерь"
+      },
+      {
+        "jp": "ちゅうし",
+        "uz": "qoldirilish, bekor qilish",
+        "en": "cancellation, suspension",
+        "ru": "отмена, приостановка"
+      },
+      {
+        "jp": "てん",
+        "uz": "baho",
+        "en": "point, score",
+        "ru": "оценка, балл"
+      },
+      {
+        "jp": "うめ",
+        "uz": "dengiz",
+        "en": "sea",
+        "ru": "море"
+      },
+      {
+        "jp": "１１０ばん",
+        "uz": "110 xona",
+        "en": "110 (police emergency number in Japan)",
+        "ru": "110 (полиция в Японии)"
+      },
+      {
+        "jp": "１１９ばん",
+        "uz": "119 xona",
+        "en": "119 (fire/ambulance emergency number in Japan)",
+        "ru": "119 (пожарная/скорая помощь в Японии)"
+      },
+      {
+        "jp": "きゅうに",
+        "uz": "birdaniga",
+        "en": "suddenly",
+        "ru": "вдруг, внезапно"
+      },
+      {
+        "jp": "むりに",
+        "uz": "befoyda",
+        "en": "by force, unreasonably",
+        "ru": "насильно, без пользы"
+      },
+      {
+        "jp": "たのしみにしています",
+        "uz": "intiqlik bilan kutmoq",
+        "en": "to look forward to",
+        "ru": "с нетерпением ждать"
+      },
+      {
+        "jp": "いじょうです。",
+        "uz": "Tamom.",
+        "en": "That's all.",
+        "ru": "Это всё."
+      },
+      {
+        "jp": "かかりいん",
+        "uz": "mas’ul xodim, javobgar shaxs",
+        "en": "person in charge",
+        "ru": "ответственный сотрудник"
+      },
+      {
+        "jp": "スタート",
+        "uz": "boshlanish",
+        "en": "start",
+        "ru": "старт"
+      },
+      {
+        "jp": "―い",
+        "uz": "－o‘rin",
+        "en": "place (ranking)",
+        "ru": "место (в соревновании)"
+      },
+      {
+        "jp": "ゆうしょうします",
+        "uz": "g‘alaba qozonmoq, g‘olib bo‘lmoq",
+        "en": "to win, to be victorious",
+        "ru": "побеждать"
+      },
+      {
+        "jp": "なやみ",
+        "uz": "g‘am-g‘ussa",
+        "en": "worry, trouble",
+        "ru": "беспокойство, проблема"
+      },
+      {
+        "jp": "めざまし［どけい］",
+        "uz": "qo‘ng‘iroqli soat (budilnik)",
+        "en": "alarm clock",
+        "ru": "будильник"
+      },
+      {
+        "jp": "めがさめます",
+        "uz": "uyg‘onmoq",
+        "en": "to wake up",
+        "ru": "просыпаться"
+      },
+      {
+        "jp": "だいがくせい",
+        "uz": "universitet talabasi",
+        "en": "university student",
+        "ru": "студент университета"
+      },
+      {
+        "jp": "かいとう",
+        "uz": "javob",
+        "en": "answer",
+        "ru": "ответ"
+      },
+      {
+        "jp": "なります",
+        "uz": "jiringlamoq",
+        "en": "to ring (bell, alarm)",
+        "ru": "звонить (о часах, звонке)"
+      },
+      {
+        "jp": "セットします",
+        "uz": "(soatni qo‘ng‘iroqqa) qo‘ymoq",
+        "en": "to set (an alarm)",
+        "ru": "заводить (будильник)"
+      },
+      {
+        "jp": "それでも",
+        "uz": "shunda ham",
+        "en": "nevertheless, even so",
+        "ru": "тем не менее"
+      }
+    ]
+  },
+  {
+    "lesson": 46,
+    "data": [
+      {
+        "jp": "わたします",
+        "uz": "topshirmoq, bermoq",
+        "en": "to hand over, deliver",
+        "ru": "передавать"
+      },
+      {
+        "jp": "かえってきます",
+        "uz": "qaytib kelmoq",
+        "en": "to return, come back",
+        "ru": "возвращаться"
+      },
+      {
+        "jp": "でます［バスが〜］",
+        "uz": "yo‘lga chiqmoq (avtobus)",
+        "en": "to depart (a bus)",
+        "ru": "отправляться (автобус)"
+      },
+      {
+        "jp": "とどきます［にもつが〜］",
+        "uz": "yetib bormoq (yuk yetib bormoq)",
+        "en": "to be delivered, arrive (package)",
+        "ru": "доставляться, прибывать (посылка)"
+      },
+      {
+        "jp": "にゅうがくします［だいがくに〜］",
+        "uz": "o‘qishga kirmoq (universitetga kirmoq)",
+        "en": "to enter university",
+        "ru": "поступать в университет"
+      },
+      {
+        "jp": "そつぎょうします［だいがくを〜］",
+        "uz": "o‘qishni bitirmoq (universitetni bitirmoq)",
+        "en": "to graduate (from university)",
+        "ru": "оканчивать университет"
+      },
+      {
+        "jp": "やきます",
+        "uz": "pishirmoq",
+        "en": "to bake, grill, roast",
+        "ru": "жарить, печь"
+      },
+      {
+        "jp": "やけます［パンが〜］［にくが〜］",
+        "uz": "pishmoq (non pishmoq, go‘sht pishmoq)",
+        "en": "to be baked, roasted (bread/meat)",
+        "ru": "печься, жариться (хлеб, мясо)"
+      },
+      {
+        "jp": "るす",
+        "uz": "bo‘lmaslik",
+        "en": "absence (from home)",
+        "ru": "отсутствие"
+      },
+      {
+        "jp": "たくはいびん",
+        "uz": "yetkazib berish xizmati",
+        "en": "delivery service",
+        "ru": "служба доставки"
+      },
+      {
+        "jp": "げんいん",
+        "uz": "sabab",
+        "en": "cause, reason",
+        "ru": "причина"
+      },
+      {
+        "jp": "こちら",
+        "uz": "bu yer",
+        "en": "this way, here",
+        "ru": "здесь, эта сторона"
+      },
+      {
+        "jp": "〜のところ",
+        "uz": "～joy",
+        "en": "the place of ～",
+        "ru": "место ～"
+      },
+      {
+        "jp": "はんとし",
+        "uz": "yarim yil",
+        "en": "half a year",
+        "ru": "полгода"
+      },
+      {
+        "jp": "ちょうど",
+        "uz": "ayni",
+        "en": "just, exactly",
+        "ru": "как раз, точно"
+      },
+      {
+        "jp": "たったいま",
+        "uz": "hozirgina",
+        "en": "just now",
+        "ru": "только что"
+      },
+      {
+        "jp": "いま いいですか。",
+        "uz": "hozir sizning vaqtingiz bormi?",
+        "en": "Do you have a moment now?",
+        "ru": "Вы сейчас свободны?"
+      },
+      {
+        "jp": "ガスサービスセンター",
+        "uz": "Gaz Xizmati Markazi",
+        "en": "Gas Service Center",
+        "ru": "Газовая служба"
+      },
+      {
+        "jp": "ガスレンジ",
+        "uz": "gaz plitasi",
+        "en": "gas stove",
+        "ru": "газовая плита"
+      },
+      {
+        "jp": "ぐあい",
+        "uz": "ahvol",
+        "en": "condition, state",
+        "ru": "состояние"
+      },
+      {
+        "jp": "もうしわけありません。",
+        "uz": "kechirasiz",
+        "en": "I’m sorry, excuse me",
+        "ru": "извините, прошу прощения"
+      },
+      {
+        "jp": "どちらさまでしょうか。",
+        "uz": "Kechirasiz, kim bo‘lasiz?",
+        "en": "May I ask who is calling?",
+        "ru": "Кто говорит?"
+      },
+      {
+        "jp": "おまたせしました。",
+        "uz": "Kechiring, kuttirib qo‘ydim.",
+        "en": "Sorry to have kept you waiting",
+        "ru": "Извините, что заставил ждать"
+      },
+      {
+        "jp": "むかいます",
+        "uz": "yo‘nalmoq",
+        "en": "to head towards",
+        "ru": "направляться"
+      },
+      {
+        "jp": "ついています",
+        "uz": "omadli",
+        "en": "to be lucky",
+        "ru": "везёт"
+      },
+      {
+        "jp": "ゆか",
+        "uz": "pol",
+        "en": "floor",
+        "ru": "пол"
+      },
+      {
+        "jp": "ころびます",
+        "uz": "yiqilmoq",
+        "en": "to fall down",
+        "ru": "падать"
+      },
+      {
+        "jp": "ベル",
+        "uz": "qo‘ng‘iroq [uyniki]",
+        "en": "bell (doorbell)",
+        "ru": "звонок (дверной)"
+      },
+      {
+        "jp": "なります",
+        "uz": "jiringlamoq",
+        "en": "to ring, sound",
+        "ru": "звенеть"
+      },
+      {
+        "jp": "あわてて",
+        "uz": "shoshmoq, panika",
+        "en": "in a hurry, in panic",
+        "ru": "в спешке, в панике"
+      },
+      {
+        "jp": "じゅんばんに",
+        "uz": "ochered, navbat, tartib",
+        "en": "in order, turn by turn",
+        "ru": "по очереди, по порядку"
+      },
+      {
+        "jp": "できごと",
+        "uz": "voqea",
+        "en": "event, incident",
+        "ru": "событие"
+      }
+    ]
+  },
+  {
+    "lesson": 47,
+    "data": [
+      {
+        "jp": "ふきます［かぜが〜］",
+        "uz": "esmoq (shamol esmoq)",
+        "en": "to blow (wind)",
+        "ru": "дуть (ветер)"
+      },
+      {
+        "jp": "もえます［ごみが〜］",
+        "uz": "yondirmoq (axlatni)",
+        "en": "to burn (trash)",
+        "ru": "гореть (мусор)"
+      },
+      {
+        "jp": "なくなります［亡くなります］",
+        "uz": "vafot etmoq, qazo qilmoq",
+        "en": "to pass away",
+        "ru": "умереть"
+      },
+      {
+        "jp": "あつまります［ひとが〜］",
+        "uz": "yig‘ilmoq (odamlar yig‘ilmoq)",
+        "en": "to gather (people)",
+        "ru": "собираться (люди)"
+      },
+      {
+        "jp": "わかれます［ひとが〜］",
+        "uz": "ajrashmoq, tarqalmoq (odam tarqalmoq)",
+        "en": "to part, separate (people)",
+        "ru": "расставаться, расходиться (люди)"
+      },
+      {
+        "jp": "します［おと／こえが〜］［あじが〜］［においが〜］",
+        "uz": "qilmoq, bajarmoq (tovush, ovoz eshitilmoq, ～ning mazasi kelayapti, ～ning hidi kelayapti)",
+        "en": "to make (a sound/voice), to taste, to smell",
+        "ru": "издавать (звук/голос), иметь вкус, иметь запах"
+      },
+      {
+        "jp": "きびしい",
+        "uz": "qattiqqo‘l",
+        "en": "strict, severe",
+        "ru": "строгий"
+      },
+      {
+        "jp": "ひどい",
+        "uz": "dahshatli, berahm",
+        "en": "terrible, cruel",
+        "ru": "ужасный, жестокий"
+      },
+      {
+        "jp": "こわい",
+        "uz": "qo‘rqinchli",
+        "en": "scary, frightening",
+        "ru": "страшный"
+      },
+      {
+        "jp": "じっけん",
+        "uz": "tajriba",
+        "en": "experiment",
+        "ru": "эксперимент"
+      },
+      {
+        "jp": "データ",
+        "uz": "ma’lumot",
+        "en": "data",
+        "ru": "данные"
+      },
+      {
+        "jp": "じんこう",
+        "uz": "aholi",
+        "en": "population",
+        "ru": "население"
+      },
+      {
+        "jp": "におい",
+        "uz": "hid",
+        "en": "smell, odor",
+        "ru": "запах"
+      },
+      {
+        "jp": "かがく",
+        "uz": "fan",
+        "en": "science",
+        "ru": "наука"
+      },
+      {
+        "jp": "いがく",
+        "uz": "tibbiyot",
+        "en": "medicine (study of)",
+        "ru": "медицина"
+      },
+      {
+        "jp": "ぶんがく",
+        "uz": "adabiyot",
+        "en": "literature",
+        "ru": "литература"
+      },
+      {
+        "jp": "パトカー",
+        "uz": "patrul mashinasi",
+        "en": "patrol car, police car",
+        "ru": "патрульная машина"
+      },
+      {
+        "jp": "きゅうきゅうしゃ",
+        "uz": "tez yordam mashinasi",
+        "en": "ambulance",
+        "ru": "скорая помощь"
+      },
+      {
+        "jp": "さんせい",
+        "uz": "rozilik",
+        "en": "approval, agreement",
+        "ru": "согласие"
+      },
+      {
+        "jp": "はんたい",
+        "uz": "qarshilik",
+        "en": "opposition, objection",
+        "ru": "против"
+      },
+      {
+        "jp": "だいとうりょう",
+        "uz": "prezident",
+        "en": "president",
+        "ru": "президент"
+      },
+      {
+        "jp": "〜に よると",
+        "uz": "～ga qaraganda, ～i bo‘yicha",
+        "en": "according to ～",
+        "ru": "согласно ～"
+      },
+      {
+        "jp": "こんやくします",
+        "uz": "unashilmoq",
+        "en": "to get engaged",
+        "ru": "обручиться"
+      },
+      {
+        "jp": "どうも",
+        "uz": "aftidan (taxminni ifodalaydi)",
+        "en": "it seems, apparently",
+        "ru": "похоже, видимо"
+      },
+      {
+        "jp": "こいびと",
+        "uz": "sevgikli yor, ma’shuqa",
+        "en": "lover, sweetheart",
+        "ru": "возлюбленный, возлюбленная"
+      },
+      {
+        "jp": "あいて",
+        "uz": "sherik",
+        "en": "partner, companion",
+        "ru": "партнёр, собеседник"
+      },
+      {
+        "jp": "しりあいます",
+        "uz": "tanishmoq",
+        "en": "to get acquainted",
+        "ru": "познакомиться"
+      },
+      {
+        "jp": "けしょう",
+        "uz": "kosmetika, pardoz (〜をします pardoz qilmoq)",
+        "en": "make-up, cosmetics",
+        "ru": "макияж, косметика"
+      },
+      {
+        "jp": "せわをします",
+        "uz": "g‘amxo‘rlik qilmoq",
+        "en": "to take care of",
+        "ru": "заботиться"
+      },
+      {
+        "jp": "じょせい",
+        "uz": "ayol",
+        "en": "woman, female",
+        "ru": "женщина"
+      },
+      {
+        "jp": "だんせい",
+        "uz": "erkak",
+        "en": "man, male",
+        "ru": "мужчина"
+      },
+      {
+        "jp": "ながいき",
+        "uz": "uzoq umr ko‘rmoq",
+        "en": "long life, longevity",
+        "ru": "долгая жизнь"
+      },
+      {
+        "jp": "りゆう",
+        "uz": "sabab",
+        "en": "reason",
+        "ru": "причина"
+      },
+      {
+        "jp": "かんけい",
+        "uz": "aloqa",
+        "en": "relation, connection",
+        "ru": "связь, отношение"
+      }
+    ]
+  },
+  {
+    "lesson": 48,
+    "data": [
+      {
+        "jp": "おろします",
+        "uz": "tushirmoq",
+        "en": "to unload, take down",
+        "ru": "снимать, опускать"
+      },
+      {
+        "jp": "とどけます",
+        "uz": "yubormoq, olib borib bermoq",
+        "en": "to deliver, send",
+        "ru": "доставлять, отправлять"
+      },
+      {
+        "jp": "せわをします",
+        "uz": "g‘amxo‘rlik qilmoq",
+        "en": "to take care of",
+        "ru": "заботиться"
+      },
+      {
+        "jp": "ろくおんします",
+        "uz": "ovoz yozmoq",
+        "en": "to record (sound)",
+        "ru": "записывать (звук)"
+      },
+      {
+        "jp": "いや［な］",
+        "uz": "yoqimsiz",
+        "en": "unpleasant, disagreeable",
+        "ru": "неприятный"
+      },
+      {
+        "jp": "じゅく",
+        "uz": "tayyorlov kurslari",
+        "en": "cram school",
+        "ru": "подготовительные курсы"
+      },
+      {
+        "jp": "せいと",
+        "uz": "o‘quvchi",
+        "en": "student, pupil",
+        "ru": "ученик"
+      },
+      {
+        "jp": "ファイル",
+        "uz": "fayl",
+        "en": "file",
+        "ru": "файл"
+      },
+      {
+        "jp": "じゆうに",
+        "uz": "bemalol, erkin",
+        "en": "freely",
+        "ru": "свободно"
+      },
+      {
+        "jp": "〜かん",
+        "uz": "～(vaqt) mobaynida",
+        "en": "for (a duration of time)",
+        "ru": "в течение (времени)"
+      },
+      {
+        "jp": "いいことです",
+        "uz": "Yaxshi bo‘pti.",
+        "en": "That’s good.",
+        "ru": "Хорошо."
+      },
+      {
+        "jp": "おいそがしいですか",
+        "uz": "Bandmisiz?",
+        "en": "Are you busy?",
+        "ru": "Вы заняты?"
+      },
+      {
+        "jp": "えいぎょう",
+        "uz": "tijorat ishlari",
+        "en": "business, sales",
+        "ru": "торговля, бизнес"
+      },
+      {
+        "jp": "それまでに",
+        "uz": "ungacha",
+        "en": "by that time, before then",
+        "ru": "к тому времени"
+      },
+      {
+        "jp": "かまいません",
+        "uz": "Qarshi emasman. Menga farqi yo‘q.",
+        "en": "I don’t mind. It’s okay.",
+        "ru": "Не возражаю. Всё равно."
+      },
+      {
+        "jp": "たのしみます",
+        "uz": "bahra olmoq, zavqlanmoq",
+        "en": "to enjoy",
+        "ru": "наслаждаться"
+      },
+      {
+        "jp": "おや",
+        "uz": "ota-ona",
+        "en": "parent(s)",
+        "ru": "родители"
+      },
+      {
+        "jp": "しょうがくせい",
+        "uz": "boshlang‘ich sinf o‘quvchisi",
+        "en": "elementary school student",
+        "ru": "ученик начальной школы"
+      },
+      {
+        "jp": "―パーセント",
+        "uz": "foiz, protsent",
+        "en": "percent",
+        "ru": "процент"
+      },
+      {
+        "jp": "そのつぎ",
+        "uz": "shundan so‘ng",
+        "en": "next, after that",
+        "ru": "после этого, следующий"
+      },
+      {
+        "jp": "しゅうじ",
+        "uz": "kaligrafiya",
+        "en": "calligraphy",
+        "ru": "каллиграфия"
+      },
+      {
+        "jp": "ふつうの",
+        "uz": "oddiy, odatdagi",
+        "en": "ordinary, usual",
+        "ru": "обычный"
+      }
+    ]
+  },
+  {
+    "lesson": 49,
+    "data": [
+      {
+        "jp": "りようします",
+        "uz": "foydalanmoq, ishlatmoq",
+        "en": "to use, make use of",
+        "ru": "пользоваться, использовать"
+      },
+      {
+        "jp": "つとめます",
+        "uz": "ishlamoq [firmada ishlamoq]",
+        "en": "to work (for a company)",
+        "ru": "работать (в фирме)"
+      },
+      {
+        "jp": "かけます",
+        "uz": "o‘tirmoq",
+        "en": "to sit down",
+        "ru": "садиться"
+      },
+      {
+        "jp": "すごします",
+        "uz": "o‘tkazmoq (vaqtni)",
+        "en": "to spend (time)",
+        "ru": "проводить (время)"
+      },
+      {
+        "jp": "いらっしゃいます",
+        "uz": "bo‘lmoq, bormoq, kelmoq (hurmat shakli)",
+        "en": "to be, go, come (honorific)",
+        "ru": "быть, идти, приходить (уваж.)"
+      },
+      {
+        "jp": "めしあがります",
+        "uz": "yemoq, ichmoq (hurmat shakli)",
+        "en": "to eat, drink (honorific)",
+        "ru": "есть, пить (уваж.)"
+      },
+      {
+        "jp": "おっしゃいます",
+        "uz": "gapirmoq (hurmat shakli)",
+        "en": "to say (honorific)",
+        "ru": "говорить (уваж.)"
+      },
+      {
+        "jp": "なさいます",
+        "uz": "qilmoq (hurmat shakli)",
+        "en": "to do (honorific)",
+        "ru": "делать (уваж.)"
+      },
+      {
+        "jp": "ごらんに なります",
+        "uz": "ko‘rmoq (hurmat shakli)",
+        "en": "to see, watch (honorific)",
+        "ru": "смотреть, видеть (уваж.)"
+      },
+      {
+        "jp": "ごぞんじです",
+        "uz": "bilmoq (hurmat shakli)",
+        "en": "to know (honorific)",
+        "ru": "знать (уваж.)"
+      },
+      {
+        "jp": "あいさつ",
+        "uz": "ko‘rishish",
+        "en": "greeting",
+        "ru": "приветствие"
+      },
+      {
+        "jp": "りょかん",
+        "uz": "yapon milliy mehmonxonasi",
+        "en": "Japanese inn",
+        "ru": "японская гостиница (рёкан)"
+      },
+      {
+        "jp": "おくさま",
+        "uz": "xonim (turmush qurgan ayolga murojat)",
+        "en": "wife (honorific)",
+        "ru": "супруга (уваж.)"
+      },
+      {
+        "jp": "〜さま",
+        "uz": "～ning hurmat shakli",
+        "en": "Mr./Ms. (honorific suffix)",
+        "ru": "господин/госпожа (уваж.)"
+      },
+      {
+        "jp": "たまに",
+        "uz": "kamdan kam",
+        "en": "occasionally, rarely",
+        "ru": "изредка"
+      },
+      {
+        "jp": "どなたでも",
+        "uz": "kim bo‘lsa ham (hurmat shakli)",
+        "en": "anyone (honorific)",
+        "ru": "кто угодно (уваж.)"
+      },
+      {
+        "jp": "〜と いいます",
+        "uz": "~deb aytmoq",
+        "en": "to be called, to say",
+        "ru": "называться, говорить"
+      },
+      {
+        "jp": "―ねん―くみ",
+        "uz": "-sinf，-guruh",
+        "en": "class (year – group)",
+        "ru": "класс, группа"
+      },
+      {
+        "jp": "だします",
+        "uz": "isitmasi chiqmoq",
+        "en": "to have (a fever)",
+        "ru": "подниматься (о температуре)"
+      },
+      {
+        "jp": "よろしく おつたえください",
+        "uz": "Salom deb qo‘ying",
+        "en": "Please give my regards",
+        "ru": "Передайте привет, пожалуйста"
+      },
+      {
+        "jp": "しつれいいたします",
+        "uz": "Xayr",
+        "en": "Excuse me / Goodbye (polite)",
+        "ru": "Извините / До свидания (вежл.)"
+      },
+      {
+        "jp": "けいれき",
+        "uz": "avtobiografiya",
+        "en": "personal history, career",
+        "ru": "биография, карьера"
+      },
+      {
+        "jp": "いがくぶ",
+        "uz": "tibbiyot fakulteti",
+        "en": "medical department",
+        "ru": "медицинский факультет"
+      },
+      {
+        "jp": "めざします",
+        "uz": "maqsad qo‘ymoq",
+        "en": "to aim at, aspire to",
+        "ru": "стремиться, ставить целью"
+      },
+      {
+        "jp": "すすみます",
+        "uz": "progress olg‘a intilmoq",
+        "en": "to advance, make progress",
+        "ru": "продвигаться, развиваться"
+      },
+      {
+        "jp": "iPSさいぼう",
+        "uz": "IPS hujayra",
+        "en": "iPS cell",
+        "ru": "iPS-клетка"
+      },
+      {
+        "jp": "かいはつします",
+        "uz": "erishmoq ishlab topmoq",
+        "en": "to develop, invent",
+        "ru": "разрабатывать, изобретать"
+      },
+      {
+        "jp": "マウス",
+        "uz": "sichqon",
+        "en": "mouse",
+        "ru": "мышь"
+      },
+      {
+        "jp": "ヒト",
+        "uz": "odamsifat",
+        "en": "human",
+        "ru": "человек"
+      },
+      {
+        "jp": "じゅしょうします",
+        "uz": "mukofot olmoq",
+        "en": "to be awarded, receive a prize",
+        "ru": "получать награду"
+      },
+      {
+        "jp": "こうえんかい",
+        "uz": "Ma’ruza qilmoq. leksiya",
+        "en": "lecture meeting",
+        "ru": "лекция, собрание"
+      },
+      {
+        "jp": "やまなか しんや",
+        "uz": "Yamanaka Shinya (ism)",
+        "en": "Yamanaka Shinya (name)",
+        "ru": "Яманака Синъя (имя)"
+      },
+      {
+        "jp": "ノーベルしょう",
+        "uz": "Nobel mukofoti",
+        "en": "Nobel Prize",
+        "ru": "Нобелевская премия"
+      }
+    ]
+  },
+  {
+    "lesson": 50,
+    "data": [
+      {
+        "jp": "まいります",
+        "uz": "bormoq, kelmoq (いきます，きますning kamtarinlik shakli)",
+        "en": "to go, to come (humble form of いきます, きます)",
+        "ru": "идти, приходить (скромная форма いきます, きます)"
+      },
+      {
+        "jp": "おります",
+        "uz": "bo‘lmoq (いますning kamtarinlik shakli)",
+        "en": "to be (humble form of います)",
+        "ru": "быть (скромная форма います)"
+      },
+      {
+        "jp": "いただきます",
+        "uz": "yemoq, ichmoq, olmoq (たべます，のみます，もらいますning kamtarinlik shakli)",
+        "en": "to eat, drink, receive (humble form of たべます, のみます, もらいます)",
+        "ru": "есть, пить, получать (скромная форма たべます, のみます, もらいます)"
+      },
+      {
+        "jp": "もうします",
+        "uz": "gapirmoq (いいますning kamtarinlik shakli)",
+        "en": "to say (humble form of いいます)",
+        "ru": "говорить (скромная форма いいます)"
+      },
+      {
+        "jp": "いたします",
+        "uz": "qilmoq (しますning kamtarinlik shakli)",
+        "en": "to do (humble form of します)",
+        "ru": "делать (скромная форма します)"
+      },
+      {
+        "jp": "はいけんします",
+        "uz": "ko‘rmoq (みますning kamtarinlik shakli)",
+        "en": "to see, look (humble form of みます)",
+        "ru": "смотреть (скромная форма みます)"
+      },
+      {
+        "jp": "ぞんじます",
+        "uz": "bilmoq (しりますning kamtarinlik shakli)",
+        "en": "to know (humble form of しります)",
+        "ru": "знать (скромная форма しります)"
+      },
+      {
+        "jp": "うかがいます",
+        "uz": "eshitmoq, bormoq (ききます，いきますning kamtarinlik shakli)",
+        "en": "to ask, to visit (humble form of ききます, いきます)",
+        "ru": "спрашивать, посещать (скромная форма ききます, いきます)"
+      },
+      {
+        "jp": "おめに かかります",
+        "uz": "uchrashmoq (あいますning kamtarinlik shakli)",
+        "en": "to meet (humble form of あいます)",
+        "ru": "встречаться (скромная форма あいます)"
+      },
+      {
+        "jp": "いれます",
+        "uz": "kofe quymoq",
+        "en": "to make coffee",
+        "ru": "делать кофе"
+      },
+      {
+        "jp": "よういします",
+        "uz": "tayyorlamoq, taxt qilmoq",
+        "en": "to prepare",
+        "ru": "готовить, подготовить"
+      },
+      {
+        "jp": "おたく",
+        "uz": "(birovning) uyi",
+        "en": "(someone's) home",
+        "ru": "(чей-то) дом"
+      },
+      {
+        "jp": "郊外",
+        "uz": "shahar cheti",
+        "en": "suburb, outskirts",
+        "ru": "пригород, окраина"
+      },
+      {
+        "jp": "アルバム",
+        "uz": "albom",
+        "en": "album",
+        "ru": "альбом"
+      },
+      {
+        "jp": "わたくし",
+        "uz": "men (わたしning kamtarinlik shakli)",
+        "en": "I (humble form of わたし)",
+        "ru": "я (скромная форма わたし)"
+      },
+      {
+        "jp": "ガイド",
+        "uz": "gid, yo‘l boshlovchi",
+        "en": "guide",
+        "ru": "гид"
+      },
+      {
+        "jp": "メールアドレス",
+        "uz": "email addres",
+        "en": "email address",
+        "ru": "электронная почта"
+      },
+      {
+        "jp": "スケジュール",
+        "uz": "jadval",
+        "en": "schedule",
+        "ru": "расписание"
+      },
+      {
+        "jp": "さらいしゅう",
+        "uz": "ikki hafta keyin",
+        "en": "week after next",
+        "ru": "через две недели"
+      },
+      {
+        "jp": "さらいげつ",
+        "uz": "ikki oy keyin",
+        "en": "two months later",
+        "ru": "через два месяца"
+      },
+      {
+        "jp": "さらいねん",
+        "uz": "ikki yil keyin",
+        "en": "two years later",
+        "ru": "через два года"
+      },
+      {
+        "jp": "はじめに",
+        "uz": "avval, avvalam bor, boshlab",
+        "en": "first of all, in the beginning",
+        "ru": "сначала, в начале"
+      },
+      {
+        "jp": "えどとうきょうはくぶつかん",
+        "uz": "Edo-Tokio muzeyi",
+        "en": "Edo-Tokyo Museum",
+        "ru": "Музей Эдо-Токио"
+      },
+      {
+        "jp": "きんちょうします",
+        "uz": "hayajonlanmoq",
+        "en": "to be nervous",
+        "ru": "нервничать"
+      },
+      {
+        "jp": "しょうきん",
+        "uz": "mukofot puli",
+        "en": "prize money",
+        "ru": "денежная премия"
+      },
+      {
+        "jp": "きりん",
+        "uz": "jirafa",
+        "en": "giraffe",
+        "ru": "жираф"
+      },
+      {
+        "jp": "ころ",
+        "uz": "～vaqti，～payt",
+        "en": "time, period",
+        "ru": "время, период"
+      },
+      {
+        "jp": "かないます",
+        "uz": "ushalmoq, ro‘yobga chiqmoq (orzu～)",
+        "en": "to come true (dreams, wishes)",
+        "ru": "сбываться (о мечте)"
+      },
+      {
+        "jp": "おうえんします",
+        "uz": "qarsak chalib qo‘llamoq",
+        "en": "to support, cheer",
+        "ru": "поддерживать, аплодировать"
+      },
+      {
+        "jp": "こころから",
+        "uz": "qalbdan, yurakdan",
+        "en": "from the heart",
+        "ru": "от сердца"
+      },
+      {
+        "jp": "かんしゃします",
+        "uz": "minnatdorchilik bildirmoq",
+        "en": "to be grateful, thank",
+        "ru": "благодарить"
+      },
+      {
+        "jp": "おれい",
+        "uz": "minnatdorchilik",
+        "en": "thanks, gratitude",
+        "ru": "благодарность"
+      },
+      {
+        "jp": "おげんきで いらっしゃいますか。",
+        "uz": "Sog‘-salomatmisiz?",
+        "en": "How are you? (honorific)",
+        "ru": "Как ваши дела? (уваж.)"
+      },
+      {
+        "jp": "めいわくを かけます",
+        "uz": "bezovta qilmoq",
+        "en": "to cause trouble, bother",
+        "ru": "доставлять беспокойство"
+      },
+      {
+        "jp": "いかします",
+        "uz": "foydalanmoq (tajribadan)",
+        "en": "to make use of (experience)",
+        "ru": "использовать (опыт)"
+      }
+    ]
+  }
+]
